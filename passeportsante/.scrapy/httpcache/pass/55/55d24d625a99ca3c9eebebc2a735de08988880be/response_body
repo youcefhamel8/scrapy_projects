@@ -1,0 +1,1053 @@
+
+
+<!DOCTYPE html>
+
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	Bronchite chronique et emphysème (BPCO)
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui" /><meta name="apple-mobile-web-app-capable" content="yes" /><meta name="mobile-web-app-capable" content="yes" /><meta name="theme-color" content="#2688c9" /><meta name="google-site-verification" content="CXFvwzCk2DPKvg-WWaEEn4M4nRY8QFXzL9VimLvYYts" /><meta name="language" content="fr" /><link rel="shortcut icon" href="../../../favicon.ico" type="image/x-icon" />
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat:700|Open+Sans:300;400,600,700" rel="stylesheet">
+<link rel="stylesheet" href="https://static.passeportsante.net/resources/src/css/style.min.css?ver=1563787380" />
+
+<script src="https://www.passeportsante.net/handlers/js/clienttarget.js?ver=1517495753" type="text/javascript"></script>
+<meta property="fb:admins" content="1429380296" /><meta property="fb:app_id" content="242901335829574" /><meta property="og:title" content="Bronchopneumopathie chronique obstructive : tout sur la BPCO" /><meta property="og:image" content="https://static.passeportsante.net/i42149-bronchite-chronique-et-emphyseme-bpco.jpg" /><meta property="og:url" content="https://www.passeportsante.net/fr/Maux/Problemes/Fiche.aspx?doc=bronchite_chronique_emphyseme_pm" /><meta property="og:site_name" content="https://www.passeportsante.net/" /><meta property="og:type" content="article" /><meta property="og:description" content="Le nom « maladie pulmonaire obstructive chronique » ou BPCO désigne un ensemble de problèmes respiratoires graves et irréversibles. Les principaux sont la bronchite chronique et l’emphysème. Les symptômes débutent rarement avant la cinquantaine." /><meta property="article:published_time" content="2012-11-28T23:00:00.0000000Z" />
+    <script type="text/javascript">
+	var _activeAdslots = ["leadgen1","leadgen2","oop","oop_bis","leaderboardTop","leaderboardMiddle","formatNatif","mpuTop","espace_malin","mpuMiddle"];
+	var _networkCode=42159803;
+	var _adunitCode='PASSEPORTSANTE/rotationgenerale';
+	var pageCriterias = [{'name':"sec",'value':["F","MAU","DPM","bronchite-chronique-et-emphyseme-bpco","IND"]}];
+
+</script>
+    
+
+    <script type="text/javascript">
+        function getDefinition(mot) {
+            $.ajax({
+                url: '/services/getGlossaire.aspx?mot=' + mot,
+                type: "get",
+                success: function (data) {
+                    $('#dHTMLToolTip').html(data);
+                }
+            });
+            return 'Chargement en cours...';
+        }
+    </script>
+<link href="/fr/Maux/Problemes/Fiche.aspx?doc=bronchite-chronique-emphyseme-pm-symptomes-de-la-mpoc" rel="next" /><meta name="description" content="Le nom « maladie pulmonaire obstructive chronique » ou BPCO désigne un ensemble de problèmes respiratoires graves et irréversibles. Les principaux sont la bronchite chronique et l’emphysème. Les symptômes débutent rarement avant la cinquantaine." /><meta name="keywords" content="Bronchite chronique  " /><meta name="thumbnail" content="https://static.passeportsante.net/i42149-bronchite-chronique-et-emphyseme-bpco.jpg" /><script type="application/ld+json">{"@context": "http://schema.org/","@type": "MedicalCondition","description": "Le nom « maladie pulmonaire obstructive chronique » ou BPCO désigne un ensemble de problèmes respiratoires graves et irréversibles. Les principaux sont la bronchite chronique et l’emphysème. Les symptômes débutent rarement avant la cinquantaine.","name": "Bronchopneumopathie chronique obstructive ","image": "https://static.passeportsante.net/i42149-bronchite-chronique-et-emphyseme-bpco.jpg","url": "/fr/Maux/Problemes/Fiche.aspx?doc=bronchite_chronique_emphyseme_pm","cause": ["tabagisme de longue date","exposition à la fumée secondaire et à des polluants aériens"],"epidemiology": " tabagisme durant plusieurs années","possibleTreatment": ["Arrêt du tabagisme","Oxygénothérapie"],"SignOrSymptom": [{"@context": "http://schema.org/","@type": "MedicalSignOrSymptom","description": "L'essoufflement est une sensation bien connue qui agit généralement après un effort intense.","name": "L'essoufflement","image": "https://static.passeportsante.net/i45786-l-essoufflement.jpg","url": "/fr/Maux/Symptomes/Fiche.aspx?doc=essoufflement-symptome"},{"@context": "http://schema.org/","@type": "MedicalSignOrSymptom","description": "L'expectoration désigne le fait de cracher des sécrétions bronchiques après avoir toussé.","name": "Les expectorations","image": "https://static.passeportsante.net/i48753-les-expectorations.jpg","url": "/fr/Maux/Symptomes/Fiche.aspx?doc=expectorations-symptome"},{"@context": "http://schema.org/","@type": "MedicalCondition","description": "La toux grasse, appelée aussi toux productive, se manifeste par la présence d’expectorations, ou de crachats consécutifs, provenant de la gorge ou des poumons à l'inverse de la toux sèche, dite « non productive ».","name": "La toux grasse","image": "https://static.passeportsante.net/i81536-la-toux-grasse.jpg","url": "/fr/Maux/Problemes/Fiche.aspx?doc=toux-grasse"},{"@context": "http://schema.org/","@type": "MedicalSignOrSymptom","description": "Les nausées précèdent les vomissements et sont des symtômes désagréables pouvant être causés par une multitudes de maladies ou de situations.","name": "Les nausées et vomissements","image": "https://static.passeportsante.net/i60450-les-nausees-et-vomissements.jpg","url": "/fr/Maux/Symptomes/Fiche.aspx?doc=nausees-vomissements-symptome"},"toux grasse","essouflement","expectorations de mucus blanchâtre","vomissements","souffle court","bleuissement de la peau et des lèvres"],"associatedAnatomy": "bronche","Drug": ["Bronchodilatateurs","Inhibiteur de la phosphodiestérase de type 4 (IPDE-4)","Corticostéroïdes","Antibiotiques"],"Subtype": "respiratoire"}</script><link rel="canonical" href="https://www.passeportsante.net/fr/Maux/Problemes/Fiche.aspx?doc=bronchite_chronique_emphyseme_pm" /></head>
+<body id="sitebody">
+    <div id="topOfPage"></div>
+    
+<script>
+
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+var pbjs = pbjs || {};
+pbjs.que = pbjs.que || [];
+var displayAd = function(e){ pbjs.que.push(function () { dfpHelper.displayAd(e)}); };
+</script>
+
+
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-N2DSNF');</script>
+
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N2DSNF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <form method="post" action="./Fiche.aspx?doc=bronchite_chronique_emphyseme_pm" id="form1" class="global-form">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM3NDk3Mzc1Nw9kFgJmD2QWAmYPDxYEHglUaXRsZVBhZ2UFKEJyb25jaGl0ZSBjaHJvbmlxdWUgZXQgZW1waHlzw6htZSAoQlBDTykeD1NvY2lhbE1ldGFUaXRsZQU8QnJvbmNob3BuZXVtb3BhdGhpZSBjaHJvbmlxdWUgb2JzdHJ1Y3RpdmUgOiB0b3V0IHN1ciBsYSBCUENPZBYCAgUPZBYEAgIPZBYCAgMPFgIeC18hSXRlbUNvdW50AgcWDmYPZBYCAgEPFgIeBWNsYXNzBQhyaWNobWVudRYGAgEPFgIeB1Zpc2libGVnZAIDDxYCHgRocmVmBRovcHJvYmxlbWVzLWV0LW1hbGFkaWVzLXA2ORYCAgEPFgIeBFRleHQFCE1hbGFkaWVzZAIFD2QWAgIBDxYCHwICBBYIZg9kFgICAQ8WAh8DBRFtZW51X2l0ZW0gaXNfbGlzdBYCAgMPZBYCAgEPFgIfAgIHFg5mD2QWAgIBDxYEHglpbm5lcmh0bWwFFk1hbGFkaWVzIGRlIEEgJiMyMjQ7IFofBQUdL2ZyL01hdXgvUHJvYmxlbWVzL0luZGV4LmFzcHhkAgEPZBYCAgEPFgQfBwUUTGV4aXF1ZSBtJiMyMzM7ZGljYWwfBQUjL2ZyL01hdXgvTGV4aXF1ZS1NZWRpY2FsL0luZGV4LmFzcHhkAgIPZBYCAgEPFgQfBwUhSW50ZXJwciYjMjMzO3RlciBzYSBwcmlzZSBkZSBzYW5nHwUFUC9mci9BY3R1YWxpdGVzL0Rvc3NpZXJzL0Rvc3NpZXJDb21wbGV4ZS5hc3B4P2RvYz1pbnRlcnByZXRlcl9wcmlzZV9zYW5nX3BhZ2UxX2RvZAIDD2QWAgIBDxYEHwcFCEFydGhyaXRlHwUFOS9mci9NYXV4L1Byb2JsZW1lcy9TZWN0aW9uU3BlY2lhbGUuYXNweD9kb2M9YXJ0aHJpdGVfc3BlY2QCBA9kFgICAQ8WBB8HBRFEb3NzaWVycyBNYWxhZGllcx8FBRsvbGVzLWRvc3NpZXJzLW1hbGFkaWVzLWwxNDhkAgUPZBYCAgEPFgQfBwUVSW5jb250aW5lbmNlIHVyaW5haXJlHwUFVy9pbmNvbnRpbmVuY2UtdXJpbmFpcmU/dXRtX3NvdXJjZT1wc3QmdXRtX21lZGl1bT1zb3Vzb25nbGV0JnV0bV9jYW1wYWlnbj1hbHdheXNkaXNjcmVldGQCBg9kFgICAQ8WBB8HBQtEb24gZGUgc2FuZx8FBRQvcG9ydGFpbC9kb24tZGUtc2FuZ2QCAQ9kFgICAQ8WAh8DBRFtZW51X2l0ZW0gaXNfbGlzdBYCAgMPZBYCAgEPFgIfAgIHFg5mD2QWAgIBDxYEHwcFEE0mIzIzMztkaWNhbWVudHMfBQUXL21lZGljYW1lbnRzL2luZGV4LmFzcHhkAgEPZBYCAgEPFgQfBwUOU3ltcHQmIzI0NDttZXMfBQUdL2ZyL01hdXgvU3ltcHRvbWVzL0luZGV4LmFzcHhkAgIPZBYCAgEPFgQfBwUMRGlhYiYjMjMyO3RlHwUFFy9iaWVuLXZpdnJlLXNvbi1kaWFiZXRlZAIDD2QWAgIBDxYEHwcFDVRoeXJvJiMyMzk7ZGUfBQU5L2ZyL01hdXgvUHJvYmxlbWVzL1NlY3Rpb25TcGVjaWFsZS5hc3B4P2RvYz10aHlyb2lkZV9zcGVjZAIED2QWAgIBDxYEHwcFEFBhcnRpZXMgZHUgY29ycHMfBQUcL2ZyL3BhcnRpZXMtY29ycHMvSW5kZXguYXNweGQCBQ9kFgICAQ8WBB8HBQ5NJiMyMzM7bm9wYXVzZR8FBR8vZnIvTWF1eC9Qcm9ibGVtZXMvbWVub3BhdXNlLWF6ZAIGD2QWAgIBDxYEHwcFCk1hbCBkZSBkb3MfBQUuaHR0cHM6Ly93d3cucGFzc2Vwb3J0c2FudGUubmV0L3BvcnRhaWwvbWFsLWRvc2QCAg9kFgICAQ8WAh8DBRFtZW51X2l0ZW0gaXNfbGlzdBYCAgMPZBYCAgEPFgIfAgIGFgxmD2QWAgIBDxYEHwcFGFImIzIzMjtnbGVzIGRvdWxvdXJldXNlcx8FBT4vZnIvTWF1eC9Qcm9ibGVtZXMvU2VjdGlvblNwZWNpYWxlLmFzcHg/ZG9jPW1lbnN0cnVhdGlvbnNfc3BlY2QCAQ9kFgICAQ8WBB8HBQZDYW5jZXIfBQU3L2ZyL01hdXgvUHJvYmxlbWVzL1NlY3Rpb25TcGVjaWFsZS5hc3B4P2RvYz1jYW5jZXJfc3BlY2QCAg9kFgICAQ8WBB8HBQlNaWdyYWluZXMfBQUnL21pZ3JhaW5lLW1hbC1kZS10ZXRlLWV0LWNlcGhhbGVlcy1sMTAwZAIDD2QWAgIBDxYEHwcFF0FuYWx5c2VzIG0mIzIzMztkaWNhbGVzHwUFJi9mci9NYXV4L2FuYWx5c2VzLW1lZGljYWxlcy9JbmRleC5hc3B4ZAIED2QWAgIBDxYEHwcFDUFydGljdWxhdGlvbnMfBQU1L2ZyL01hdXgvUHJvYmxlbWVzL1NlY3Rpb25TcGVjaWFsZS5hc3B4P2RvYz1sYXRyX3NwZWNkAgUPZBYCAgEPFgQfBwUQQ2hvbGVzdCYjMjMzO3JvbB8FBRQvcG9ydGFpbC9jaG9sZXN0ZXJvbGQCAw9kFgICAQ8WAh8DBRFtZW51X2l0ZW0gaXNfbGlzdBYCAgMPZBYCAgEPFgIfAgIGFgxmD2QWAgIBDxYEHwcFEE1hdXggZCYjMzk7aGl2ZXIfBQU1L2xhLXNhbnRlLXBlbmRhbnQtbGVzLWZldGVzLWMxMjgvbWFsYWRpZXMtZC1oaXZlci0xMzFkAgEPZBYCAgEPFgQfBwUhU2FudCYjMjMzOyBwZW5kYW50IGxlcyBmJiMyMzQ7dGVzHwUFIC9sYS1zYW50ZS1wZW5kYW50LWxlcy1mZXRlcy1jMTI4ZAICD2QWAgIBDxYEHwcFGkV4YW1lbnMgZXQgb3AmIzIzMztyYXRpb25zHwUFLy9mci9NYXV4L2V4YW1lbnMtbWVkaWNhdXgtb3BlcmF0aW9ucy9JbmRleC5hc3B4ZAIDD2QWAgIBDxYEHwcFCUFsbGVyZ2llcx8FBQ8vYWxsZXJnaWVzLWwxMDFkAgQPZBYCAgEPFgQfBwUUU2FudCYjMjMzOyBkZXMgZGVudHMfBQUbL2h5Z2llbmUtZXQtc2FudGUtZGVzLWRlbnRzZAIFD2QWAgIBDxYEHwcFJFNwJiMyMzM7Y2lhbGl0JiMyMzM7cyBtJiMyMzM7ZGljYWxlcx8FBSQvZnIvc3BlY2lhbGl0ZXMtbWVkaWNhbGVzL0luZGV4LmFzcHhkAgEPZBYCAgEPFgIfAwUIcmljaG1lbnUWBgIBDxYCHwRnZAIDDxYCHwUFKy9mci9BcHByb2NoZXNDb21wbGVtZW50YWlyZXMvTWFwL0luZGV4LmFzcHgWAgIBDxYCHwYFEFNhbnTDqSBOYXR1cmVsbGVkAgUPZBYCAgEPFgIfAgIEFghmD2QWAgIBDxYCHwMFEW1lbnVfaXRlbSBpc19saXN0FgICAw9kFgICAQ8WAh8CAgMWBmYPZBYCAgEPFgQfBwUTSHVpbGVzIEVzc2VudGllbGxlcx8FBSsvZnIvU29sdXRpb25zL0h1aWxlc0Vzc2VudGllbGxlcy9JbmRleC5hc3B4ZAIBD2QWAgIBDxYEHwcFD00mIzIzMztkaXRhdGlvbh8FBRAvbWVkaXRhdGlvbi1sMTUwZAICD2QWAgIBDxYEHwcFFk0mIzIzMztkZWNpbmUgY2hpbm9pc2UfBQUxL2ZyL1RoZXJhcGllcy9NZWRlY2luZUNoaW5vaXNlL0luZGV4X25vZmxhc2guYXNweGQCAQ9kFgICAQ8WAh8DBRFtZW51X2l0ZW0gaXNfbGlzdBYCAgMPZBYCAgEPFgIfAgIDFgZmD2QWAgIBDxYEHwcFJE0mIzIzMztkaWNhbWVudHMgaG9tJiMyMzM7b3BhdGhpcXVlcx8FBTIvZnIvU29sdXRpb25zL01lZGljYW1lbnRzSG9tZW9wYXRoaXF1ZXMvSW5kZXguYXNweGQCAQ9kFgICAQ8WBB8HBRlQaGFybWFjb3AmIzIzMztlIGNoaW5vaXNlHwUFLC9mci9Tb2x1dGlvbnMvUGhhcm1hY29wZWVDaGlub2lzZS9JbmRleC5hc3B4ZAICD2QWAgIBDxYEHwcFElBoeXRvdGgmIzIzMztyYXBpZR8FBS8vcGh5dG90aGVyYXBpZS1zZS1zb2lnbmVyLWF2ZWMtbGVzLXBsYW50ZXMtbDExNWQCAg9kFgICAQ8WAh8DBRFtZW51X2l0ZW0gaXNfbGlzdBYCAgMPZBYCAgEPFgIfAgIDFgZmD2QWAgIBDxYEHwcFFkhlcmJpZXIgbSYjMjMzO2RpY2luYWwfBQUpL2ZyL1NvbHV0aW9ucy9IZXJiaWVyTWVkaWNpbmFsL0luZGV4LmFzcHhkAgEPZBYCAgEPFgQfBwUfUHJvZHVpdHMgZGUgc2FudCYjMjMzOyBuYXR1cmVscx8FBSsvZnIvU29sdXRpb25zL1BsYW50ZXNTdXBwbGVtZW50cy9JbmRleC5hc3B4ZAICD2QWAgIBDxYEHwcFDlRoJiMyMzM7cmFwaWVzHwUFHi9mci9UaGVyYXBpZXMvR3VpZGUvSW5kZXguYXNweGQCAw9kFgICAQ8WAh8DBRFtZW51X2l0ZW0gaXNfbGlzdBYCAgMPZBYCAgEPFgIfAgIDFgZmD2QWAgIBDxYEHwcFGkh1aWxlcyB2JiMyMzM7ZyYjMjMzO3RhbGVzHwUFFi9odWlsZXMtdmVnZXRhbGVzLWcxNTJkAgEPZBYCAgEPFgQfBwUkTWFnYXppbmUgZGUgbGEgc2FudCYjMjMzOyBhdSBuYXR1cmVsHwUFJy9sZS1tYWdhemluZS1kZS1sYS1zYW50ZS1hdS1uYXR1cmVsLWw2OGQCAg9kFgICAQ8WBB8HBRJDb21wdG9pciBCb3RhbmlxdWUfBQUxaHR0cHM6Ly93d3cuY29tcHRvaXJib3RhbmlxdWUuZnIvbGEtYm91dGlxdWUuaHRtbGQCAg9kFgICAQ9kFgQCAw8WAh8FBRwvcG9ydGFpbC9odWlsZXMtZXNzZW50aWVsbGVzFgICAQ8WAh8GBRNIdWlsZXMgRXNzZW50aWVsbGVzZAIFDxYCHwRoFgICAQ8WAh8CAv////8PZAIDD2QWAgIBDxYCHwMFCHJpY2htZW51FgYCAQ8WAh8EZ2QCAw8WAh8FBRwvZnIvTnV0cml0aW9uL01hcC9JbmRleC5hc3B4FgICAQ8WAh8GBQlOdXRyaXRpb25kAgUPZBYCAgEPFgIfAgIEFghmD2QWAgIBDxYCHwMFEW1lbnVfaXRlbSBpc19saXN0FgICAw9kFgICAQ8WAh8CAgMWBmYPZBYCAgEPFgQfBwUMTWlldXggbWFuZ2VyHwUFEC9taWV1eC1tYW5nZXItYzdkAgEPZBYCAgEPFgQfBwUIUmVjZXR0ZXMfBQUhL2ZyL051dHJpdGlvbi9SZWNldHRlcy9JbmRleC5hc3B4ZAICD2QWAgIBDxYEHwcFA0lNQx8FBSgvZnIvTnV0cml0aW9uL1JlZ2ltZXMvRmljaGUuYXNweD9kb2M9SU1DZAIBD2QWAgIBDxYCHwMFEW1lbnVfaXRlbSBpc19saXN0FgICAw9kFgICAQ8WAh8CAgMWBmYPZBYCAgEPFgQfBwUIQWxpbWVudHMfBQUtL2ZyL051dHJpdGlvbi9FbmN5Y2xvcGVkaWVBbGltZW50cy9JbmRleC5hc3B4ZAIBD2QWAgIBDxYEHwcFE1JlY2V0dGVzIFNhbnQmIzIzMzsfBQVFL3JlY2V0dGVzLXNhbnRlLWxhLWN1aXNpbmUtZmFjaWxlLWV0LXJhcGlkZS1wb3VyLWdhcmRlci1sYS1mb3JtZS1sMTU1ZAICD2QWAgIBDxYEHwcFDkNyb3EmIzM5O0tpbG9zHwUFMWh0dHBzOi8vd3d3LnBhc3NlcG9ydHNhbnRlLm5ldC9wb3J0YWlsL2Nyb3Eta2lsb3NkAgIPZBYCAgEPFgIfAwURbWVudV9pdGVtIGlzX2xpc3QWAgIDD2QWAgIBDxYCHwICAhYEZg9kFgICAQ8WBB8HBRpEaSYjMjMyO3RlcyBzcCYjMjMzO2NpYWxlcx8FBR8vZnIvTnV0cml0aW9uL0RpZXRlcy9JbmRleC5hc3B4ZAIBD2QWAgIBDxYEHwcFCk51dHJpbWVudHMfBQUrL2ZyL051dHJpdGlvbi9QYWxtYXJlc051dHJpbWVudHMvSW5kZXguYXNweGQCAw9kFgICAQ8WAh8DBRFtZW51X2l0ZW0gaXNfbGlzdBYCAgMPZBYCAgEPFgIfAgICFgRmD2QWAgIBDxYEHwcFDFImIzIzMztnaW1lcx8FBSAvZnIvTnV0cml0aW9uL1JlZ2ltZXMvSW5kZXguYXNweGQCAQ9kFgICAQ8WBB8HBRZGcnVpdHMgZXQgbCYjMjMzO2d1bWVzHwUFGy9sZXMtZnJ1aXRzLWV0LWxlZ3VtZXMtZzE1M2QCBA9kFgICAQ9kFgQCAw8WAh8FBQwvbWFpZ3Jpci1jMTYWAgIBDxYCHwYFB01haWdyaXJkAgUPFgIfBGgWAgIBDxYCHwIC/////w9kAgUPZBYCAgEPZBYEAgMPFgIfBQUYL2ZyL2dyb3NzZXNzZS9JbmRleC5hc3B4FgICAQ8WAh8GBQlHcm9zc2Vzc2VkAgUPFgIfBGgWAgIBDxYCHwIC/////w9kAgYPZBYCAgEPFgIfAwUIcmljaG1lbnUWBgIBDxYCHwRnZAIDDxYCHwUFHy9mci9WaXZyZUVuU2FudGUvTWFwL0luZGV4LmFzcHgWAgIBDxYCHwYFDEF1IHF1b3RpZGllbmQCBQ9kFgICAQ8WAh8CAgQWCGYPZBYCAgEPFgIfAwURbWVudV9pdGVtIGlzX2xpc3QWAgIDD2QWAgIBDxYCHwICBRYKZg9kFgICAQ8WBB8HBQdGYW1pbGxlHwUFDS9mYW1pbGxlLWMxMjNkAgEPZBYCAgEPFgQfBwUTU2FudCYjMjMzOyBwcmF0aXF1ZR8FBRMvc2FudGUtcHJhdGlxdWUtYzcyZAICD2QWAgIBDxYEHwcFEkF1ZGlvIC0gVmlkJiMyMzM7bx8FBR8vZnIvQXVkaW9WaWRlb0JhbGFkby9JbmRleC5hc3B4ZAIDD2QWAgIBDxYEHwcFGEpldXggYyYjMjMzO3ImIzIzMzticmF1eB8FBTRodHRwOi8vamV1eC5wYXNzZXBvcnRzYW50ZS5uZXQvP2Fya3Byb21vPVNpdGVfVG9wTmF2ZAIED2QWAgIBDxYEHwcFEUJpYmxpb3RoJiMyMzI7cXVlHwUFHS9mci9QL2JpYmxpb3RoZXF1ZS9JbmRleC5hc3B4ZAIBD2QWAgIBDxYCHwMFEW1lbnVfaXRlbSBpc19saXN0FgICAw9kFgICAQ8WAh8CAgUWCmYPZBYCAgEPFgQfBwUNQmllbiB2aWVpbGxpch8FBRIvYmllbi12aWVpbGxpci1jMjhkAgEPZBYCAgEPFgQfBwULUHN5Y2hvbG9naWUfBQUaL2ZyL3BzeWNob2xvZ2llL0luZGV4LmFzcHhkAgIPZBYCAgEPFgQfBwUNRW52aXJvbm5lbWVudB8FBRIvZW52aXJvbm5lbWVudC1jMzdkAgMPZBYCAgEPFgQfBwUTRG9zc2llcnMgU2FudCYjMjMzOx8FBSIvZnIvQWN0dWFsaXRlcy9Eb3NzaWVycy9JbmRleC5hc3B4ZAIED2QWAgIBDxYEHwcFCEFubnVhaXJlHwUFJi9mci9Db21tdW5hdXRlL2Fzc29jaWF0aW9ucy9JbmRleC5hc3B4ZAICD2QWAgIBDxYCHwMFEW1lbnVfaXRlbSBpc19saXN0FgICAw9kFgICAQ8WAh8CAgUWCmYPZBYCAgEPFgQfBwUiU2FudCYjMjMzOyBtZW50YWxlIGV0ICYjMjMzO21vdGl2ZR8FBR0vc2FudGUtbWVudGFsZS1ldC1lbW90aXZlLWM0MWQCAQ9kFgICAQ8WBB8HBRImIzIwMjt0cmUgZW4gZm9ybWUfBQURL2V0cmUtZW4tZm9ybWUtYzFkAgIPZBYCAgEPFgQfBwUOU2V4dWFsaXQmIzIzMzsfBQUPL3NleHVhbGl0ZS1nMTU5ZAIDD2QWAgIBDxYEHwcFGkFjdHVhbGl0JiMyMzM7cyBzYW50JiMyMzM7HwUFIy9mci9BY3R1YWxpdGVzL05vdXZlbGxlcy9JbmRleC5hc3B4ZAIED2QWAgIBDxYEHwcFG1ImIzIzMztwb25zZXMgZCYjMzk7ZXhwZXJ0cx8FBSgvZnIvQ29tbXVuYXV0ZS9SZXBvbnNFc2V4cGVydC9JbmRleC5hc3B4ZAIDD2QWAgIBDxYCHwMFEW1lbnVfaXRlbSBpc19saXN0FgICAw9kFgICAQ8WAh8CAgMWBmYPZBYCAgEPFgQfBwUSU2FudCYjMjMzOyBhbmltYWxlHwUFHC9mci9zYW50ZS1hbmltYWxlL0luZGV4LmFzcHhkAgEPZBYCAgEPFgQfBwUUQmVhdXQmIzIzMzsgZXQgc29pbnMfBQUVL2JlYXV0ZS1ldC1zb2lucy1nMTU4ZAICD2QWAgIBDxYEHwcFGENocm9uaXF1ZXMgZCYjMzk7ZXhwZXJ0cx8FBSAvZnIvQ29tbXVuYXV0ZS9CbG9ndWUvSW5kZXguYXNweGQCBQ9kFgQCAQ9kFhACAQ8PFgIfBGhkZAIFD2QWAmYPFgIfAgIDFgYCAQ9kFgJmDxUCH2h0dHBzOi8vd3d3LnBhc3NlcG9ydHNhbnRlLm5ldC8PUGFzc2Vwb3J0U2FudMOpZAICD2QWAmYPFQIaL3Byb2JsZW1lcy1ldC1tYWxhZGllcy1wNjkWUHJvYmzDqG1lcyBldCBtYWxhZGllc2QCAw9kFgJmDxUCRS9wcm9ibGVtZXMtZXQtbWFsYWRpZXMtcDY5L21hbGFkaWVzLWRlLWwtYXBwYXJlaWwtcmVzcGlyYXRvaXJlLW9ybC04MytNYWxhZGllcyBkZSBs4oCZYXBwYXJlaWwgcmVzcGlyYXRvaXJlIChPUkwpZAIJDxYCHwYFPEJyb25jaG9wbmV1bW9wYXRoaWUgY2hyb25pcXVlIG9ic3RydWN0aXZlIDogdG91dCBzdXIgbGEgQlBDT2QCCw8WAh8EaGQCDQ9kFgICAQ8WAh8GBcFcPGRpdiBjbGFzcz0iY2xlYXJmaXgiPjxkaXYgY2xhc3M9ImltZ0ZpY2hlRGV0YWlscyI+PGltZyBvbmNsaWNrPSJwb3B1cFdpbmRvd0xpZW5JbnRlcm5lKCcvZnIvUC9Mb3VwZS9GaWNoZS5hc3B4P2lkPTQyMDE5JykiIHRpdGxlPSJicm9uY2hpdGVfY2hyb25pcXVlX2VtcGh5c2VtZV9wbSIgc3JjPSJodHRwczovL3N0YXRpYy5wYXNzZXBvcnRzYW50ZS5uZXQvaTQyMTQ5LWJyb25jaGl0ZS1jaHJvbmlxdWUtZXQtZW1waHlzZW1lLWJwY28uanBnIiBhbHQ9ImJyb25jaGl0ZV9jaHJvbmlxdWVfZW1waHlzZW1lX3BtIiB0aXRsZT0iYnJvbmNoaXRlX2Nocm9uaXF1ZV9lbXBoeXNlbWVfcG0iIHN0eWxlPSJib3JkZXI6MDsiLz48L2Rpdj48ZGl2IGNsYXNzPSJzdW1tYXJ5Ij48ZGl2PlNvbW1haXJlPC9kaXY+PHVsPjxsaT48YSBocmVmPSIvZnIvTWF1eC9Qcm9ibGVtZXMvRmljaGUuYXNweD9kb2M9YnJvbmNoaXRlX2Nocm9uaXF1ZV9lbXBoeXNlbWVfcG0iIHN0eWxlPSJjb2xvcjogIzY0QTE0MjsiPkxhIEJQQ0/CoDogcXXigJllc3QtY2UgcXVlIGPigJllc3Q/PC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9mci9NYXV4L1Byb2JsZW1lcy9GaWNoZS5hc3B4P2RvYz1icm9uY2hpdGUtY2hyb25pcXVlLWVtcGh5c2VtZS1wbS1zeW1wdG9tZXMtZGUtbGEtbXBvYyI+U3ltcHTDtG1lcyBkZSBsYSBCUENPPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9mci9NYXV4L1Byb2JsZW1lcy9GaWNoZS5hc3B4P2RvYz1icm9uY2hpdGUtY2hyb25pcXVlLWVtcGh5c2VtZS1wbS1wZXJzb25uZXMtYS1yaXNxdWUiPlBlcnNvbm5lcyBldCBmYWN0ZXVycyBkZSByaXNxdWU8L2E+PC9saT48bGk+PGEgaHJlZj0iL2ZyL01hdXgvUHJvYmxlbWVzL0ZpY2hlLmFzcHg/ZG9jPWJyb25jaGl0ZS1jaHJvbmlxdWUtZW1waHlzZW1lLXBtLXByZXZlbnRpb24tZGUtbGEtbXBvYyI+UHLDqXZlbnRpb24gZGUgbGEgQlBDTzwvYT48L2xpPjxsaT48YSBocmVmPSIvZnIvTWF1eC9Qcm9ibGVtZXMvRmljaGUuYXNweD9kb2M9YnJvbmNoaXRlLWNocm9uaXF1ZS1lbXBoeXNlbWUtcG0tdHJhaXRlbWVudHMtbWVkaWNhdXgtZGUtbGEtbXBvYyI+VHJhaXRlbWVudHMgbcOpZGljYXV4IGRlIGxhIEJQQ088L2E+PC9saT48bGk+PGEgaHJlZj0iL2ZyL01hdXgvUHJvYmxlbWVzL0ZpY2hlLmFzcHg/ZG9jPWJyb25jaGl0ZS1jaHJvbmlxdWUtZW1waHlzZW1lLXBtLWwtb3Bpbmlvbi1kZS1ub3RyZS1tZWRlY2luIj5M4oCZb3BpbmlvbiBkZSBub3RyZSBtw6lkZWNpbjwvYT48L2xpPjxsaT48YSBocmVmPSIvZnIvTWF1eC9Qcm9ibGVtZXMvRmljaGUuYXNweD9kb2M9YnJvbmNoaXRlLWNocm9uaXF1ZS1lbXBoeXNlbWUtcG0tYXBwcm9jaGVzLWNvbXBsZW1lbnRhaXJlcyI+QXBwcm9jaGVzIGNvbXBsw6ltZW50YWlyZXM8L2E+PC9saT48bGk+PGEgaHJlZj0iL2ZyL01hdXgvUHJvYmxlbWVzL0ZpY2hlLmFzcHg/ZG9jPWJyb25jaGl0ZS1jaHJvbmlxdWUtZW1waHlzZW1lLXBtLXNpdGVzLWQtaW50ZXJldCI+U2l0ZXMgZOKAmWludMOpcsOqdCBldCBncm91cGVzIGRlIHNvdXRpZW48L2E+PC9saT48bGk+PGEgaHJlZj0iL2ZyL01hdXgvUHJvYmxlbWVzL0ZpY2hlLmFzcHg/ZG9jPWJyb25jaGl0ZS1jaHJvbmlxdWUtZW1waHlzZW1lLXBtLXJlZmVyZW5jZXMiPlLDqWbDqXJlbmNlczwvYT48L2xpPjwvdWw+PC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0iY29udGVudEZpY2hlIj48ZGl2IGNsYXNzPSJCb2l0ZUF1ZGlvVmlkZW8gYmNrQXVkaW8iPg0KCTxhIGhyZWY9Ii9mci9BdWRpb1ZpZGVvQmFsYWRvL0luZGV4LmFzcHg/ZG9jSWQ9MjcxIj48aW1nIHNyYz0iaHR0cHM6Ly9tZWRpYXMucGFzc2Vwb3J0c2FudGUubmV0L2F1ZGlvL3RodW1ibmFpbHMvY2Fwc3VsZV9zYW50ZV9ib3VyYmVhdS5qcGciIC8+PC9hPiA8YSBjbGFzcz0iTGllblRleHRlIiBocmVmPSIvZnIvQXVkaW9WaWRlb0JhbGFkby9JbmRleC5hc3B4P2RvY0lkPTI3MSI+RHIgSmVhbiBCb3VyYmVhdSAtIExhIGJyb25jaGl0ZSBjaHJvbmlxdWUgZXQgbCZyc3F1bztlbXBoeXMmZWdyYXZlO21lPC9hPjwvZGl2Pg0KPHA+DQoJTGUgbm9tICZsYXF1bzsmbmJzcDs8Yj5tYWxhZGllIHB1bG1vbmFpcmUgb2JzdHJ1Y3RpdmUgY2hyb25pcXVlPC9iPiZuYnNwOyZyYXF1bzsgb3UmbmJzcDtCUENPJm5ic3A7ZCZlYWN1dGU7c2lnbmUgdW4gPHN0cm9uZz5lbnNlbWJsZSBkZSBwcm9ibCZlZ3JhdmU7bWVzIHJlc3BpcmF0b2lyZXM8L3N0cm9uZz4gZ3JhdmVzIGV0IGlyciZlYWN1dGU7dmVyc2libGVzLiBMZXMgcHJpbmNpcGF1eCBzb250IGxhIDxiPmJyb25jaGl0ZSBjaHJvbmlxdWU8L2I+IGV0IGwmcnNxdW87ZW1waHlzJmVncmF2ZTttZS4gTGVzIHN5bXB0Jm9jaXJjO21lcyBkJmVhY3V0ZTtidXRlbnQgcmFyZW1lbnQgYXZhbnQgbGEgY2lucXVhbnRhaW5lLjwvcD4NCjxwPg0KCUxlcyBwZXJzb25uZXMgYXR0ZWludGVzIGRlJm5ic3A7QlBDTyZuYnNwOzxiPnRvdXNzZW50IGJlYXVjb3VwPC9iPiBldCBzb250IGZhY2lsZW1lbnQgZXNzb3VmZmwmZWFjdXRlO2VzLiBBdSBmdXIgZXQgJmFncmF2ZTsgbWVzdXJlIHF1ZSBsYSBtYWxhZGllIHByb2dyZXNzZSwgbGVzIGFjdGl2aXQmZWFjdXRlO3MgcXVvdGlkaWVubmVzIGRldmllbm5lbnQgcGx1cyBwJmVhY3V0ZTtuaWJsZXMuIENlbGxlcy1jaSBkb2l2ZW50ICZlY2lyYzt0cmUgciZlYWN1dGU7b3JnYW5pcyZlYWN1dGU7ZXMgZW4gZm9uY3Rpb24gZGUgbCZyc3F1bzsmZWFjdXRlO25lcmdpZSBldCBkdSBzb3VmZmxlIGRpc3BvbmlibGVzLjwvcD48ZGl2IGlkPSJsZWFkZ2VuMSI+DQoJPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KCQlpZih0eXBlb2YoZGlzcGxheUFkKSE9J3VuZGVmaW5lZCcpZGlzcGxheUFkKCJsZWFkZ2VuMSIpOw0KCTwvc2NyaXB0Pg0KPC9kaXY+DQo8cD4NCglMZSB0YWJhZ2lzbWUgZGUgbG9uZ3VlIGRhdGUgZXN0IHJlc3BvbnNhYmxlIGRlIDgwJm5ic3A7JSAmYWdyYXZlOyA5MCZuYnNwOyUgZGVzIGNhcyBkZSZuYnNwO0JQQ08uIEVudmlyb24gMSZuYnNwOzxiPmZ1bWV1cjwvYj4gc3VyJm5ic3A7NSBkJmVhY3V0ZTt2ZWxvcHBlIHVuZSZuYnNwO0JQQ08uIEwmcnNxdW87ZXhwb3NpdGlvbiAmYWdyYXZlOyBsYSA8Yj5mdW0mZWFjdXRlO2Ugc2Vjb25kYWlyZTwvYj4gZXQgJmFncmF2ZTsgZGVzIDxiPnBvbGx1YW50czwvYj4gYSZlYWN1dGU7cmllbnMgcGV1dCBhdXNzaSB5IGNvbnRyaWJ1ZXIuIFBhcmZvaXMsIGxhIGNhdXNlIGVzdCBpbmV4cGxpcXUmZWFjdXRlO2UuPC9wPg0KPGgyPg0KCTxiPlR5cGVzPC9iPjwvaDI+DQo8cD4NCglTb3V2ZW50LCBvbiByZXRyb3V2ZSBkZXMgY2FyYWN0JmVhY3V0ZTtyaXN0aXF1ZXMgJmFncmF2ZTsgbGEgZm9pcyBkZSBicm9uY2hpdGUgY2hyb25pcXVlIGV0IGQmcnNxdW87ZW1waHlzJmVncmF2ZTttZSBjaGV6IHVuZSBtJmVjaXJjO21lIHBlcnNvbm5lICh2b2lyIHNjaCZlYWN1dGU7bWEpOjwvcD4NCjx1bD4NCgk8bGk+DQoJCTxiPkJyb25jaGl0ZSBjaHJvbmlxdWUuIDwvYj5FbGxlIHJlcHImZWFjdXRlO3NlbnRlIDg1Jm5ic3A7JSBkZXMgY2FzIGRlJm5ic3A7PHNwYW4+QlBDTzwvc3Bhbj4uIFVuZSBicm9uY2hpdGUgZXN0IGRpdGUgY2hyb25pcXVlIGxvcnNxdWUgbGEgPGI+dG91eDwvYj4gYSAmZWFjdXRlO3QmZWFjdXRlOyBwciZlYWN1dGU7c2VudGUgYXUgbW9pbnMgMyZuYnNwO21vaXMgcGFyIGFubiZlYWN1dGU7ZSwgZHVyYW50IDImbmJzcDthbm4mZWFjdXRlO2VzIGNvbnMmZWFjdXRlO2N1dGl2ZXMsIGV0IHF1JnJzcXVvO2lsIG4mcnNxdW87eSBhIHBhcyBkJnJzcXVvO2F1dHJlIHByb2JsJmVncmF2ZTttZSBwdWxtb25haXJlIChmaWJyb3NlIGt5c3RpcXVlLCB0dWJlcmN1bG9zZSwgZXRjLikuPGJyIC8+DQoJCSZuYnNwOzxiciAvPg0KCQlMYSBwYXJvaSBkZXMgYnJvbmNoZXMgcHJvZHVpdCBkdSA8Yj5tdWN1czwvYj4gZW4gYWJvbmRhbmNlLiBEZSBwbHVzLCBsZXMgYnJvbmNoZXMgc29udCBjb25zdGFtbWVudCBlbiBwcm9pZSAmYWdyYXZlOyBkZXMgPHN0cm9uZz5yJmVhY3V0ZTthY3Rpb25zIGluZmxhbW1hdG9pcmVzPC9zdHJvbmc+LCBjYXIgZWxsZXMgZGV2aWVubmVudCAmbGFxdW87Jm5ic3A7Y29sb25pcyZlYWN1dGU7ZXMmbmJzcDsmcmFxdW87IHBhciBkZXMgYmFjdCZlYWN1dGU7cmllcy4gQ2V0dGUgY29sb25pc2F0aW9uIG4mcnNxdW87ZXN0IHBhcyBjb25zaWQmZWFjdXRlO3ImZWFjdXRlO2UgY29tbWUgdW5lIGluZmVjdGlvbiwgYXUgc2VucyBvJnVncmF2ZTsgb24gbCZyc3F1bztlbnRlbmQgaGFiaXR1ZWxsZW1lbnQuIFBhciBjb250cmUsIG5vcm1hbGVtZW50LCBsZXMgYnJvbmNoZXMgc29udCBzdCZlYWN1dGU7cmlsZXMsIGMmcnNxdW87ZXN0LSZhZ3JhdmU7LWRpcmUgcXUmcnNxdW87YXVjdW5lIGJhY3QmZWFjdXRlO3JpZSBldCBhdWN1biB2aXJ1cyBvdSBhdXRyZSBtaWNyby1vcmdhbmlzbWUgbmUgcyZyc3F1bzt5IHRyb3V2ZS48L2xpPg0KCTxsaT4NCgkJPGI+RW1waHlzJmVncmF2ZTttZS48L2I+IExlcyBhbHYmZWFjdXRlO29sZXMgZGVzIHBvdW1vbnMgcGVyZGVudCBkZSBsZXVyICZlYWN1dGU7bGFzdGljaXQmZWFjdXRlOywgc2UgZCZlYWN1dGU7Zm9ybWVudCBwZXUgJmFncmF2ZTsgcGV1IG91IHNlIHJvbXBlbnQuIExvcnNxdWUgbGVzIGFsdiZlYWN1dGU7b2xlcyBzb250IGQmZWFjdXRlO3RydWl0ZXMgb3UgZW5kb21tYWcmZWFjdXRlO2VzLCBsZXMgJmVhY3V0ZTtjaGFuZ2VzIGQmcnNxdW87b3h5ZyZlZ3JhdmU7bmUgZXQgZGUgZGlveHlkZSBkZSBjYXJib25lIGRldmllbm5lbnQgbW9pbnMgZWZmaWNhY2VzLiBEZSBwbHVzLCBsZXMgcGFyb2lzIGRlcyA8Yj5icm9uY2hlczwvYj4gc2UgZmVybWVudCAmYWdyYXZlOyBsJnJzcXVvO2V4cGlyYXRpb24gcGFyIG1hbnF1ZSBkZSBzb3V0aWVuIGRlIGxhIHBhcnQgZGVzIHRpc3N1cyBlbnZpcm9ubmFudHMuIENldHRlIGZlcm1ldHVyZSBkZXMgYnJvbmNoZXMgJmFncmF2ZTsgbCZyc3F1bztleHBpcmF0aW9uIG5lIGZhaXQgcGFzIHF1ZSBnJmVjaXJjO25lciBsZSA8Yj5wYXNzYWdlIGRlIGwmcnNxdW87YWlyPC9iPi4gRWxsZSBwcm92b3F1ZSBhdXNzaSBsYSBzJmVhY3V0ZTtxdWVzdHJhdGlvbiBkJnJzcXVvO3VuZSBxdWFudGl0JmVhY3V0ZTsgYW5vcm1hbGUgZCZyc3F1bzthaXIgZGFucyBsZXMgcG91bW9ucy48L2xpPg0KPC91bD4NCjx0YWJsZSBjZWxsc3BhY2luZz0iMCIgY2xhc3M9Im5vdGFiZW5lIj4NCgk8dGJvZHk+DQoJCTx0cj4NCgkJCTx0ZD4NCgkJCQk8cD4NCgkJCQkJPGI+TWlldXggY29tcHJlbmRyZSBsYSZuYnNwOzwvYj48c3Ryb25nPkJQQ088L3N0cm9uZz48L3A+DQoJCQkJPHA+DQoJCQkJCU5vcm1hbGVtZW50LCBsJnJzcXVvO2luc3BpcmF0aW9uIGVzdCB1biBwaCZlYWN1dGU7bm9tJmVncmF2ZTtuZSBhY3RpZiBldCBsJnJzcXVvO2V4cGlyYXRpb24gdW4gcGgmZWFjdXRlO25vbSZlZ3JhdmU7bmUgcGFzc2lmLiBMb3JzcXUmcnNxdW87aWwgeSBhIG9ic3RydWN0aW9uIGRlcyBicm9uY2hlcywgY29tbWUgYyZyc3F1bztlc3QgbGUgY2FzIGRhbnMgbGEmbmJzcDtCUENPLCBsJnJzcXVvO2VmZm9ydCBwb3VyIHJlc3BpcmVyIGF1Z21lbnRlIGJlYXVjb3VwLCBjYXIgbCZyc3F1bztleHBpcmF0aW9uIGVzdCBmb3JjJmVhY3V0ZTtlIGRlIGRldmVuaXIgYWN0aXZlLiBMYSBzZW5zYXRpb24gcmVzc2VtYmxlICZhZ3JhdmU7IGNlbGxlIHJlc3NlbnRpZSBsb3JzIGQmcnNxdW87dW4gZWZmb3J0IHBoeXNpcXVlIGltcG9ydGFudC4gTCZyc3F1bztvYnN0cnVjdGlvbiBkb250IGlsIGVzdCBxdWVzdGlvbiBzdXJ2aWVudCBkb25jICZhZ3JhdmU7IGwmcnNxdW87ZXhwaXJhdGlvbiBldCBub24gJmFncmF2ZTsgbCZyc3F1bztpbnNwaXJhdGlvbi48L3A+DQoJCQkJPHA+DQoJCQkJCURhbnMgbGUgY2FzIGRlIGxhIDxiPmJyb25jaGl0ZSBjaHJvbmlxdWU8L2I+LCBsZSBjYWxpYnJlIGRlcyBicm9uY2hlcyBlc3QgZGltaW51JmVhY3V0ZTsgcGFyIGwmcnNxdW87PGEgY2xhc3M9Imdsb3NzYWlyZSIgaHJlZj0iamF2YXNjcmlwdDo7IiBvbm1vdXNlb3V0PSJoaWRlVG9vbHRpcCgnZEhUTUxUb29sVGlwJykiIG9ubW91c2VvdmVyPSJzaG93VG9vbHRpcCgnZEhUTUxUb29sVGlwJyxldmVudCwgZ2V0RGVmaW5pdGlvbignSU5GTEFNTUFUSU9OJykpIj5pbmZsYW1tYXRpb248L2E+LCBsZXMgcyZlYWN1dGU7Y3ImZWFjdXRlO3Rpb25zLCBldCBwYXJmb2lzIGRlcyBzcGFzbWVzIGRlcyBtdXNjbGVzIHNpdHUmZWFjdXRlO3MgZGFucyBsYSBwYXJvaSBkZXMgYnJvbmNoZXMuIERhbnMgbGUgY2FzIGRlIGwmcnNxdW87PGI+ZW1waHlzJmVncmF2ZTttZTwvYj4sIGxlcyBicm9uY2hlcyBzJnJzcXVvO2FmZmFpc3NlbnQgZXQgcGVyZGVudCBkZSBsZXVyICZlYWN1dGU7bGFzdGljaXQmZWFjdXRlOy4gTGVzIGFsdiZlYWN1dGU7b2xlcyBkZXZpZW5uZW50IGFub3JtYWxlbWVudCBkaWxhdCZlYWN1dGU7ZXM7IGVsbGVzIHNvbnQgYWxvcnMgbW9pbnMgZWZmaWNhY2VzIHBvdXIgciZlYWN1dGU7YWxpc2VyIGxlcyAmZWFjdXRlO2NoYW5nZXMgZ2F6ZXV4LjwvcD4NCgkJCQk8cD4NCgkJCQkJTGVzIDxiPnBvdW1vbnM8L2I+IGQmcnNxdW87dW5lIHBlcnNvbm5lIGF0dGVpbnRlIGRlIGJyb25jaGl0ZSBjaHJvbmlxdWUgb3UgZCZyc3F1bztlbXBoeXMmZWdyYXZlO21lIGVuIHZpZW5uZW50ICZhZ3JhdmU7IGNvbnRlbmlyIGJlYXVjb3VwIHBsdXMgZCZyc3F1bzthaXIgcXVlIGxhIG5vcm1hbGUuIENlcGVuZGFudCwgY2V0IGFpciBuJnJzcXVvO2VzdCBwYXMgZGUgcXVhbGl0JmVhY3V0ZTsmbmJzcDs6IGlsIGVzdCBwZXUgdXRpbGUgYXUgY29ycHMgcGFyY2UgcXUmcnNxdW87aWwgY29udGllbnQgcGV1IGQmcnNxdW87b3h5ZyZlZ3JhdmU7bmUgZXQgZXN0IHN0YWduYW50LiBMZSByJm9jaXJjO2xlIGRlcyBwb3Vtb25zIGVzdCBkZSByJmVhY3V0ZTthbGlzZXIgZGVzICZlYWN1dGU7Y2hhbmdlcyBnYXpldXguICZBZ3JhdmU7IGNoYXF1ZSByZXNwaXJhdGlvbiwgbGVzIHBvdW1vbnMgYWJzb3JiZW50IGRlIGwmcnNxdW87b3h5ZyZlZ3JhdmU7bmUgZXQgJmVhY3V0ZTtsaW1pbmVudCBkdSBnYXogY2FyYm9uaXF1ZSAoQ088c3ViPjI8L3N1Yj4pLiBDaGV6IHVuZSBwZXJzb25uZSBhdHRlaW50ZSBkZSZuYnNwO0JQQ08sIGlsIHkgYSBkYW5zIGxlcyBwb3Vtb25zIGRlIGwmcnNxdW87YWlyICZsYXF1bzsmbmJzcDtwcmlzb25uaWVyJm5ic3A7JnJhcXVvOywgcXVpIG5lIHBhcnRpY2lwZSBwYXMgJmFncmF2ZTsgY2VzICZlYWN1dGU7Y2hhbmdlcyBnYXpldXguPC9wPg0KCQkJPC90ZD4NCgkJPC90cj4NCgk8L3Rib2R5Pg0KPC90YWJsZT4NCjxoMj4NCgk8Yj5EZSBwbHVzIGVuIHBsdXMgZnImZWFjdXRlO3F1ZW50ZXM8L2I+PC9oMj4NCjxwPg0KCUF1IENhbmFkYSwgbGVzIDxiPm1hbGFkaWVzIHB1bG1vbmFpcmVzIG9ic3RydWN0aXZlcyBjaHJvbmlxdWVzPC9iPiBjb25zdGl0dWVudCBsYSA0PHN1cD5lPC9zdXA+Jm5ic3A7Y2F1c2UgZGU8Yj4gZCZlYWN1dGU7YyZlZ3JhdmU7czwvYj4gYXByJmVncmF2ZTtzIGxlIGNhbmNlciwgbGVzIG1hbGFkaWVzIGNhcmRpYXF1ZXMgZXQgbGVzIGFjY2lkZW50cyB2YXNjdWxhaXJlcyBjJmVhY3V0ZTtyJmVhY3V0ZTticmF1eDxzdXA+MjY8L3N1cD4uIExlcyBleHBlcnRzIHByJmVhY3V0ZTt2b2llbnQgcXUmIzM5O2VuJm5ic3A7MjAxMywgZWxsZXMgZmlndXJlcm9udCBhdSAzPHN1cD5lPC9zdXA+Jm5ic3A7cmFuZyBkZXMgY2F1c2VzIGRlIGQmZWFjdXRlO2MmZWdyYXZlO3MuIExhJm5ic3A7QlBDTyZuYnNwO20mZWdyYXZlO25lIHBldSAmYWdyYXZlOyBwZXUgJmFncmF2ZTsgbCZyc3F1bztpbnN1ZmZpc2FuY2UgY2FyZGlhcXVlIGVuIHN1cmNoYXJnZWFudCBsZSBjb2V1ciwgcXVpIGRvaXQgcHJvcHVsc2VyIGxlIHNhbmcgJmFncmF2ZTsgdHJhdmVycyBsZXMgcG91bW9ucyBtYWxhZGVzLiBDaGV6IGxlcyA8Yj5mdW1ldXJzPC9iPiwgbGEmbmJzcDtCUENPJm5ic3A7YXVnbWVudGUgbGUgcmlzcXVlIGRlIGNhbmNlciBkdSBwb3Vtb24uPC9wPjxhIGhyZWY9J2h0dHBzOi8vd3d3LmNvbXB0b2lyYm90YW5pcXVlLmZyL2h1aWxlLWVzc2VudGllbGxlLWN5cHJlcy1iaW8uaHRtbD91dG1fc291cmNlPXRyYWZpY19jaWJsZSZ1dG1fbWVkaXVtPWJhbm5pw6hyZSZ1dG1fY2FtcGFpZ249aHVpbGVzX2Vzc2VudGllbGxlcyZ1dG1fY29udGVudD1oZV9jeXByZXMnIGNsYXNzPSdwc3RCYW5uZXInIHRhcmdldD0nX2JsYW5rJz48aW1nIGRhdGEtc3JjPSdodHRwczovL3N0YXRpYy5wYXNzZXBvcnRzYW50ZS5uZXQvaTg5OTg0LS5qcGVnJyBzcmM9J2h0dHBzOi8vc3RhdGljLnBhc3NlcG9ydHNhbnRlLm5ldC9yZXNvdXJjZXMvaW1nLzF4MS1waXhlbC5wbmcnIGRhdGEtc3JjLXNtYWxsPSdodHRwczovL3N0YXRpYy5wYXNzZXBvcnRzYW50ZS5uZXQvaTg5OTg1LS5qcGVnJz48L2E+DQo8cD4NCglFbnZpcm9uIDYmbmJzcDslIGRlcyBDYW5hZGllbnMgJmFjaXJjO2cmZWFjdXRlO3MgZGUgNTUmbmJzcDthbnMgJmFncmF2ZTsgNjQmbmJzcDthbnMgZW4gc291ZmZyZW50LCBldCA3Jm5ic3A7JSBkZXMgNjUmbmJzcDthbnMgJmFncmF2ZTsgNzQmbmJzcDthbnM8c3VwPjE8L3N1cD4uPC9wPg0KPHA+DQoJQWN0dWVsbGVtZW50LCBsYSA8Yj5icm9uY2hpdGUgY2hyb25pcXVlPC9iPiBldCBsJiMzOTs8Yj5lbXBoeXMmZWdyYXZlO21lPC9iPiB0b3VjaGVudCBhdXRhbnQgbGVzIGhvbW1lcyBxdWUgbGVzIGZlbW1lcy48L3A+DQo8aDI+DQoJPGI+JkVhY3V0ZTt2b2x1dGlvbjwvYj48L2gyPg0KPHA+DQoJQXZhbnQgbSZlY2lyYzttZSBxdWUgbGVzIHByZW1pZXJzIDxiPnN5bXB0Jm9jaXJjO21lczwvYj4gYXBwYXJhaXNzZW50IChsYSB0b3V4LCBoYWJpdHVlbGxlbWVudCksIGRlcyBkb21tYWdlcyBhdXggPGI+cG91bW9uczwvYj4gc29udCBkJmVhY3V0ZTtqJmFncmF2ZTsgYmllbiBpbnN0YWxsJmVhY3V0ZTtzIGV0IGlyciZlYWN1dGU7dmVyc2libGVzLiAmQWdyYXZlOyBjZSBzdGFkZSwgY2Vzc2VyIGRlIHMmcnNxdW87ZXhwb3NlciBhdXggaXJyaXRhbnRzLCBjb21tZSBsYSBmdW0mZWFjdXRlO2UgZHUgdGFiYWMsIGVzdCBlbmNvcmUgdHImZWdyYXZlO3MgcHJvZml0YWJsZS4gT24gcmFsZW50aXQgYWxvcnMgbGEgcHJvZ3Jlc3Npb24gZGUgbGEgbWFsYWRpZS48L3A+DQo8cD4NCglBdmVjIGxlIHRlbXBzLCBsYSA8Yj50b3V4PC9iPiBkZXZpZW50IHBsdXMgZnImZWFjdXRlO3F1ZW50ZSwgZGUgbSZlY2lyYzttZSBxdWUgbGVzIHJodW1lcyBldCBsZXMgYnJvbmNoaXRlcyBhaWd1JmV1bWw7cy4gTGVzIGV4cGVjdG9yYXRpb25zIHNvbnQgcGx1cyBhYm9uZGFudGVzLiBMYSA8Yj5yZXNwaXJhdGlvbjwvYj4gZGV2aWVudCBkZSBwbHVzIGVuIHBsdXMgZGlmZmljaWxlIGxvcnMgZCZyc3F1bztlZmZvcnRzIGltcG9ydGFudHMuIExhIHBlcnNvbm5lIGEgdGVuZGFuY2UgJmFncmF2ZTsgZGV2ZW5pciBwbHVzIHMmZWFjdXRlO2RlbnRhaXJlLiAmQWdyYXZlOyB1biBjZXJ0YWluIHN0YWRlLCBsYSBtYWxhZGllIHByb3ZvcXVlIGwmcnNxdW87PGI+ZXNzb3VmZmxlbWVudDwvYj4gYXUgbW9pbmRyZSBlZmZvcnQgcGh5c2lxdWUsIGV0IGVuc3VpdGUsIG0mZWNpcmM7bWUgYXUgcmVwb3MuIExlcyBzeW1wdCZvY2lyYzttZXMgcyZyc3F1bztleGFjZXJiZW50IGVuIHAmZWFjdXRlO3Jpb2RlIGRlIDxhIGNsYXNzPSJnbG9zc2FpcmUiIGhyZWY9ImphdmFzY3JpcHQ6OyIgb25tb3VzZW91dD0iaGlkZVRvb2x0aXAoJ2RIVE1MVG9vbFRpcCcpIiBvbm1vdXNlb3Zlcj0ic2hvd1Rvb2x0aXAoJ2RIVE1MVG9vbFRpcCcsZXZlbnQsIGdldERlZmluaXRpb24oJ1NNT0cnKSkiPnNtb2c8L2E+LCBsb3JzIGQmcnNxdW87aW5mZWN0aW9ucyBub3JtYWxlbWVudCBiYW5hbGVzIG91IGQmcnNxdW87ZXhwb3NpdGlvbiAmYWdyYXZlOyBkZXMgc3Vic3RhbmNlcyBpcnJpdGFudGVzIHBvdXIgbGVzIHZvaWVzIHJlc3BpcmF0b2lyZXMuIEwmIzM5O2hvc3BpdGFsaXNhdGlvbiBlc3QgcGFyZm9pcyBuJmVhY3V0ZTtjZXNzYWlyZS48L3A+DQo8cD4NCglJbCBlc3QgaW1wb3J0YW50IGRlIGJpZW4gdHJhaXRlciBsZXMgY3Jpc2VzIGQmcnNxdW87PGI+ZXhhY2VyYmF0aW9uPC9iPjxiPiBkZXMgc3ltcHQmb2NpcmM7bWVzPC9iPiwgcXVpIHJpc3F1ZW50IGQmcnNxdW87YXVnbWVudGVyIGxhIGRlc3RydWN0aW9uIGRlcyBmcmFnaWxlcyB0aXNzdXMgcHVsbW9uYWlyZXMuPC9wPg0KPHA+DQoJTCZyc3F1bzsmZWFjdXRlO3B1aXNlbWVudCwgbGEgPGI+c291ZmZyYW5jZTwvYj4gcHN5Y2hvbG9naXF1ZSBldCBsJnJzcXVvO2lzb2xlbWVudCBzb250IGRlcyBkaWZmaWN1bHQmZWFjdXRlO3MgZnImZWFjdXRlO3F1ZW1tZW50IHJlbmNvbnRyJmVhY3V0ZTtlcyBwYXIgbGVzIHBlcnNvbm5lcyBhdHRlaW50ZXMgZGUgY2V0dGUgbWFsYWRpZSBpbnZhbGlkYW50ZS4gVW4gPGI+YW1haWdyaXNzZW1lbnQ8L2I+IHBldXQgc3VydmVuaXIgYXUgc3RhZGUgYXZhbmMmZWFjdXRlOyBkZSBsYSBtYWxhZGllLCBjYXIgbGUgdHJhdmFpbCByZXNwaXJhdG9pcmUgZXN0IHRlbCBxdSZyc3F1bztpbCBzZSBjb21wYXJlICZhZ3JhdmU7IGxhIHByYXRpcXVlIGQmcnNxdW87dW4gZWZmb3J0IHBoeXNpcXVlIGltcG9ydGFudCBldCBjb25zdGFudC48L3A+DQo8cD4NCglBY3R1ZWxsZW1lbnQsIGxlcyBtJmVhY3V0ZTtkZWNpbnMgcyYjMzk7aW5xdWkmZWdyYXZlO3RlbnQgZHUgZmFpdCBxdWUgbGEgQlBDTyBlc3Qgc291dmVudCBkaWFnbm9zdGlxdSZlYWN1dGU7ZSB0cm9wIHRhcmRpdmVtZW50LCBsaW1pdGFudCBhaW5zaSBsJiMzOTtlZmZpY2FjaXQmZWFjdXRlOyBkZXMgdHJhaXRlbWVudHMuPC9wPg0KPC9kaXY+PGRpdiBjbGFzcz0icGFnaW5hdG9yIj48dWwgY2xhc3M9ImNsZWFyZml4Ij48bGkgc3R5bGU9ImJhY2tncm91bmQ6bm9uZTsiIGNsYXNzPSJwcmV2Rm9sZGVyIj48YSBocmVmPSJqYXZhc2NyaXB0OnZvaWQoMCkiIHN0eWxlPSJjdXJzb3I6ZGVmYXVsdDsiIHJlbD0ibm9pbmRleCwgbm9mb2xsb3ciPiZuYnNwOzwvYT48L2xpPjxsaSBvbmNsaWNrPSJsb2NhdGlvbi5ocmVmPScvZnIvTWF1eC9Qcm9ibGVtZXMvRmljaGUuYXNweD9kb2M9YnJvbmNoaXRlLWNocm9uaXF1ZS1lbXBoeXNlbWUtcG0tc3ltcHRvbWVzLWRlLWxhLW1wb2MnOyIgY2xhc3M9Im5leHRGb2xkZXIiPjxhIGhyZWY9Ii9mci9NYXV4L1Byb2JsZW1lcy9GaWNoZS5hc3B4P2RvYz1icm9uY2hpdGUtY2hyb25pcXVlLWVtcGh5c2VtZS1wbS1zeW1wdG9tZXMtZGUtbGEtbXBvYyI+PHNwYW4+UGFnZSBzdWl2YW50ZTwvc3Bhbj48L2E+PGEgaHJlZj0iL2ZyL01hdXgvUHJvYmxlbWVzL0ZpY2hlLmFzcHg/ZG9jPWJyb25jaGl0ZS1jaHJvbmlxdWUtZW1waHlzZW1lLXBtLXN5bXB0b21lcy1kZS1sYS1tcG9jIj5TeW1wdMO0bWVzIGRlIGxhIEJQQ088L2E+PC9saT48L3VsPjwvZGl2PjxkaXYgaWQ9ImR5bkluZmVlZDEiIGNsYXNzPSJkeW5JbkZlZWQiPg0KCTxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4NCgkJcGJqcy5xdWUucHVzaChmdW5jdGlvbigpeyBpZiAodHlwZW9mKHByZWJpZCkgIT09ICd1bmRlZmluZWQnICYmIHR5cGVvZihwcmViaWRGbi5kZWZpbmVEeW5hbWljQWRzbG90KSAhPT0gJ3VuZGVmaW5lZCcpIHByZWJpZEZuLmRlZmluZUR5bmFtaWNBZHNsb3QoJ2R5bkluZmVlZCcsIDEpOyB9ICk7DQoJPC9zY3JpcHQ+DQo8L2Rpdj48ZGl2IGlkPSJsZWFkZ2VuMiI+DQoJPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KCQlpZih0eXBlb2YoZGlzcGxheUFkKSE9J3VuZGVmaW5lZCcpZGlzcGxheUFkKCJsZWFkZ2VuMiIpOw0KCTwvc2NyaXB0Pg0KPC9kaXY+ZAIVDxYEHwZlHwRnZAIbDw8WAh8EaGRkAiEPDxYGHgdkb2NOYW1lBSBicm9uY2hpdGVfY2hyb25pcXVlX2VtcGh5c2VtZV9wbR4JUGFnZVRpdGxlBTxCcm9uY2hvcG5ldW1vcGF0aGllIGNocm9uaXF1ZSBvYnN0cnVjdGl2ZSA6IHRvdXQgc3VyIGxhIEJQQ08fBGhkFgYCAw8QZGQWAWZkAgYPZBYCAgMPZBYCAgMPEGRkFgFmZAIID2QWBAIRDw8WAh4ISW1hZ2VVcmwFJC9zZXJ2aWNlcy9nZXRDYXB0Y2hhLmFzcHg/Y29kZT1hMzZIOGRkAhMPFgIeBVZhbHVlBQVhMzZIOGQCBw9kFgICAQ9kFgICAQ9kFgICCw8WAh8EaGRk6Qp1pNoYiasdumV5GBI6qcw021k=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A94ED927" />
+        
+        <div id="oop" class="pstAd mb0">
+	<script type="text/javascript">
+		if(typeof(displayAd)!='undefined')displayAd("oop");
+	</script>
+</div>
+        <div id="oop_bis" class="pstAd mb0">
+	<script type="text/javascript">
+		if(typeof(displayAd)!='undefined')displayAd("oop_bis");
+	</script>
+</div>
+
+        
+		
+         
+        
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat:700|Open+Sans:300;400,600,700" rel="stylesheet">
+<link rel="stylesheet" href="https://static.passeportsante.net/resources/src/css/style.min.css?ver=1563787380" />
+
+
+
+<header class="siteheader">
+
+    <div id="HeadCtl_pstLogo" class="sprites-logo"><a href="/"></a></div>
+
+    <button type="button" class="icon-burger show-for-small-only" data-toggle=".siteheader" data-toggle-class="open" data-toggle-off=".siteheader nav"></button>
+    <button type="button" class="icon-zoom show-for-small-only" data-toggle=".siteheader" data-toggle-class="search-open"></button>
+
+    <nav>
+        <section>
+            <ul class="menu">
+                
+                        <li id="HeadCtl_RptMenu_topItem_0" class="richmenu">
+							<button id="HeadCtl_RptMenu_btnExpand_0" type="button" class="icon-arrow-bottom"></button>
+                            <span><a id="HeadCtl_RptMenu_lnkMenu_0" href="/problemes-et-maladies-p69">
+                                <span>
+                                    Maladies
+                                </span>
+                                
+                            </a></span>
+                            <ul id="HeadCtl_RptMenu_SecondLevelCtnr_0" class="dropdown">
+                                <li class="row">
+                                
+										<div id="HeadCtl_RptMenu_RptMenuColonne_0_subMenuItem_0" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_0_subMenuUl_0" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_0_lnkSubMenu_0" href="/fr/Maux/Problemes/Index.aspx">Maladies de A &#224; Z</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_0_lnkSubMenu_1" href="/fr/Maux/Lexique-Medical/Index.aspx">Lexique m&#233;dical</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_0_lnkSubMenu_2" href="/fr/Actualites/Dossiers/DossierComplexe.aspx?doc=interpreter_prise_sang_page1_do">Interpr&#233;ter sa prise de sang</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_0_lnkSubMenu_3" href="/fr/Maux/Problemes/SectionSpeciale.aspx?doc=arthrite_spec">Arthrite</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_0_lnkSubMenu_4" href="/les-dossiers-maladies-l148">Dossiers Maladies</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_0_lnkSubMenu_5" href="/incontinence-urinaire?utm_source=pst&amp;utm_medium=sousonglet&amp;utm_campaign=alwaysdiscreet">Incontinence urinaire</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_0_lnkSubMenu_6" href="/portail/don-de-sang">Don de sang</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_0_subMenuItem_1" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_0_subMenuUl_1" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_1_lnkSubMenu_0" href="/medicaments/index.aspx">M&#233;dicaments</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_1_lnkSubMenu_1" href="/fr/Maux/Symptomes/Index.aspx">Sympt&#244;mes</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_1_lnkSubMenu_2" href="/bien-vivre-son-diabete">Diab&#232;te</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_1_lnkSubMenu_3" href="/fr/Maux/Problemes/SectionSpeciale.aspx?doc=thyroide_spec">Thyro&#239;de</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_1_lnkSubMenu_4" href="/fr/parties-corps/Index.aspx">Parties du corps</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_1_lnkSubMenu_5" href="/fr/Maux/Problemes/menopause-az">M&#233;nopause</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_1_lnkSubMenu_6" href="https://www.passeportsante.net/portail/mal-dos">Mal de dos</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_0_subMenuItem_2" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_0_subMenuUl_2" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_2_lnkSubMenu_0" href="/fr/Maux/Problemes/SectionSpeciale.aspx?doc=menstruations_spec">R&#232;gles douloureuses</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_2_lnkSubMenu_1" href="/fr/Maux/Problemes/SectionSpeciale.aspx?doc=cancer_spec">Cancer</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_2_lnkSubMenu_2" href="/migraine-mal-de-tete-et-cephalees-l100">Migraines</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_2_lnkSubMenu_3" href="/fr/Maux/analyses-medicales/Index.aspx">Analyses m&#233;dicales</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_2_lnkSubMenu_4" href="/fr/Maux/Problemes/SectionSpeciale.aspx?doc=latr_spec">Articulations</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_2_lnkSubMenu_5" href="/portail/cholesterol">Cholest&#233;rol</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_0_subMenuItem_3" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_0_subMenuUl_3" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_3_lnkSubMenu_0" href="/la-sante-pendant-les-fetes-c128/maladies-d-hiver-131">Maux d&#39;hiver</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_3_lnkSubMenu_1" href="/la-sante-pendant-les-fetes-c128">Sant&#233; pendant les f&#234;tes</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_3_lnkSubMenu_2" href="/fr/Maux/examens-medicaux-operations/Index.aspx">Examens et op&#233;rations</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_3_lnkSubMenu_3" href="/allergies-l101">Allergies</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_3_lnkSubMenu_4" href="/hygiene-et-sante-des-dents">Sant&#233; des dents</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_3_lnkSubMenu_5" href="/fr/specialites-medicales/Index.aspx">Sp&#233;cialit&#233;s m&#233;dicales</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+								</li>
+                            </ul>
+						</li>
+                    
+                        <li id="HeadCtl_RptMenu_topItem_1" class="richmenu">
+							<button id="HeadCtl_RptMenu_btnExpand_1" type="button" class="icon-arrow-bottom"></button>
+                            <span><a id="HeadCtl_RptMenu_lnkMenu_1" href="/fr/ApprochesComplementaires/Map/Index.aspx">
+                                <span>
+                                    Santé Naturelle
+                                </span>
+                                
+                            </a></span>
+                            <ul id="HeadCtl_RptMenu_SecondLevelCtnr_1" class="dropdown">
+                                <li class="row">
+                                
+										<div id="HeadCtl_RptMenu_RptMenuColonne_1_subMenuItem_0" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_1_subMenuUl_0" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_0_lnkSubMenu_0" href="/fr/Solutions/HuilesEssentielles/Index.aspx">Huiles Essentielles</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_0_lnkSubMenu_1" href="/meditation-l150">M&#233;ditation</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_0_lnkSubMenu_2" href="/fr/Therapies/MedecineChinoise/Index_noflash.aspx">M&#233;decine chinoise</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_1_subMenuItem_1" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_1_subMenuUl_1" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_1_lnkSubMenu_0" href="/fr/Solutions/MedicamentsHomeopathiques/Index.aspx">M&#233;dicaments hom&#233;opathiques</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_1_lnkSubMenu_1" href="/fr/Solutions/PharmacopeeChinoise/Index.aspx">Pharmacop&#233;e chinoise</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_1_lnkSubMenu_2" href="/phytotherapie-se-soigner-avec-les-plantes-l115">Phytoth&#233;rapie</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_1_subMenuItem_2" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_1_subMenuUl_2" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_2_lnkSubMenu_0" href="/fr/Solutions/HerbierMedicinal/Index.aspx">Herbier m&#233;dicinal</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_2_lnkSubMenu_1" href="/fr/Solutions/PlantesSupplements/Index.aspx">Produits de sant&#233; naturels</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_2_lnkSubMenu_2" href="/fr/Therapies/Guide/Index.aspx">Th&#233;rapies</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_1_subMenuItem_3" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_1_subMenuUl_3" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_3_lnkSubMenu_0" href="/huiles-vegetales-g152">Huiles v&#233;g&#233;tales</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_3_lnkSubMenu_1" href="/le-magazine-de-la-sante-au-naturel-l68">Magazine de la sant&#233; au naturel</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_3_lnkSubMenu_2" href="https://www.comptoirbotanique.fr/la-boutique.html">Comptoir Botanique</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+								</li>
+                            </ul>
+						</li>
+                    
+                        <li id="HeadCtl_RptMenu_topItem_2">
+							
+                            <span><a id="HeadCtl_RptMenu_lnkMenu_2" href="/portail/huiles-essentielles">
+                                <span>
+                                    Huiles Essentielles
+                                </span>
+                                
+                            </a></span>
+                            
+						</li>
+                    
+                        <li id="HeadCtl_RptMenu_topItem_3" class="richmenu">
+							<button id="HeadCtl_RptMenu_btnExpand_3" type="button" class="icon-arrow-bottom"></button>
+                            <span><a id="HeadCtl_RptMenu_lnkMenu_3" href="/fr/Nutrition/Map/Index.aspx">
+                                <span>
+                                    Nutrition
+                                </span>
+                                
+                            </a></span>
+                            <ul id="HeadCtl_RptMenu_SecondLevelCtnr_3" class="dropdown">
+                                <li class="row">
+                                
+										<div id="HeadCtl_RptMenu_RptMenuColonne_3_subMenuItem_0" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_3_subMenuUl_0" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_3_RptMenuLien_0_lnkSubMenu_0" href="/mieux-manger-c7">Mieux manger</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_3_RptMenuLien_0_lnkSubMenu_1" href="/fr/Nutrition/Recettes/Index.aspx">Recettes</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_3_RptMenuLien_0_lnkSubMenu_2" href="/fr/Nutrition/Regimes/Fiche.aspx?doc=IMC">IMC</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_3_subMenuItem_1" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_3_subMenuUl_1" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_3_RptMenuLien_1_lnkSubMenu_0" href="/fr/Nutrition/EncyclopedieAliments/Index.aspx">Aliments</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_3_RptMenuLien_1_lnkSubMenu_1" href="/recettes-sante-la-cuisine-facile-et-rapide-pour-garder-la-forme-l155">Recettes Sant&#233;</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_3_RptMenuLien_1_lnkSubMenu_2" href="https://www.passeportsante.net/portail/croq-kilos">Croq&#39;Kilos</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_3_subMenuItem_2" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_3_subMenuUl_2" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_3_RptMenuLien_2_lnkSubMenu_0" href="/fr/Nutrition/Dietes/Index.aspx">Di&#232;tes sp&#233;ciales</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_3_RptMenuLien_2_lnkSubMenu_1" href="/fr/Nutrition/PalmaresNutriments/Index.aspx">Nutriments</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_3_subMenuItem_3" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_3_subMenuUl_3" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_3_RptMenuLien_3_lnkSubMenu_0" href="/fr/Nutrition/Regimes/Index.aspx">R&#233;gimes</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_3_RptMenuLien_3_lnkSubMenu_1" href="/les-fruits-et-legumes-g153">Fruits et l&#233;gumes</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+								</li>
+                            </ul>
+						</li>
+                    
+                        <li id="HeadCtl_RptMenu_topItem_4">
+							
+                            <span><a id="HeadCtl_RptMenu_lnkMenu_4" href="/maigrir-c16">
+                                <span>
+                                    Maigrir
+                                </span>
+                                
+                            </a></span>
+                            
+						</li>
+                    
+                        <li id="HeadCtl_RptMenu_topItem_5">
+							
+                            <span><a id="HeadCtl_RptMenu_lnkMenu_5" href="/fr/grossesse/Index.aspx">
+                                <span>
+                                    Grossesse
+                                </span>
+                                
+                            </a></span>
+                            
+						</li>
+                    
+                        <li id="HeadCtl_RptMenu_topItem_6" class="richmenu">
+							<button id="HeadCtl_RptMenu_btnExpand_6" type="button" class="icon-arrow-bottom"></button>
+                            <span><a id="HeadCtl_RptMenu_lnkMenu_6" href="/fr/VivreEnSante/Map/Index.aspx">
+                                <span>
+                                    Au quotidien
+                                </span>
+                                
+                            </a></span>
+                            <ul id="HeadCtl_RptMenu_SecondLevelCtnr_6" class="dropdown">
+                                <li class="row">
+                                
+										<div id="HeadCtl_RptMenu_RptMenuColonne_6_subMenuItem_0" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_6_subMenuUl_0" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_0_lnkSubMenu_0" href="/famille-c123">Famille</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_0_lnkSubMenu_1" href="/sante-pratique-c72">Sant&#233; pratique</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_0_lnkSubMenu_2" href="/fr/AudioVideoBalado/Index.aspx">Audio - Vid&#233;o</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_0_lnkSubMenu_3" href="http://jeux.passeportsante.net/?arkpromo=Site_TopNav">Jeux c&#233;r&#233;braux</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_0_lnkSubMenu_4" href="/fr/P/bibliotheque/Index.aspx">Biblioth&#232;que</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_6_subMenuItem_1" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_6_subMenuUl_1" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_1_lnkSubMenu_0" href="/bien-vieillir-c28">Bien vieillir</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_1_lnkSubMenu_1" href="/fr/psychologie/Index.aspx">Psychologie</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_1_lnkSubMenu_2" href="/environnement-c37">Environnement</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_1_lnkSubMenu_3" href="/fr/Actualites/Dossiers/Index.aspx">Dossiers Sant&#233;</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_1_lnkSubMenu_4" href="/fr/Communaute/associations/Index.aspx">Annuaire</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_6_subMenuItem_2" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_6_subMenuUl_2" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_2_lnkSubMenu_0" href="/sante-mentale-et-emotive-c41">Sant&#233; mentale et &#233;motive</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_2_lnkSubMenu_1" href="/etre-en-forme-c1">&#202;tre en forme</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_2_lnkSubMenu_2" href="/sexualite-g159">Sexualit&#233;</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_2_lnkSubMenu_3" href="/fr/Actualites/Nouvelles/Index.aspx">Actualit&#233;s sant&#233;</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_2_lnkSubMenu_4" href="/fr/Communaute/ReponsEsexpert/Index.aspx">R&#233;ponses d&#39;experts</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_6_subMenuItem_3" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_6_subMenuUl_3" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_3_lnkSubMenu_0" href="/fr/sante-animale/Index.aspx">Sant&#233; animale</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_3_lnkSubMenu_1" href="/beaute-et-soins-g158">Beaut&#233; et soins</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_3_lnkSubMenu_2" href="/fr/Communaute/Blogue/Index.aspx">Chroniques d&#39;experts</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+								</li>
+                            </ul>
+						</li>
+                    
+            </ul>
+        </section>
+        <section>
+            <ul class="menu">
+                <li><a href="/fr/P/AaZ/Index.aspx">De A à Z</a></li>
+                <li><a href="/fr/Maux/Symptomes/Index.aspx" class="icon-symptoms">Symptômes</a>
+                <li><a href="/medicaments/index.aspx" class="icon-drug">Médicaments </a></li>
+                <li><a href="https://www.croq-kilos.com/?utm_source=passeportsante&utm_medium=portail&utm_campaign=intermediation_onglet" target="_blank" class="sprites-croqkilos"><span class="dnone">Croq'Kilos</span></a></li>
+                <li><a href="https://www.comptoirbotanique.fr/?utm_source=passeportsante&utm_medium=portail&utm_campaign=intermediation_onglet" target="_blank" class="sprites-comptoir"><span class="dnone">Comptoir Botanique</span></a></li>
+            </ul>
+            <ul class="menu">
+                <li><a href="/newsletter/default.aspx" class="icon-news">Newsletter</a></li>
+                <li class="hide-for-small-only"><a class="button round icon-facebook" href="https://www.facebook.com/PositivesPST" target="_blank" rel="nofollow"></a></li>
+                <li class="hide-for-small-only"><a class="button round icon-twitter" href="https://twitter.com/PasseportSante" target="_blank" rel="nofollow"></a></li>
+                <li class="hide-for-small-only"><a class="button round icon-youtube" href="https://www.youtube.com/channel/UCZ1QIkfOF_TRxcyl9wV79Nw" target="_blank" rel="nofollow"></a></li>
+            </ul>
+        </section>
+    </nav>
+
+    <div class="siteheader_search show-for-small-only">
+        <input type="text" placeholder="Chercher : rhume, huile essentielle de lavande, prise de sang..." id="headerSearch" onkeypress="return searchcheckKey(event,this.value);">
+    </div>
+</header>
+
+        <div id="leaderboardTopHolder" class="row bg-white">
+            <div class="small-12 columns mb20">
+                <div id="leaderboardTop" class="pstAd mb0">
+	<script type="text/javascript">
+		if(typeof(displayAd)!='undefined')displayAd("leaderboardTop");
+	</script>
+</div>
+            </div>
+        </div>
+
+        
+        
+
+<div class="row hide-for-small-only">
+	<div class="columns">
+		<div class="search">
+			<input type="text" placeholder="Chercher : rhume, huile essentielle de lavande, prise de sang..." id="searchField" onkeypress="return searchcheckKey(event,this.value);">
+			<a href="javascript:void(0);" onclick="GoSearchCopernic(document.getElementById('searchField').value,0);" class="button icon-zoom"></a>
+		</div>
+	</div>
+</div>
+
+
+        
+        <main id="mainRow" role="main" class="row">
+            
+            <div class="main_content">
+                
+                
+    <div id="headerFiche">
+        
+    </div>
+
+    
+
+    
+		<nav class="mb15" role="navigation">
+			<ul class="breadcrumbs">
+	<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://www.passeportsante.net/" itemprop="url"><span itemprop="title">PasseportSanté</span></a></li><li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/problemes-et-maladies-p69" itemprop="url"><span itemprop="title">Problèmes et maladies</span></a></li><li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/problemes-et-maladies-p69/maladies-de-l-appareil-respiratoire-orl-83" itemprop="url"><span itemprop="title">Maladies de l’appareil respiratoire (ORL)</span></a></li>
+			</ul>
+		</nav>
+	 
+
+    
+
+    <h1>
+        Bronchopneumopathie chronique obstructive : tout sur la BPCO</h1>
+
+    
+
+    <div class="fiche-content mb30">
+        
+	<div id="page_contenuFiche_col1">
+		<div class="clearfix"><div class="imgFicheDetails"><img onclick="popupWindowLienInterne('/fr/P/Loupe/Fiche.aspx?id=42019')" title="bronchite_chronique_emphyseme_pm" src="https://static.passeportsante.net/i42149-bronchite-chronique-et-emphyseme-bpco.jpg" alt="bronchite_chronique_emphyseme_pm" title="bronchite_chronique_emphyseme_pm" style="border:0;"/></div><div class="summary"><div>Sommaire</div><ul><li><a href="/fr/Maux/Problemes/Fiche.aspx?doc=bronchite_chronique_emphyseme_pm" style="color: #64A142;">La BPCO : qu’est-ce que c’est?</a></li><li><a href="/fr/Maux/Problemes/Fiche.aspx?doc=bronchite-chronique-emphyseme-pm-symptomes-de-la-mpoc">Symptômes de la BPCO</a></li><li><a href="/fr/Maux/Problemes/Fiche.aspx?doc=bronchite-chronique-emphyseme-pm-personnes-a-risque">Personnes et facteurs de risque</a></li><li><a href="/fr/Maux/Problemes/Fiche.aspx?doc=bronchite-chronique-emphyseme-pm-prevention-de-la-mpoc">Prévention de la BPCO</a></li><li><a href="/fr/Maux/Problemes/Fiche.aspx?doc=bronchite-chronique-emphyseme-pm-traitements-medicaux-de-la-mpoc">Traitements médicaux de la BPCO</a></li><li><a href="/fr/Maux/Problemes/Fiche.aspx?doc=bronchite-chronique-emphyseme-pm-l-opinion-de-notre-medecin">L’opinion de notre médecin</a></li><li><a href="/fr/Maux/Problemes/Fiche.aspx?doc=bronchite-chronique-emphyseme-pm-approches-complementaires">Approches complémentaires</a></li><li><a href="/fr/Maux/Problemes/Fiche.aspx?doc=bronchite-chronique-emphyseme-pm-sites-d-interet">Sites d’intérêt et groupes de soutien</a></li><li><a href="/fr/Maux/Problemes/Fiche.aspx?doc=bronchite-chronique-emphyseme-pm-references">Références</a></li></ul></div></div><div class="contentFiche"><div class="BoiteAudioVideo bckAudio">
+	<a href="/fr/AudioVideoBalado/Index.aspx?docId=271"><img src="https://medias.passeportsante.net/audio/thumbnails/capsule_sante_bourbeau.jpg" /></a> <a class="LienTexte" href="/fr/AudioVideoBalado/Index.aspx?docId=271">Dr Jean Bourbeau - La bronchite chronique et l&rsquo;emphys&egrave;me</a></div>
+<p>
+	Le nom &laquo;&nbsp;<b>maladie pulmonaire obstructive chronique</b>&nbsp;&raquo; ou&nbsp;BPCO&nbsp;d&eacute;signe un <strong>ensemble de probl&egrave;mes respiratoires</strong> graves et irr&eacute;versibles. Les principaux sont la <b>bronchite chronique</b> et l&rsquo;emphys&egrave;me. Les sympt&ocirc;mes d&eacute;butent rarement avant la cinquantaine.</p>
+<p>
+	Les personnes atteintes de&nbsp;BPCO&nbsp;<b>toussent beaucoup</b> et sont facilement essouffl&eacute;es. Au fur et &agrave; mesure que la maladie progresse, les activit&eacute;s quotidiennes deviennent plus p&eacute;nibles. Celles-ci doivent &ecirc;tre r&eacute;organis&eacute;es en fonction de l&rsquo;&eacute;nergie et du souffle disponibles.</p><div id="leadgen1">
+	<script type="text/javascript">
+		if(typeof(displayAd)!='undefined')displayAd("leadgen1");
+	</script>
+</div>
+<p>
+	Le tabagisme de longue date est responsable de 80&nbsp;% &agrave; 90&nbsp;% des cas de&nbsp;BPCO. Environ 1&nbsp;<b>fumeur</b> sur&nbsp;5 d&eacute;veloppe une&nbsp;BPCO. L&rsquo;exposition &agrave; la <b>fum&eacute;e secondaire</b> et &agrave; des <b>polluants</b> a&eacute;riens peut aussi y contribuer. Parfois, la cause est inexpliqu&eacute;e.</p>
+<h2>
+	<b>Types</b></h2>
+<p>
+	Souvent, on retrouve des caract&eacute;ristiques &agrave; la fois de bronchite chronique et d&rsquo;emphys&egrave;me chez une m&ecirc;me personne (voir sch&eacute;ma):</p>
+<ul>
+	<li>
+		<b>Bronchite chronique. </b>Elle repr&eacute;sente 85&nbsp;% des cas de&nbsp;<span>BPCO</span>. Une bronchite est dite chronique lorsque la <b>toux</b> a &eacute;t&eacute; pr&eacute;sente au moins 3&nbsp;mois par ann&eacute;e, durant 2&nbsp;ann&eacute;es cons&eacute;cutives, et qu&rsquo;il n&rsquo;y a pas d&rsquo;autre probl&egrave;me pulmonaire (fibrose kystique, tuberculose, etc.).<br />
+		&nbsp;<br />
+		La paroi des bronches produit du <b>mucus</b> en abondance. De plus, les bronches sont constamment en proie &agrave; des <strong>r&eacute;actions inflammatoires</strong>, car elles deviennent &laquo;&nbsp;colonis&eacute;es&nbsp;&raquo; par des bact&eacute;ries. Cette colonisation n&rsquo;est pas consid&eacute;r&eacute;e comme une infection, au sens o&ugrave; on l&rsquo;entend habituellement. Par contre, normalement, les bronches sont st&eacute;riles, c&rsquo;est-&agrave;-dire qu&rsquo;aucune bact&eacute;rie et aucun virus ou autre micro-organisme ne s&rsquo;y trouve.</li>
+	<li>
+		<b>Emphys&egrave;me.</b> Les alv&eacute;oles des poumons perdent de leur &eacute;lasticit&eacute;, se d&eacute;forment peu &agrave; peu ou se rompent. Lorsque les alv&eacute;oles sont d&eacute;truites ou endommag&eacute;es, les &eacute;changes d&rsquo;oxyg&egrave;ne et de dioxyde de carbone deviennent moins efficaces. De plus, les parois des <b>bronches</b> se ferment &agrave; l&rsquo;expiration par manque de soutien de la part des tissus environnants. Cette fermeture des bronches &agrave; l&rsquo;expiration ne fait pas que g&ecirc;ner le <b>passage de l&rsquo;air</b>. Elle provoque aussi la s&eacute;questration d&rsquo;une quantit&eacute; anormale d&rsquo;air dans les poumons.</li>
+</ul>
+<table cellspacing="0" class="notabene">
+	<tbody>
+		<tr>
+			<td>
+				<p>
+					<b>Mieux comprendre la&nbsp;</b><strong>BPCO</strong></p>
+				<p>
+					Normalement, l&rsquo;inspiration est un ph&eacute;nom&egrave;ne actif et l&rsquo;expiration un ph&eacute;nom&egrave;ne passif. Lorsqu&rsquo;il y a obstruction des bronches, comme c&rsquo;est le cas dans la&nbsp;BPCO, l&rsquo;effort pour respirer augmente beaucoup, car l&rsquo;expiration est forc&eacute;e de devenir active. La sensation ressemble &agrave; celle ressentie lors d&rsquo;un effort physique important. L&rsquo;obstruction dont il est question survient donc &agrave; l&rsquo;expiration et non &agrave; l&rsquo;inspiration.</p>
+				<p>
+					Dans le cas de la <b>bronchite chronique</b>, le calibre des bronches est diminu&eacute; par l&rsquo;<a class="glossaire" href="javascript:;" onmouseout="hideTooltip('dHTMLToolTip')" onmouseover="showTooltip('dHTMLToolTip',event, getDefinition('INFLAMMATION'))">inflammation</a>, les s&eacute;cr&eacute;tions, et parfois des spasmes des muscles situ&eacute;s dans la paroi des bronches. Dans le cas de l&rsquo;<b>emphys&egrave;me</b>, les bronches s&rsquo;affaissent et perdent de leur &eacute;lasticit&eacute;. Les alv&eacute;oles deviennent anormalement dilat&eacute;es; elles sont alors moins efficaces pour r&eacute;aliser les &eacute;changes gazeux.</p>
+				<p>
+					Les <b>poumons</b> d&rsquo;une personne atteinte de bronchite chronique ou d&rsquo;emphys&egrave;me en viennent &agrave; contenir beaucoup plus d&rsquo;air que la normale. Cependant, cet air n&rsquo;est pas de qualit&eacute;&nbsp;: il est peu utile au corps parce qu&rsquo;il contient peu d&rsquo;oxyg&egrave;ne et est stagnant. Le r&ocirc;le des poumons est de r&eacute;aliser des &eacute;changes gazeux. &Agrave; chaque respiration, les poumons absorbent de l&rsquo;oxyg&egrave;ne et &eacute;liminent du gaz carbonique (CO<sub>2</sub>). Chez une personne atteinte de&nbsp;BPCO, il y a dans les poumons de l&rsquo;air &laquo;&nbsp;prisonnier&nbsp;&raquo;, qui ne participe pas &agrave; ces &eacute;changes gazeux.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<h2>
+	<b>De plus en plus fr&eacute;quentes</b></h2>
+<p>
+	Au Canada, les <b>maladies pulmonaires obstructives chroniques</b> constituent la 4<sup>e</sup>&nbsp;cause de<b> d&eacute;c&egrave;s</b> apr&egrave;s le cancer, les maladies cardiaques et les accidents vasculaires c&eacute;r&eacute;braux<sup>26</sup>. Les experts pr&eacute;voient qu&#39;en&nbsp;2013, elles figureront au 3<sup>e</sup>&nbsp;rang des causes de d&eacute;c&egrave;s. La&nbsp;BPCO&nbsp;m&egrave;ne peu &agrave; peu &agrave; l&rsquo;insuffisance cardiaque en surchargeant le coeur, qui doit propulser le sang &agrave; travers les poumons malades. Chez les <b>fumeurs</b>, la&nbsp;BPCO&nbsp;augmente le risque de cancer du poumon.</p><a href='https://www.comptoirbotanique.fr/huile-essentielle-cypres-bio.html?utm_source=trafic_cible&utm_medium=bannière&utm_campaign=huiles_essentielles&utm_content=he_cypres' class='pstBanner' target='_blank'><img data-src='https://static.passeportsante.net/i89984-.jpeg' src='https://static.passeportsante.net/resources/img/1x1-pixel.png' data-src-small='https://static.passeportsante.net/i89985-.jpeg'></a>
+<p>
+	Environ 6&nbsp;% des Canadiens &acirc;g&eacute;s de 55&nbsp;ans &agrave; 64&nbsp;ans en souffrent, et 7&nbsp;% des 65&nbsp;ans &agrave; 74&nbsp;ans<sup>1</sup>.</p>
+<p>
+	Actuellement, la <b>bronchite chronique</b> et l&#39;<b>emphys&egrave;me</b> touchent autant les hommes que les femmes.</p>
+<h2>
+	<b>&Eacute;volution</b></h2>
+<p>
+	Avant m&ecirc;me que les premiers <b>sympt&ocirc;mes</b> apparaissent (la toux, habituellement), des dommages aux <b>poumons</b> sont d&eacute;j&agrave; bien install&eacute;s et irr&eacute;versibles. &Agrave; ce stade, cesser de s&rsquo;exposer aux irritants, comme la fum&eacute;e du tabac, est encore tr&egrave;s profitable. On ralentit alors la progression de la maladie.</p>
+<p>
+	Avec le temps, la <b>toux</b> devient plus fr&eacute;quente, de m&ecirc;me que les rhumes et les bronchites aigu&euml;s. Les expectorations sont plus abondantes. La <b>respiration</b> devient de plus en plus difficile lors d&rsquo;efforts importants. La personne a tendance &agrave; devenir plus s&eacute;dentaire. &Agrave; un certain stade, la maladie provoque l&rsquo;<b>essoufflement</b> au moindre effort physique, et ensuite, m&ecirc;me au repos. Les sympt&ocirc;mes s&rsquo;exacerbent en p&eacute;riode de <a class="glossaire" href="javascript:;" onmouseout="hideTooltip('dHTMLToolTip')" onmouseover="showTooltip('dHTMLToolTip',event, getDefinition('SMOG'))">smog</a>, lors d&rsquo;infections normalement banales ou d&rsquo;exposition &agrave; des substances irritantes pour les voies respiratoires. L&#39;hospitalisation est parfois n&eacute;cessaire.</p>
+<p>
+	Il est important de bien traiter les crises d&rsquo;<b>exacerbation</b><b> des sympt&ocirc;mes</b>, qui risquent d&rsquo;augmenter la destruction des fragiles tissus pulmonaires.</p>
+<p>
+	L&rsquo;&eacute;puisement, la <b>souffrance</b> psychologique et l&rsquo;isolement sont des difficult&eacute;s fr&eacute;quemment rencontr&eacute;es par les personnes atteintes de cette maladie invalidante. Un <b>amaigrissement</b> peut survenir au stade avanc&eacute; de la maladie, car le travail respiratoire est tel qu&rsquo;il se compare &agrave; la pratique d&rsquo;un effort physique important et constant.</p>
+<p>
+	Actuellement, les m&eacute;decins s&#39;inqui&egrave;tent du fait que la BPCO est souvent diagnostiqu&eacute;e trop tardivement, limitant ainsi l&#39;efficacit&eacute; des traitements.</p>
+</div><div class="paginator"><ul class="clearfix"><li style="background:none;" class="prevFolder"><a href="javascript:void(0)" style="cursor:default;" rel="noindex, nofollow">&nbsp;</a></li><li onclick="location.href='/fr/Maux/Problemes/Fiche.aspx?doc=bronchite-chronique-emphyseme-pm-symptomes-de-la-mpoc';" class="nextFolder"><a href="/fr/Maux/Problemes/Fiche.aspx?doc=bronchite-chronique-emphyseme-pm-symptomes-de-la-mpoc"><span>Page suivante</span></a><a href="/fr/Maux/Problemes/Fiche.aspx?doc=bronchite-chronique-emphyseme-pm-symptomes-de-la-mpoc">Symptômes de la BPCO</a></li></ul></div><div id="dynInfeed1" class="dynInFeed">
+	<script type="text/javascript">
+		pbjs.que.push(function(){ if (typeof(prebid) !== 'undefined' && typeof(prebidFn.defineDynamicAdslot) !== 'undefined') prebidFn.defineDynamicAdslot('dynInfeed', 1); } );
+	</script>
+</div><div id="leadgen2">
+	<script type="text/javascript">
+		if(typeof(displayAd)!='undefined')displayAd("leadgen2");
+	</script>
+</div>
+	</div>
+
+    </div>
+
+    
+    
+
+    
+    
+
+
+    <div class="pstAd mb10 OUTBRAIN" data-widget-id="AR_1" data-ob-template="passeport" data-src="https://www.passeportsante.net/fr/Maux/Problemes/Fiche.aspx?doc=bronchite_chronique_emphyseme_pm">
+
+</div>
+    
+    
+
+    
+
+    
+    <br />
+
+    <div id="leaderboardMiddle" class="pstAd">
+	<script type="text/javascript">
+		if(typeof(displayAd)!='undefined')displayAd("leaderboardMiddle");
+	</script>
+</div>
+
+    
+
+    
+
+    <div class="Centre">
+        
+        
+    </div>
+
+
+                
+                <div id="shareBottom" class="mb30"></div>
+
+                
+                <div id="formatNatif" class="pstAd">
+	<script type="text/javascript">
+		if(typeof(displayAd)!='undefined')displayAd("formatNatif");
+	</script>
+</div>
+            </div>
+            
+            <aside id="aside">
+                
+    
+
+<div id="colonneDroite" class="row">
+	<div class="large-12 medium-6 small-12 columns sticky-init" data-sticky-ads>
+		<div>
+			<div id="mpuTop" class="pstAd txtcenter">
+	<script type="text/javascript">
+		if(typeof(displayAd)!='undefined')displayAd("mpuTop");
+	</script>
+</div>
+			<p class="pstAdLegend">Publicit&eacute;</p>
+
+			
+    <div class="newsletter">
+		<img src="https://static.passeportsante.net/i90300-logo.png" class="newsletter_logo">
+		<div class="newsletter_title">Prenez soin de vous <br>et de votre santé</div>
+		<div class="newsletter_form">
+			<div class="form_title">Chaque jour des conseils<br> d'experts dans votre boîte mail.</div>
+			<fieldset class="white-form" data-form data-form-action="https://account.m6tech.net/subscribe/" data-form-id="subscribeRight" data-form-method="POST" data-form-target="_blank">
+				<input type="email" id="optinRightEmail" placeholder="Saisissez votre email" name="subscriber" pattern="^([a-zA-Z0-9.!#$%&amp;’*+/=?^_`{|}~-]{1,64}@([a-zA-Z0-9-]+.[a-zA-Z0-9-]{2,}){1,255}){1,320}$" tabindex="-1">
+				<input type="hidden" value="passeportsante" name="client">
+				<input type="hidden" value="PST_Site_ColonneDroite" name="origin">
+				<input type="hidden" name="force" value="1">
+				<button type="button" class="button">OK</button>
+			</fieldset>
+		</div>
+	</div>
+	<p class="notice">
+		Votre adresse email sera uniquement utilisée par M6 Digital Services pour vous envoyer votre newsletter contenant des 
+		offres commerciales personnalisées. Vous pouvez vous désinscrire à tout moment en utilisant le lien de désabonnement intégré 
+		dans la newsletter. 
+		Pour en savoir plus et 
+		<u title="Vous disposez d'un droit d'accès, de rectification, d'effacement, de portabilité, de limitation, de retrait de votre consentement à tout moment ainsi que du droit de définir les directives particulières relatives à leur sort après votre décès." style="cursor:help">exercer vos droits</u>
+		, prenez connaissance de notre 
+		<a href="https://gdpr.m6tech.net/charte-confidentialite-m6-web-passeportsante.pdf" target="_blank">Charte de Confidentialité</a>.
+	</p>
+
+
+			<div id="espace_malin" class="pstAd pst-focus mb20">
+	<script type="text/javascript">
+		if(typeof(displayAd)!='undefined')displayAd("espace_malin");
+	</script>
+</div>
+		</div>
+	</div>
+	<div class="large-12 medium-6 small-12 columns sticky-init" data-sticky-ads>
+		<div>
+			<div id="mpuMiddle" class="pstAd txtcenter">
+	<script type="text/javascript">
+		if(typeof(displayAd)!='undefined')displayAd("mpuMiddle");
+	</script>
+</div>
+			<p class="pstAdLegend">Publicit&eacute;</p>
+
+			
+    <div class="pt30 mb20">
+        <div class="newsletter-botanique">
+            <div class="newsletter_title">Inscrivez-vous<br />à la newsletter Comptoir Botanique</div>
+			<div class="newsletter_subtitle">Votre nouveau rélfexe <br />bien-être</div>
+			<fieldset data-form data-form-action="https://account.m6tech.net/subscribe/" data-form-id="subscribeBotanique" data-form-method="POST" data-form-target="_blank">
+				<input type="email" id="optinRightEmail" placeholder="Saisissez votre email" name="subscriber" pattern="^([a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]{1,64}@([a-zA-Z0-9-]+.[a-zA-Z0-9-]{2,}){1,255}){1,320}$" tabindex="-1" aria-label="Saisissez votre email" />
+				<input type="hidden" value="comptoirbotanique" name="client">
+				<input type="hidden" value="PST_Site_ColonneDroite" name="origin">
+				<input type="hidden" name="force" value="1">
+				<button type="button" class="button">OK</button>
+			</fieldset>
+			<div class="newsletter_pdf">
+				<strong>BONUS !</strong> Recevez gratuitement notre guide pour bien démarrer en aromathérapie.
+			</div>
+        </div>
+		<p class="notice">
+            Votre adresse email sera uniquement utilisée par M6 Digital Services pour vous envoyer votre newsletter contenant des 
+            offres commerciales personnalisées. Vous pouvez vous désinscrire à tout moment en utilisant le lien de désabonnement intégré 
+            dans la newsletter. 
+            Pour en savoir plus et 
+            <u title="Vous disposez d'un droit d'accès, de rectification, d'effacement, de portabilité, de limitation, de retrait de votre consentement à tout moment ainsi que du droit de définir les directives particulières relatives à leur sort après votre décès." style="cursor:help">exercer vos droits</u>
+            , prenez connaissance de notre 
+            <a href="https://www.comptoirbotanique.fr/pdf/charte-confidentialite-comptoir-botanique.pdf" target="_blank">Charte de Confidentialité</a>.
+        </p>
+    </div>
+
+
+			
+
+
+			<div id="FaceTwit" class="mb20 txtcenter">
+				<fb:like-box href="https://www.facebook.com/PositivesPST" width="300" show_faces="true" stream="false" header="true"></fb:like-box>
+				<a href="http://twitter.com/PasseportSante" target="_blank" id="twitWidget"></a>
+			</div>
+
+			
+		</div>
+	</div>
+</div>
+
+
+            </aside>
+            
+            <span class="smoothScroll button icon-arrow-top has-icon-only scrollToTop hide-for-print" data-smoothscroll="#topOfPage"></span>
+        </main>
+
+        
+        <div id="leaderboardMiddle" class="pstAd row mb0 pb15">
+	<script type="text/javascript">
+		if(typeof(displayAd)!='undefined')displayAd("leaderboardMiddle");
+	</script>
+</div>
+
+        
+        
+
+        
+        
+
+    
+    <footer class="main-footer hide-for-print">
+		<section>
+			<div class="row">
+				<div class="medium-3 columns">
+					<div class="sprites-logo-white"></div>
+					<div class="footer_socials">
+						<a class="button round icon-facebook" href="https://www.facebook.com/PositivesPST" target="_blank" rel="nofollow"></a>
+						<a class="button round icon-twitter" href="https://twitter.com/PasseportSante" target="_blank" rel="nofollow"></a>
+						<a class="button round icon-youtube" href="https://www.youtube.com/channel/UCZ1QIkfOF_TRxcyl9wV79Nw" target="_blank" rel="nofollow"></a>
+					</div>
+					<ul class="footer_charter">
+						<li>
+							<div title="Ce site respecte les principes de la charte HONcode" onclick="window.open('https://www.healthonnet.org/HONcode/Conduct_f.html?HONConduct612352'); return false;" class="sprites-honcode"></div>
+							<p>
+								Ce site respecte les<br />
+								<span onclick="window.open('http://www.healthonnet.org/HONcode/Conduct_f.html'); return false;"> principes de la<br/>
+								charte HONcode</span>.
+								<br>
+								<span onclick="window.open('https://www.healthonnet.org/HONcode/Conduct_f.html?HONConduct612352'); return false;">Vérifiez ici.</span>
+							</p>
+						</li>
+						<li>
+							<div class="sprites-adtrust"></div>
+						</li>
+					</ul>
+				</div>
+				<div class="medium-9 columns hide-for-small-only">
+					<div class="row">
+						<div class="medium-4 columns">
+							<ul class="link-list">
+								<li class="link-list_title">Accès rapide</li>
+								<li><span class="concierge1F44C11F301FBA4A3D1FB6494B43C5194AC2C0C5"><var>Plan du site de A à Z</var></span></li>
+								<li><span class="concierge1F44C11FBAC34B464F34464B434FB14A484A4B4F1F"><var>Audio-Vidéo</var></span></li>
+								<li><span class="concierge1F44C11F301FB1464148464FCB4543CAC3431FB6494B43C5194AC2C0C5"><var>Bibliothèque</var></span></li>
+							</ul>
+
+							<ul class="link-list">
+								<li class="link-list_title"><span class="concierge1F44C11FBA42CBC34A4846CB43C21FBE4AC01FB6494B43C5194AC2C0C5"><var>Actualités</var></span></li>
+								<li><span class="concierge1F44C11FBA42CBC34A4846CB43C21FB94FC3C443484843C21FB6494B43C5194AC2C0C5"><var>Nouvelles</var></span></li>
+								<li><span class="concierge1F44C11FBA42CBC34A4846CB43C21FB349CBC143C4C343C21FB6494B43C5194AC2C0C5"><var>Entrevues</var></span></li>
+								<li><span class="concierge1F44C11FBA42CBC34A4846CB43C21FBB4FC2C24643C1C21FB6494B43C5194AC2C0C5"><var>Dossiers</var></span></li>
+							</ul>
+
+							<ul class="link-list">
+								<li class="link-list_title"><span class="concierge1FC0C14F4148434E43C21E43CB1E4E4A484A4B4643C21EC02426"><var>Maladies</var></span></li>
+								<li><span class="concierge1F44C11FBE4AC3C51F30C14F4148434E43C21FB6494B43C5194AC2C0C5"><var>Index des maladies de A à Z</var></span></li>
+							</ul>
+
+							<ul class="link-list">
+								<li class="link-list_title"><span class="concierge1F44C11FB9C3CBC146CB464F491FBE4AC01FB6494B43C5194AC2C0C5"><var>Nutrition</var></span></li>
+								<li><span class="concierge1F44C11FB9C3CBC146CB464F491FB34942C642484FC0434B4643BA48464E4349CBC21FB6494B43C5194AC2C0C5"><var>Aliments</var></span></li>
+								<li><span class="concierge1F44C11FB9C3CBC146CB464F491F31434243CBCB43C21FB6494B43C5194AC2C0C5"><var>Recettes</var></span></li>
+								<li><span class="concierge1F44C11FB9C3CBC146CB464F491F304A484E4AC143C2B9C3CBC1464E4349CBC21FB6494B43C5194AC2C0C5"><var>Nutriments</var></span></li>
+								<li><span class="concierge1F44C11FB9C3CBC146CB464F491F31434C464E43C21FB6494B43C5194AC2C0C5"><var>Régimes</var></span></li>
+								<li><span class="concierge1F44C11FB9C3CBC146CB464F491FBB4643CB43C21FB6494B43C5194AC2C0C5"><var>Diètes spéciales</var></span></li>
+							</ul>
+						</div>
+						<div class="medium-4 columns">
+							<ul class="link-list">
+								<li class="link-list_title"><span class="concierge1F44C11F3446C4C143B349324A49CB431FBE4AC01FB6494B43C5194AC2C0C5"><var>Santé au quotidien</var></span></li>
+								<li><span class="concierge1F4E4643C3C51E4E4A494C43C11E422C"><var>Mieux manger</var></span></li>
+								<li><span class="concierge1F4E4A464CC146C11E422A24"><var>Maigrir</var></span></li>
+								<li><span class="concierge1F43CBC1431E43491E444FC14E431E422A"><var>Être en forme</var></span></li>
+								<li><span class="concierge1FC243C5C34A4846CB431E422120"><var>Sexualité</var></span></li>
+								<li><span class="concierge1FC24A49CB431E4E4349CB4A48431E43CB1E434E4FCB46C4431E422B2A"><var>Santé mentale et émotive</var></span></li>
+								<li><span class="concierge1F414643491EC4464346484846C11E422125"><var>Vieillir en santé</var></span></li>
+								<li><span class="concierge1F4349C446C14F4949434E4349CB1E42222C"><var>Environnement</var></span></li>
+								<li><span class="concierge1F44C11F3446C4C143B349324A49CB431F3B43C2CBC21FB6494B43C5194AC2C0C5"><var>Tests et quiz</var></span></li>
+							</ul>
+						
+							<ul class="link-list">
+								<li class="link-list_title"><span class="concierge1F44C11F301F3AC346324F4E4E43C2B94FC3C21FB446424543194AC2C0C52F4B4F422E494FC21EC04AC1CB43494A46C143C2"><var>Partenaires</var></span></li>
+								<li><span class="concierge1F44C11F301F3AC346324F4E4E43C2B94FC3C21FB446424543194AC2C0C52F4B4F422E494FC23FC04AC1CB43494A46C143C23FC242464349CB464446CAC343"><var>Partenaires scientifiques</var></span></li>
+								<li><span class="concierge1F44C11FB24F4E4EC3494AC3CB431FBAC2C24F42464ACB464F49C21FB6494B43C5194AC2C0C5"><var>Annuaire</var></span></li>
+								<li><span class="concierge45CBCBC02D1F1FCCCCCC1942C346C24649434ACD19424F4E1F"><var>Recette de cuisine </var></span></li>
+								<li><span class="concierge45CBCBC02D1F1FCCCCCC194945C0C1C219424A1F"><var>NHP Reasearch</var></span></li>
+								
+							</ul>
+						</div>
+						<div class="medium-4 columns">
+							<ul class="link-list">
+								<li class="link-list_title"><span class="concierge1F44C11FBAC0C0C14F424543C2B24F4EC048434E4349CB4A46C143C21FBE4AC01FB6494B43C5194AC2C0C5"><var>Santé au naturel</var></span></li>
+								<li><span class="concierge1F44C11F324F48C3CB464F49C21F30484A49CB43C232C3C0C048434E4349CBC21FB6494B43C5194AC2C0C5"><var>Santé au naturel</var></span></li>
+								<li><span class="concierge1F44C11F3B4543C14AC04643C21FBCC3464B431FB6494B43C5194AC2C0C5"><var>Thérapies</var></span></li>
+								<li><span class="concierge1F44C11F324F48C3CB464F49C21FB543C1414643C1BE434B464246494A481FB6494B43C5194AC2C0C5"><var>Herbier médicinal</var></span></li>
+								<li><span class="concierge1F44C11F324F48C3CB464F49C21F30454AC14E4A424FC04343B24546494F46C2431FB6494B43C5194AC2C0C5"><var>Pharmacopée chinoise</var></span></li>
+							</ul>
+
+							<ul class="link-list">
+								<li class="link-list_title"><span class="concierge1F44C11F301F3AC346324F4E4E43C2B94FC3C21FB446424543194AC2C0C52F4B4F422E4A1EC0C14FC04FC21E4B431E494FC3C2"><var>Qui sommes-nous ?</var></span></li>
+								<li><span class="concierge1F44C11F301F3AC346324F4E4E43C2B94FC3C21FB446424543194AC2C0C52F4B4F422E4A1EC0C14FC04FC21E4B431E494FC3C2"><var>À propos de nous</var></span></li>
+								<li><span class="concierge1F44C11F301F3AC346324F4E4E43C2B94FC3C21FB446424543194AC2C0C52F4B4F422E43CAC346C0433FC04AC2C243C04FC1CB"><var>Notre équipe</var></span></li>
+								<li><span class="concierge1F44C11FB24F4E4EC3494AC3CB431FB1484F4CC3431FB6494B43C5194AC2C0C5"><var>Blogs</var></span></li>
+								<li><span class="concierge1F44C11FB24F4E4EC3494AC3CB431F3143C04F49C2B3C243C5C043C1CB1FB6494B43C5194AC2C0C5"><var>Réponses d'Experts</var></span></li>
+								<li><span class="concierge1F44C11F301F3AC346324F4E4E43C2B94FC3C21FB446424543194AC2C0C52F4B4F422EC0C34148464246CB433FC1C0"><var>Publicité</var></span></li>
+								<li><span class="concierge1F44C11F301F3AC346324F4E4E43C2B94FC3C21FB446424543194AC2C0C52F4B4F422E494FCBC1433F484F4C4F3FC1C0"><var>Notre logo</var></span></li>
+								<li><span class="concierge1F44C11F301F3AC346324F4E4E43C2B94FC3C21FB446424543194AC2C0C52F4B4F422E4E43CB454F4B4F484F4C46433FC1C0"><var>Notre méthodologie</var></span></li>
+								<li><span class="concierge1F44C11F301F41464148464FCB4543CAC3431FB6494B43C5194AC2C0C5"><var>Bibliothèque</var></span></li>
+								<li><span class="concierge1F44C11F301F3AC346324F4E4E43C2B94FC3C21FB446424543194AC2C0C52F4B4F422E42454AC1CB431E424F4944464B4349CB464A4846CB43"><var>Charte de confidentialité</var></span></li>
+								<li><span class="concierge1F484F461E424F4F474643C21FB24F49CB4349C31FC0C14FCB4342CB464F491E4B431E484A1EC446431EC0C146C443431E43CB1E4843C21E424F4F474643C21E2521194AC2C0C5"><var>Gestion des cookies</var></span></li>
+								<li><span class="concierge1F44C11F301F3AC346324F4E4E43C2B94FC3C21FB446424543194AC2C0C52F4B4F422E424FC0C6C1464C45CB3FC1C0"><var>Reproduction et droits d'auteur</var></span></li>
+								<li><span class="concierge1F4E434B464A"><var>Pour les médias</var></span></li>
+								<li><span class="concierge1F44C11F301F3AC346324F4E4E43C2B94FC3C21FB24F49CB4A42CB43CDB94FC3C2194AC2C0C5"><var>Contactez-nous</var></span></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section>
+			<div class="row">
+				<div class="columns">
+					<p>
+						En cas de malaise ou de maladie, consultez d’abord un médecin ou un professionnel de la santé en mesure d’évaluer adéquatement votre état de santé. En utilisant ce site, vous reconnaissez avoir pris connaissance de l’avis de désengagement de responsabilité et vous consentez à ses modalités. Si vous n’y consentez pas, vous n’êtes pas autorisé à utiliser ce site.
+					</p>
+				</div>
+				<div class="columns">
+					<div class="footer_m6group">
+						<a href="https://www.groupem6.fr/" target="_blank" class="sprites-m6"></a>
+						<a href="https://www.radins.com" target="_blank" class="sprites-radins"><span class="dnone">Radins.com</span></a>
+						<a href="https://www.cuisineaz.com/" target="_blank" class="sprites-cuisineaz"><span class="dnone">CuisineAZ</span></a>
+						<a href="https://www.meteocity.com/" target="_blank" class="sprites-m6meteo"><span class="dnone">météocity</span></a>
+						<a href="https://www.fourchette-et-bikini.fr/" target="_blank" class="sprites-fourchette"><span class="dnone">Fourchette &amp; Bikini</span></a>
+						<a href="https://www.turbo.fr/" target="_blank" class="sprites-turbo"><span class="dnone">Turbo</span></a>
+						<a href="https://www.deco.fr/" target="_blank" class="sprites-deco"><span class="dnone">Déco</span></a>
+					</div>
+					<div class="footer_m6group">
+						<a href="https://www.6play.fr/" target="_blank">6Play.fr</a>
+						<a href="https://www.comptoirbotanique.fr/" target="_blank">Comptoir Botanique</a>
+						<a href="https://www.croq-kilos.com/" target="_blank">Croq-Kilos.com</a>
+						<a href="https://www.fast-oche.com/" target="_blank">Fast-oche.com</a>
+						<a href="https://www.funradio.fr/" target="_blank">Funradio.fr</a>
+						<a href="https://www.rtl.fr/" target="_blank">RTL.fr</a>
+						<a href="https://www.rtl2.fr/" target="_blank">RTL2.fr</a>
+						<a href="https://smartcoupon.io/" target="_blank">SmartCoupon.io</a>
+						<a href="https://www.racepack.com/" target="_blank">RacePack.com</a>
+						<a href="http://www.minutefacile.com/" target="_blank">Minutefacile.com</a>
+					</div>
+					<p>
+						Reproduction et droit d'auteur © 1998-2019 Oxygem - <a href="/fr/P/QuiSommesNous/Fiche.aspx?doc=charte-confidentialite">Charte de confidentialité</a> - <a href="javascript:void(0);" onclick="m6CookiesPopin();">Préférences cookies</a>
+					</p>
+				</div>
+			</div>
+		</section>
+	</footer>
+
+
+        
+        <div id="ajaxModal" class="foxBox" aria-hidden="true" role="dialog">
+            <a href="#" class="foxboxClose" aria-label="Close">&times;</a>
+        </div>
+
+    </form>
+    
+
+<script src="https://static.passeportsante.net/resources/src/js/functions.min.js?ver=1563787380" type="text/javascript"></script>
+
+    
+    
+</body>
+</html>

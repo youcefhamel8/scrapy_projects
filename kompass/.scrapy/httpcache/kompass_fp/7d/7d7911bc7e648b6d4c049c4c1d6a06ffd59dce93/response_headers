@@ -1,0 +1,13 @@
+Date: Sun, 10 Nov 2019 16:49:12 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, Origin, Authorization, Accept, Client-Security-Token, Accept-Encoding
+Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE, PUT
+Set-Cookie: JSESSIONID=19BAE90D0BD1F1B464106F92287E1B00; Path=/; Secure; HttpOnly
+Set-Cookie: JSESSIONID=19BAE90D0BD1F1B464106F92287E1B00; Path=/; Secure; HttpOnly
+Set-Cookie: _k_cty_lang=fr_DZ; Domain=.kompass.com; Path=/
+Content-Type: text/html;charset=UTF-8
+Content-Language: fr-DZ
+Vary: Accept-Encoding
+Content-Encoding: gzip

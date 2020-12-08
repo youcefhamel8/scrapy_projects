@@ -1,0 +1,11 @@
+Date: Sun, 10 Nov 2019 16:38:11 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, Origin, Authorization, Accept, Client-Security-Token, Accept-Encoding
+Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE, PUT
+Set-Cookie: JSESSIONID=2ECD94EFAC804B66010E8540E1ABB5DB; Path=/; Secure; HttpOnly
+Content-Type: text/html;charset=UTF-8
+Content-Language: fr-DZ
+Vary: Accept-Encoding
+Content-Encoding: gzip

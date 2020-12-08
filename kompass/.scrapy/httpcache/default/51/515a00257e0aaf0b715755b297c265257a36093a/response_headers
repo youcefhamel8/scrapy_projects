@@ -1,0 +1,13 @@
+Date: Sat, 09 Nov 2019 20:15:52 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, Origin, Authorization, Accept, Client-Security-Token, Accept-Encoding
+Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE, PUT
+Set-Cookie: JSESSIONID=4764212C72B0B73A8F23EEF0AE2AE8D7; Path=/; Secure; HttpOnly
+Set-Cookie: JSESSIONID=4764212C72B0B73A8F23EEF0AE2AE8D7; Path=/; Secure; HttpOnly
+Set-Cookie: _k_cty_lang=fr_DZ; Domain=.kompass.com; Path=/
+Set-Cookie: kp_uuid=c862db36-ca28-4a7e-a211-d7e376318fe8; Expires=Mon, 08-Nov-2021 20:15:52 GMT; Path=/
+Set-Cookie: ROUTEID=.6; path=/
+Location: /r/wilaya-bejaia/dz_dz06/
+Content-Language: fr-DZ

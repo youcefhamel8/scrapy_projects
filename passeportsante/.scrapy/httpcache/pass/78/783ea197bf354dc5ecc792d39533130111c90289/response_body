@@ -1,0 +1,1128 @@
+
+
+<!DOCTYPE html>
+
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	L'aphasie, qu'est-ce que c'est ?
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui" /><meta name="apple-mobile-web-app-capable" content="yes" /><meta name="mobile-web-app-capable" content="yes" /><meta name="theme-color" content="#2688c9" /><meta name="google-site-verification" content="CXFvwzCk2DPKvg-WWaEEn4M4nRY8QFXzL9VimLvYYts" /><meta name="language" content="fr" /><link rel="shortcut icon" href="../../../favicon.ico" type="image/x-icon" />
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat:700|Open+Sans:300;400,600,700" rel="stylesheet">
+<link rel="stylesheet" href="https://static.passeportsante.net/resources/src/css/style.min.css?ver=1563787380" />
+
+<script src="https://www.passeportsante.net/handlers/js/clienttarget.js?ver=1517495753" type="text/javascript"></script>
+<meta property="fb:admins" content="1429380296" /><meta property="fb:app_id" content="242901335829574" /><meta property="og:title" content="L&#39;aphasie, qu&#39;est-ce que c&#39;est ? " /><meta property="og:image" content="https://static.passeportsante.net/i41697-l-aphasie-qu-est-ce-que-c-est.jpg" /><meta property="og:url" content="https://www.passeportsante.net/fr/Maux/Problemes/Fiche.aspx?doc=aphasie" /><meta property="og:site_name" content="https://www.passeportsante.net/" /><meta property="og:type" content="article" /><meta property="og:description" content="L&#39;aphasie est un trouble du langage. De la difficulté de trouver ses mots à l&#39;impossibilité de s&#39;exprimer, on peut se soigner sans traitement." /><meta property="article:published_time" content="2017-03-30T22:00:00.0000000Z" />
+    <script type="text/javascript">
+	var _activeAdslots = ["leadgen1","leadgen2","oop","oop_bis","leaderboardTop","leaderboardMiddle","formatNatif","mpuTop","espace_malin","mpuMiddle"];
+	var _networkCode=42159803;
+	var _adunitCode='PASSEPORTSANTE/rotationgenerale';
+	var pageCriterias = [{'name':"sec",'value':["F","MAU","IND"]}];
+
+</script>
+    
+
+    <script type="text/javascript">
+        function getDefinition(mot) {
+            $.ajax({
+                url: '/services/getGlossaire.aspx?mot=' + mot,
+                type: "get",
+                success: function (data) {
+                    $('#dHTMLToolTip').html(data);
+                }
+            });
+            return 'Chargement en cours...';
+        }
+    </script>
+<link href="/fr/Maux/Problemes/Fiche.aspx?doc=aphasie-les-symptomes-de-l-aphasie-et-traitement-de-l-aphasie" rel="next" /><meta name="description" content="L&#39;aphasie est un trouble du langage. De la difficulté de trouver ses mots à l&#39;impossibilité de s&#39;exprimer, on peut se soigner sans traitement." /><meta name="keywords" content="Aphasie, trouble du langage, AVC, ortophonie" /><meta name="thumbnail" content="https://static.passeportsante.net/i41697-l-aphasie-qu-est-ce-que-c-est.jpg" /><script type="application/ld+json">{"@context": "http://schema.org/","@type": "MedicalCondition","description": "L'aphasie est un trouble du langage. De la difficulté de trouver ses mots à l'impossibilité de s'exprimer, on peut se soigner sans traitement.","name": "L'aphasie","image": "https://static.passeportsante.net/i41697-l-aphasie-qu-est-ce-que-c-est.jpg","url": "/fr/Maux/Problemes/Fiche.aspx?doc=aphasie"}</script><link rel="canonical" href="https://www.passeportsante.net/fr/Maux/Problemes/Fiche.aspx?doc=aphasie" /></head>
+<body id="sitebody">
+    <div id="topOfPage"></div>
+    
+<script>
+
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+var pbjs = pbjs || {};
+pbjs.que = pbjs.que || [];
+var displayAd = function(e){ pbjs.que.push(function () { dfpHelper.displayAd(e)}); };
+</script>
+
+
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-N2DSNF');</script>
+
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N2DSNF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <form method="post" action="./Fiche.aspx?doc=aphasie" id="form1" class="global-form">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM3NDk3Mzc1Nw9kFgJmD2QWAmYPDxYEHglUaXRsZVBhZ2UFIEwnYXBoYXNpZSwgcXUnZXN0LWNlIHF1ZSBjJ2VzdCA/Hg9Tb2NpYWxNZXRhVGl0bGUFIUwnYXBoYXNpZSwgcXUnZXN0LWNlIHF1ZSBjJ2VzdCA/IGQWAgIFD2QWBAICD2QWAgIDDxYCHgtfIUl0ZW1Db3VudAIHFg5mD2QWAgIBDxYCHgVjbGFzcwUIcmljaG1lbnUWBgIBDxYCHgdWaXNpYmxlZ2QCAw8WAh4EaHJlZgUaL3Byb2JsZW1lcy1ldC1tYWxhZGllcy1wNjkWAgIBDxYCHgRUZXh0BQhNYWxhZGllc2QCBQ9kFgICAQ8WAh8CAgQWCGYPZBYCAgEPFgIfAwURbWVudV9pdGVtIGlzX2xpc3QWAgIDD2QWAgIBDxYCHwICBxYOZg9kFgICAQ8WBB4JaW5uZXJodG1sBRZNYWxhZGllcyBkZSBBICYjMjI0OyBaHwUFHS9mci9NYXV4L1Byb2JsZW1lcy9JbmRleC5hc3B4ZAIBD2QWAgIBDxYEHwcFFExleGlxdWUgbSYjMjMzO2RpY2FsHwUFIy9mci9NYXV4L0xleGlxdWUtTWVkaWNhbC9JbmRleC5hc3B4ZAICD2QWAgIBDxYEHwcFIUludGVycHImIzIzMzt0ZXIgc2EgcHJpc2UgZGUgc2FuZx8FBVAvZnIvQWN0dWFsaXRlcy9Eb3NzaWVycy9Eb3NzaWVyQ29tcGxleGUuYXNweD9kb2M9aW50ZXJwcmV0ZXJfcHJpc2Vfc2FuZ19wYWdlMV9kb2QCAw9kFgICAQ8WBB8HBQhBcnRocml0ZR8FBTkvZnIvTWF1eC9Qcm9ibGVtZXMvU2VjdGlvblNwZWNpYWxlLmFzcHg/ZG9jPWFydGhyaXRlX3NwZWNkAgQPZBYCAgEPFgQfBwURRG9zc2llcnMgTWFsYWRpZXMfBQUbL2xlcy1kb3NzaWVycy1tYWxhZGllcy1sMTQ4ZAIFD2QWAgIBDxYEHwcFFUluY29udGluZW5jZSB1cmluYWlyZR8FBVcvaW5jb250aW5lbmNlLXVyaW5haXJlP3V0bV9zb3VyY2U9cHN0JnV0bV9tZWRpdW09c291c29uZ2xldCZ1dG1fY2FtcGFpZ249YWx3YXlzZGlzY3JlZXRkAgYPZBYCAgEPFgQfBwULRG9uIGRlIHNhbmcfBQUUL3BvcnRhaWwvZG9uLWRlLXNhbmdkAgEPZBYCAgEPFgIfAwURbWVudV9pdGVtIGlzX2xpc3QWAgIDD2QWAgIBDxYCHwICBxYOZg9kFgICAQ8WBB8HBRBNJiMyMzM7ZGljYW1lbnRzHwUFFy9tZWRpY2FtZW50cy9pbmRleC5hc3B4ZAIBD2QWAgIBDxYEHwcFDlN5bXB0JiMyNDQ7bWVzHwUFHS9mci9NYXV4L1N5bXB0b21lcy9JbmRleC5hc3B4ZAICD2QWAgIBDxYEHwcFDERpYWImIzIzMjt0ZR8FBRcvYmllbi12aXZyZS1zb24tZGlhYmV0ZWQCAw9kFgICAQ8WBB8HBQ1UaHlybyYjMjM5O2RlHwUFOS9mci9NYXV4L1Byb2JsZW1lcy9TZWN0aW9uU3BlY2lhbGUuYXNweD9kb2M9dGh5cm9pZGVfc3BlY2QCBA9kFgICAQ8WBB8HBRBQYXJ0aWVzIGR1IGNvcnBzHwUFHC9mci9wYXJ0aWVzLWNvcnBzL0luZGV4LmFzcHhkAgUPZBYCAgEPFgQfBwUOTSYjMjMzO25vcGF1c2UfBQUfL2ZyL01hdXgvUHJvYmxlbWVzL21lbm9wYXVzZS1hemQCBg9kFgICAQ8WBB8HBQpNYWwgZGUgZG9zHwUFLmh0dHBzOi8vd3d3LnBhc3NlcG9ydHNhbnRlLm5ldC9wb3J0YWlsL21hbC1kb3NkAgIPZBYCAgEPFgIfAwURbWVudV9pdGVtIGlzX2xpc3QWAgIDD2QWAgIBDxYCHwICBhYMZg9kFgICAQ8WBB8HBRhSJiMyMzI7Z2xlcyBkb3Vsb3VyZXVzZXMfBQU+L2ZyL01hdXgvUHJvYmxlbWVzL1NlY3Rpb25TcGVjaWFsZS5hc3B4P2RvYz1tZW5zdHJ1YXRpb25zX3NwZWNkAgEPZBYCAgEPFgQfBwUGQ2FuY2VyHwUFNy9mci9NYXV4L1Byb2JsZW1lcy9TZWN0aW9uU3BlY2lhbGUuYXNweD9kb2M9Y2FuY2VyX3NwZWNkAgIPZBYCAgEPFgQfBwUJTWlncmFpbmVzHwUFJy9taWdyYWluZS1tYWwtZGUtdGV0ZS1ldC1jZXBoYWxlZXMtbDEwMGQCAw9kFgICAQ8WBB8HBRdBbmFseXNlcyBtJiMyMzM7ZGljYWxlcx8FBSYvZnIvTWF1eC9hbmFseXNlcy1tZWRpY2FsZXMvSW5kZXguYXNweGQCBA9kFgICAQ8WBB8HBQ1BcnRpY3VsYXRpb25zHwUFNS9mci9NYXV4L1Byb2JsZW1lcy9TZWN0aW9uU3BlY2lhbGUuYXNweD9kb2M9bGF0cl9zcGVjZAIFD2QWAgIBDxYEHwcFEENob2xlc3QmIzIzMztyb2wfBQUUL3BvcnRhaWwvY2hvbGVzdGVyb2xkAgMPZBYCAgEPFgIfAwURbWVudV9pdGVtIGlzX2xpc3QWAgIDD2QWAgIBDxYCHwICBhYMZg9kFgICAQ8WBB8HBRBNYXV4IGQmIzM5O2hpdmVyHwUFNS9sYS1zYW50ZS1wZW5kYW50LWxlcy1mZXRlcy1jMTI4L21hbGFkaWVzLWQtaGl2ZXItMTMxZAIBD2QWAgIBDxYEHwcFIVNhbnQmIzIzMzsgcGVuZGFudCBsZXMgZiYjMjM0O3Rlcx8FBSAvbGEtc2FudGUtcGVuZGFudC1sZXMtZmV0ZXMtYzEyOGQCAg9kFgICAQ8WBB8HBRpFeGFtZW5zIGV0IG9wJiMyMzM7cmF0aW9ucx8FBS8vZnIvTWF1eC9leGFtZW5zLW1lZGljYXV4LW9wZXJhdGlvbnMvSW5kZXguYXNweGQCAw9kFgICAQ8WBB8HBQlBbGxlcmdpZXMfBQUPL2FsbGVyZ2llcy1sMTAxZAIED2QWAgIBDxYEHwcFFFNhbnQmIzIzMzsgZGVzIGRlbnRzHwUFGy9oeWdpZW5lLWV0LXNhbnRlLWRlcy1kZW50c2QCBQ9kFgICAQ8WBB8HBSRTcCYjMjMzO2NpYWxpdCYjMjMzO3MgbSYjMjMzO2RpY2FsZXMfBQUkL2ZyL3NwZWNpYWxpdGVzLW1lZGljYWxlcy9JbmRleC5hc3B4ZAIBD2QWAgIBDxYCHwMFCHJpY2htZW51FgYCAQ8WAh8EZ2QCAw8WAh8FBSsvZnIvQXBwcm9jaGVzQ29tcGxlbWVudGFpcmVzL01hcC9JbmRleC5hc3B4FgICAQ8WAh8GBRBTYW50w6kgTmF0dXJlbGxlZAIFD2QWAgIBDxYCHwICBBYIZg9kFgICAQ8WAh8DBRFtZW51X2l0ZW0gaXNfbGlzdBYCAgMPZBYCAgEPFgIfAgIDFgZmD2QWAgIBDxYEHwcFE0h1aWxlcyBFc3NlbnRpZWxsZXMfBQUrL2ZyL1NvbHV0aW9ucy9IdWlsZXNFc3NlbnRpZWxsZXMvSW5kZXguYXNweGQCAQ9kFgICAQ8WBB8HBQ9NJiMyMzM7ZGl0YXRpb24fBQUQL21lZGl0YXRpb24tbDE1MGQCAg9kFgICAQ8WBB8HBRZNJiMyMzM7ZGVjaW5lIGNoaW5vaXNlHwUFMS9mci9UaGVyYXBpZXMvTWVkZWNpbmVDaGlub2lzZS9JbmRleF9ub2ZsYXNoLmFzcHhkAgEPZBYCAgEPFgIfAwURbWVudV9pdGVtIGlzX2xpc3QWAgIDD2QWAgIBDxYCHwICAxYGZg9kFgICAQ8WBB8HBSRNJiMyMzM7ZGljYW1lbnRzIGhvbSYjMjMzO29wYXRoaXF1ZXMfBQUyL2ZyL1NvbHV0aW9ucy9NZWRpY2FtZW50c0hvbWVvcGF0aGlxdWVzL0luZGV4LmFzcHhkAgEPZBYCAgEPFgQfBwUZUGhhcm1hY29wJiMyMzM7ZSBjaGlub2lzZR8FBSwvZnIvU29sdXRpb25zL1BoYXJtYWNvcGVlQ2hpbm9pc2UvSW5kZXguYXNweGQCAg9kFgICAQ8WBB8HBRJQaHl0b3RoJiMyMzM7cmFwaWUfBQUvL3BoeXRvdGhlcmFwaWUtc2Utc29pZ25lci1hdmVjLWxlcy1wbGFudGVzLWwxMTVkAgIPZBYCAgEPFgIfAwURbWVudV9pdGVtIGlzX2xpc3QWAgIDD2QWAgIBDxYCHwICAxYGZg9kFgICAQ8WBB8HBRZIZXJiaWVyIG0mIzIzMztkaWNpbmFsHwUFKS9mci9Tb2x1dGlvbnMvSGVyYmllck1lZGljaW5hbC9JbmRleC5hc3B4ZAIBD2QWAgIBDxYEHwcFH1Byb2R1aXRzIGRlIHNhbnQmIzIzMzsgbmF0dXJlbHMfBQUrL2ZyL1NvbHV0aW9ucy9QbGFudGVzU3VwcGxlbWVudHMvSW5kZXguYXNweGQCAg9kFgICAQ8WBB8HBQ5UaCYjMjMzO3JhcGllcx8FBR4vZnIvVGhlcmFwaWVzL0d1aWRlL0luZGV4LmFzcHhkAgMPZBYCAgEPFgIfAwURbWVudV9pdGVtIGlzX2xpc3QWAgIDD2QWAgIBDxYCHwICAxYGZg9kFgICAQ8WBB8HBRpIdWlsZXMgdiYjMjMzO2cmIzIzMzt0YWxlcx8FBRYvaHVpbGVzLXZlZ2V0YWxlcy1nMTUyZAIBD2QWAgIBDxYEHwcFJE1hZ2F6aW5lIGRlIGxhIHNhbnQmIzIzMzsgYXUgbmF0dXJlbB8FBScvbGUtbWFnYXppbmUtZGUtbGEtc2FudGUtYXUtbmF0dXJlbC1sNjhkAgIPZBYCAgEPFgQfBwUSQ29tcHRvaXIgQm90YW5pcXVlHwUFMWh0dHBzOi8vd3d3LmNvbXB0b2lyYm90YW5pcXVlLmZyL2xhLWJvdXRpcXVlLmh0bWxkAgIPZBYCAgEPZBYEAgMPFgIfBQUcL3BvcnRhaWwvaHVpbGVzLWVzc2VudGllbGxlcxYCAgEPFgIfBgUTSHVpbGVzIEVzc2VudGllbGxlc2QCBQ8WAh8EaBYCAgEPFgIfAgL/////D2QCAw9kFgICAQ8WAh8DBQhyaWNobWVudRYGAgEPFgIfBGdkAgMPFgIfBQUcL2ZyL051dHJpdGlvbi9NYXAvSW5kZXguYXNweBYCAgEPFgIfBgUJTnV0cml0aW9uZAIFD2QWAgIBDxYCHwICBBYIZg9kFgICAQ8WAh8DBRFtZW51X2l0ZW0gaXNfbGlzdBYCAgMPZBYCAgEPFgIfAgIDFgZmD2QWAgIBDxYEHwcFDE1pZXV4IG1hbmdlch8FBRAvbWlldXgtbWFuZ2VyLWM3ZAIBD2QWAgIBDxYEHwcFCFJlY2V0dGVzHwUFIS9mci9OdXRyaXRpb24vUmVjZXR0ZXMvSW5kZXguYXNweGQCAg9kFgICAQ8WBB8HBQNJTUMfBQUoL2ZyL051dHJpdGlvbi9SZWdpbWVzL0ZpY2hlLmFzcHg/ZG9jPUlNQ2QCAQ9kFgICAQ8WAh8DBRFtZW51X2l0ZW0gaXNfbGlzdBYCAgMPZBYCAgEPFgIfAgIDFgZmD2QWAgIBDxYEHwcFCEFsaW1lbnRzHwUFLS9mci9OdXRyaXRpb24vRW5jeWNsb3BlZGllQWxpbWVudHMvSW5kZXguYXNweGQCAQ9kFgICAQ8WBB8HBRNSZWNldHRlcyBTYW50JiMyMzM7HwUFRS9yZWNldHRlcy1zYW50ZS1sYS1jdWlzaW5lLWZhY2lsZS1ldC1yYXBpZGUtcG91ci1nYXJkZXItbGEtZm9ybWUtbDE1NWQCAg9kFgICAQ8WBB8HBQ5Dcm9xJiMzOTtLaWxvcx8FBTFodHRwczovL3d3dy5wYXNzZXBvcnRzYW50ZS5uZXQvcG9ydGFpbC9jcm9xLWtpbG9zZAICD2QWAgIBDxYCHwMFEW1lbnVfaXRlbSBpc19saXN0FgICAw9kFgICAQ8WAh8CAgIWBGYPZBYCAgEPFgQfBwUaRGkmIzIzMjt0ZXMgc3AmIzIzMztjaWFsZXMfBQUfL2ZyL051dHJpdGlvbi9EaWV0ZXMvSW5kZXguYXNweGQCAQ9kFgICAQ8WBB8HBQpOdXRyaW1lbnRzHwUFKy9mci9OdXRyaXRpb24vUGFsbWFyZXNOdXRyaW1lbnRzL0luZGV4LmFzcHhkAgMPZBYCAgEPFgIfAwURbWVudV9pdGVtIGlzX2xpc3QWAgIDD2QWAgIBDxYCHwICAhYEZg9kFgICAQ8WBB8HBQxSJiMyMzM7Z2ltZXMfBQUgL2ZyL051dHJpdGlvbi9SZWdpbWVzL0luZGV4LmFzcHhkAgEPZBYCAgEPFgQfBwUWRnJ1aXRzIGV0IGwmIzIzMztndW1lcx8FBRsvbGVzLWZydWl0cy1ldC1sZWd1bWVzLWcxNTNkAgQPZBYCAgEPZBYEAgMPFgIfBQUML21haWdyaXItYzE2FgICAQ8WAh8GBQdNYWlncmlyZAIFDxYCHwRoFgICAQ8WAh8CAv////8PZAIFD2QWAgIBD2QWBAIDDxYCHwUFGC9mci9ncm9zc2Vzc2UvSW5kZXguYXNweBYCAgEPFgIfBgUJR3Jvc3Nlc3NlZAIFDxYCHwRoFgICAQ8WAh8CAv////8PZAIGD2QWAgIBDxYCHwMFCHJpY2htZW51FgYCAQ8WAh8EZ2QCAw8WAh8FBR8vZnIvVml2cmVFblNhbnRlL01hcC9JbmRleC5hc3B4FgICAQ8WAh8GBQxBdSBxdW90aWRpZW5kAgUPZBYCAgEPFgIfAgIEFghmD2QWAgIBDxYCHwMFEW1lbnVfaXRlbSBpc19saXN0FgICAw9kFgICAQ8WAh8CAgUWCmYPZBYCAgEPFgQfBwUHRmFtaWxsZR8FBQ0vZmFtaWxsZS1jMTIzZAIBD2QWAgIBDxYEHwcFE1NhbnQmIzIzMzsgcHJhdGlxdWUfBQUTL3NhbnRlLXByYXRpcXVlLWM3MmQCAg9kFgICAQ8WBB8HBRJBdWRpbyAtIFZpZCYjMjMzO28fBQUfL2ZyL0F1ZGlvVmlkZW9CYWxhZG8vSW5kZXguYXNweGQCAw9kFgICAQ8WBB8HBRhKZXV4IGMmIzIzMztyJiMyMzM7YnJhdXgfBQU0aHR0cDovL2pldXgucGFzc2Vwb3J0c2FudGUubmV0Lz9hcmtwcm9tbz1TaXRlX1RvcE5hdmQCBA9kFgICAQ8WBB8HBRFCaWJsaW90aCYjMjMyO3F1ZR8FBR0vZnIvUC9iaWJsaW90aGVxdWUvSW5kZXguYXNweGQCAQ9kFgICAQ8WAh8DBRFtZW51X2l0ZW0gaXNfbGlzdBYCAgMPZBYCAgEPFgIfAgIFFgpmD2QWAgIBDxYEHwcFDUJpZW4gdmllaWxsaXIfBQUSL2JpZW4tdmllaWxsaXItYzI4ZAIBD2QWAgIBDxYEHwcFC1BzeWNob2xvZ2llHwUFGi9mci9wc3ljaG9sb2dpZS9JbmRleC5hc3B4ZAICD2QWAgIBDxYEHwcFDUVudmlyb25uZW1lbnQfBQUSL2Vudmlyb25uZW1lbnQtYzM3ZAIDD2QWAgIBDxYEHwcFE0Rvc3NpZXJzIFNhbnQmIzIzMzsfBQUiL2ZyL0FjdHVhbGl0ZXMvRG9zc2llcnMvSW5kZXguYXNweGQCBA9kFgICAQ8WBB8HBQhBbm51YWlyZR8FBSYvZnIvQ29tbXVuYXV0ZS9hc3NvY2lhdGlvbnMvSW5kZXguYXNweGQCAg9kFgICAQ8WAh8DBRFtZW51X2l0ZW0gaXNfbGlzdBYCAgMPZBYCAgEPFgIfAgIFFgpmD2QWAgIBDxYEHwcFIlNhbnQmIzIzMzsgbWVudGFsZSBldCAmIzIzMzttb3RpdmUfBQUdL3NhbnRlLW1lbnRhbGUtZXQtZW1vdGl2ZS1jNDFkAgEPZBYCAgEPFgQfBwUSJiMyMDI7dHJlIGVuIGZvcm1lHwUFES9ldHJlLWVuLWZvcm1lLWMxZAICD2QWAgIBDxYEHwcFDlNleHVhbGl0JiMyMzM7HwUFDy9zZXh1YWxpdGUtZzE1OWQCAw9kFgICAQ8WBB8HBRpBY3R1YWxpdCYjMjMzO3Mgc2FudCYjMjMzOx8FBSMvZnIvQWN0dWFsaXRlcy9Ob3V2ZWxsZXMvSW5kZXguYXNweGQCBA9kFgICAQ8WBB8HBRtSJiMyMzM7cG9uc2VzIGQmIzM5O2V4cGVydHMfBQUoL2ZyL0NvbW11bmF1dGUvUmVwb25zRXNleHBlcnQvSW5kZXguYXNweGQCAw9kFgICAQ8WAh8DBRFtZW51X2l0ZW0gaXNfbGlzdBYCAgMPZBYCAgEPFgIfAgIDFgZmD2QWAgIBDxYEHwcFElNhbnQmIzIzMzsgYW5pbWFsZR8FBRwvZnIvc2FudGUtYW5pbWFsZS9JbmRleC5hc3B4ZAIBD2QWAgIBDxYEHwcFFEJlYXV0JiMyMzM7IGV0IHNvaW5zHwUFFS9iZWF1dGUtZXQtc29pbnMtZzE1OGQCAg9kFgICAQ8WBB8HBRhDaHJvbmlxdWVzIGQmIzM5O2V4cGVydHMfBQUgL2ZyL0NvbW11bmF1dGUvQmxvZ3VlL0luZGV4LmFzcHhkAgUPZBYEAgEPZBYQAgEPDxYCHwRoZGQCBQ9kFgJmDxYCHwJmZAIJDxYCHwYFIUwnYXBoYXNpZSwgcXUnZXN0LWNlIHF1ZSBjJ2VzdCA/IGQCCw8WAh8EaGQCDQ9kFgICAQ8WAh8GBfJePGRpdiBjbGFzcz0iY2xlYXJmaXgiPjxkaXYgY2xhc3M9ImltZ0ZpY2hlRGV0YWlscyI+PGltZyBzcmM9Imh0dHBzOi8vc3RhdGljLnBhc3NlcG9ydHNhbnRlLm5ldC9pNDE2OTctbC1hcGhhc2llLXF1LWVzdC1jZS1xdWUtYy1lc3QuanBnIiBhbHQ9ImFwaGFzaWUiIHRpdGxlPSJhcGhhc2llIi8+PC9kaXY+PGRpdiBjbGFzcz0ic3VtbWFyeSI+PGRpdj5Tb21tYWlyZTwvZGl2Pjx1bD48bGk+PGEgaHJlZj0iL2ZyL01hdXgvUHJvYmxlbWVzL0ZpY2hlLmFzcHg/ZG9jPWFwaGFzaWUiIHN0eWxlPSJjb2xvcjogIzY0QTE0MjsiPkTDqWZpbml0aW9uPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9mci9NYXV4L1Byb2JsZW1lcy9GaWNoZS5hc3B4P2RvYz1hcGhhc2llLWxlcy1zeW1wdG9tZXMtZGUtbC1hcGhhc2llLWV0LXRyYWl0ZW1lbnQtZGUtbC1hcGhhc2llIj5TeW1wdMO0bWVzIGV0IHRyYWl0ZW1lbnRzPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9mci9NYXV4L1Byb2JsZW1lcy9GaWNoZS5hc3B4P2RvYz1hcGhhc2llLWwtYXBoYXNpZS1xdS1lc3QtY2UtcXVlLWMtZXN0LXJlZmVyZW5jZXMiPlLDqWbDqXJlbmNlczwvYT48L2xpPjwvdWw+PC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0iY29udGVudEZpY2hlIj48cD4NCglMJiMzOTthcGhhc2llIGVzdCB1biB0cm91YmxlIGR1IGxhbmdhZ2UgYWxsYW50IGRlIGxhIGRpZmZpY3VsdCZlYWN1dGU7IGRlIHRyb3V2ZXIgc2VzIG1vdHMgJmFncmF2ZTsgdW5lIHBlcnRlIHRvdGFsZSBkZSBsYSBmYWN1bHQmZWFjdXRlOyBkZSBzJiMzOTtleHByaW1lci4gRWxsZSBlc3QgY2F1cyZlYWN1dGU7ZSBwYXIgZG9tbWFnZXMgZHUgY2VydmVhdSBwcm92b3F1JmVhY3V0ZTtzIGRhbnMgbGEgbWFqb3JpdCZlYWN1dGU7IGRlcyBjYXMgcGFyIHVuIGFjY2lkZW50IHZhc2N1bGFpcmUgYyZlYWN1dGU7ciZlYWN1dGU7YnJhbC4gTGUgciZlYWN1dGU7dGFibGlzc2VtZW50IGQmZWFjdXRlO3BlbmQgZGUgbGEgZ3Jhdml0JmVhY3V0ZTsgZGUgbGEgbCZlYWN1dGU7c2lvbi48L3A+DQo8aDI+DQoJPHN0cm9uZz5RdSYjMzk7ZXN0LWNlIHF1ZSBsJiMzOTthcGhhc2llID88L3N0cm9uZz48L2gyPg0KPHA+DQoJTCYjMzk7YXBoYXNpZSBlc3QgbGUgdGVybWUgbSZlYWN1dGU7ZGljYWwgcXVpIGQmZWFjdXRlO3NpZ25lIHVuZSBwZXJzb25uZSBxdWkgYSBwZXJkdSBsYSBjYXBhY2l0JmVhY3V0ZTsgZCYjMzk7dXRpbGlzZXIgb3UgZGUgY29tcHJlbmRyZSBzYSBsYW5ndWUuIEVsbGUgc2UgcHJvZHVpdCBsb3JzcXVlIGxlIGNlcnZlYXUgZXN0IGVuZG9tbWFnJmVhY3V0ZTssIGcmZWFjdXRlO24mZWFjdXRlO3JhbGVtZW50IGF2ZWMgdW4gYWNjaWRlbnQgdmFzY3VsYWlyZSBjJmVhY3V0ZTtyJmVhY3V0ZTticmFsLjwvcD4NCjxoMz4NCgk8c3Ryb25nPkxlcyBkaWZmJmVhY3V0ZTtyZW50ZXMgZm9ybWVzIGQmIzM5O2FwaGFzaWU8L3N0cm9uZz48L2gzPg0KPHA+DQoJSWwgZXhpc3RlIGdsb2JhbGVtZW50IGRldXggZm9ybWVzIGQmIzM5O2FwaGFzaWUgOjwvcD4NCjxvbD4NCgk8bGk+DQoJCUFwaGFzaWUgZmx1ZW50ZSA6IGxhIHBlcnNvbm5lIGEgZHUgbWFsICZhZ3JhdmU7IGNvbXByZW5kcmUgdW5lIHBocmFzZSBiaWVuIHF1JiMzOTtlbGxlIHB1aXNzZSBwYXJsZXIgZmFjaWxlbWVudC48L2xpPg0KCTxsaT4NCgkJQXBoYXNpZSBub24gZmx1ZW50ZSA6IGxhIHBlcnNvbm5lIGEgZHUgbWFsICZhZ3JhdmU7IHMmcnNxdW87ZXhwcmltZXIsIGJpZW4gcXVlIGxlIGQmZWFjdXRlO2JpdCBzb2l0IG5vcm1hbC48L2xpPg0KPC9vbD4NCjxwPg0KCTxzdHJvbmc+QXBoYXNpZSBnbG9iYWxlPC9zdHJvbmc+PC9wPg0KPHA+DQoJQyZyc3F1bztlc3QgbGEgZm9ybWUgbGEgcGx1cyBncmF2ZSBkZSBsJnJzcXVvO2FwaGFzaWUuIEVsbGUgciZlYWN1dGU7c3VsdGUgZCYjMzk7dW4gZG9tbWFnZSBpbXBvcnRhbnQgZGVzIHpvbmVzIGR1IGxhbmdhZ2UgZHUgY2VydmVhdS4gTGUgcGF0aWVudCBuZSBwZXV0IHBhcmxlciBvdSBjb21wcmVuZHJlIGxlIGxhbmdhZ2UgcGFybCZlYWN1dGU7IG91ICZlYWN1dGU7Y3JpdC48L3A+PGRpdiBpZD0ibGVhZGdlbjEiPg0KCTxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4NCgkJaWYodHlwZW9mKGRpc3BsYXlBZCkhPSd1bmRlZmluZWQnKWRpc3BsYXlBZCgibGVhZGdlbjEiKTsNCgk8L3NjcmlwdD4NCjwvZGl2Pg0KPHA+DQoJPHN0cm9uZz5BcGhhc2llIGRlIEJyb2NhLCBvdSBhcGhhc2llIG5vbi1mbHVlbnRlPC9zdHJvbmc+PC9wPg0KPHA+DQoJJkVhY3V0ZTtnYWxlbWVudCBhcHBlbCZlYWN1dGU7ZSAmbGFxdW87YXBoYXNpZSBub24tZmx1ZW50ZSZyYXF1bzssIGwmcnNxdW87YXBoYXNpZSBkZSBCcm9jYSBzZSBjYXJhY3QmZWFjdXRlO3Jpc2UgcGFyIHVuZSBkaWZmaWN1bHQmZWFjdXRlOyBkZSBwYXJsZXIsIGRlIG5vbW1lciBkZXMgbW90LCBtJmVjaXJjO21lIHNpIGxhIHBlcnNvbm5lIGF0dGVpbnRlIHBldXQgY29tcHJlbmRyZSBlbiBncmFuZGUgcGFydGllIGNlIHF1aSBlc3QgZGl0LiBFbGxlcyBzb250IHNvdXZlbnQgY29uc2NpZW50ZXMgZGUgbGV1ciBkaWZmaWN1bHQmZWFjdXRlOyAmYWdyYXZlOyBjb21tdW5pcXVlciBldCBwZXV2ZW50IHNlIHNlbnRpciBmcnVzdHImZWFjdXRlO2VzLjwvcD48ZGl2IGlkPSJkeW5JbmZlZWQxIiBjbGFzcz0iZHluSW5GZWVkIj4NCgk8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+DQoJCXBianMucXVlLnB1c2goZnVuY3Rpb24oKXsgaWYgKHR5cGVvZihwcmViaWQpICE9PSAndW5kZWZpbmVkJyAmJiB0eXBlb2YocHJlYmlkRm4uZGVmaW5lRHluYW1pY0Fkc2xvdCkgIT09ICd1bmRlZmluZWQnKSBwcmViaWRGbi5kZWZpbmVEeW5hbWljQWRzbG90KCdkeW5JbmZlZWQnLCAxKTsgfSApOw0KCTwvc2NyaXB0Pg0KPC9kaXY+DQo8cD4NCgk8c3Ryb25nPkFwaGFzaWUgZGUgV2Vybmlja2UsIG91IGFwaGFzaWUgZmx1ZW50ZTwvc3Ryb25nPjwvcD4NCjxwPg0KCSZFYWN1dGU7Z2FsZW1lbnQgYXBwZWwmZWFjdXRlO2UgJmxhcXVvO2FwaGFzaWUgZmx1ZW50ZSAmcmFxdW87LCBsZXMgcGVyc29ubmVzIGF0dGVpbnRlcyBkZSBjZSB0eXBlIGQmIzM5O2FwaGFzaWUgcGV1dmVudCBzJnJzcXVvO2V4cHJpbWVyIG1haXMgb250IGR1IG1hbCAmYWdyYXZlOyBjb21wcmVuZHJlIGNlIHF1JnJzcXVvO2VsbGVzIGRpc2VudC4gRWxsZXMgcGFybGVudCBiZWF1Y291cCwgbWFpcyBsZXVycyBwcm9wb3MgbiYjMzk7b250IHBhcyBkZSBzZW5zLjwvcD4NCjxwPg0KCTxzdHJvbmc+QXBoYXNpZSBhbm9taXF1ZTwvc3Ryb25nPjwvcD4NCjxwPg0KCUxlcyBwZXJzb25uZXMgYXR0ZWludGVzIGRlIGNlIHR5cGUgZCYjMzk7YXBoYXNpZSBvbnQgZHUgbWFsICZhZ3JhdmU7IG5vbW1lciBkZXMgb2JqZXRzIHNwJmVhY3V0ZTtjaWZpcXVlcy4gRWxsZXMgc29udCBjYXBhYmxlcyBkZSBwYXJsZXIgZXQgZCYjMzk7dXRpbGlzZXIgZGVzIHZlcmJlcywgbWFpcyBpbHMgbmUgcGV1dmVudCBwYXMgc2UgcmFwcGVsZXIgZHUgbm9tIGRlIGNlcnRhaW5lcyBjaG9zZXMuPC9wPg0KPGgyPg0KCTxzdHJvbmc+TGVzIGNhdXNlcyBkZSBsJiMzOTthcGhhc2llPC9zdHJvbmc+PC9oMj4NCjxwPg0KCUxhIGNhdXNlIGxhIHBsdXMgZnImZWFjdXRlO3F1ZW50ZSBkJiMzOTthcGhhc2llIGVzdCB1biA8YSBocmVmPSJodHRwczovL3d3dy5wYXNzZXBvcnRzYW50ZS5uZXQvZnIvTWF1eC9Qcm9ibGVtZXMvRmljaGUuYXNweD9kb2M9YWNjaWRlbnRfdmFzY3VsYWlyZV9jZXJlYnJhbF9wbSI+PHN0cm9uZz5hY2NpZGVudCB2YXNjdWxhaXJlIGMmZWFjdXRlO3ImZWFjdXRlO2JyYWw8L3N0cm9uZz48L2E+IChBVkMpIGQmcnNxdW87b3JpZ2luZSBpc2NoJmVhY3V0ZTttaXF1ZSAoYmxvY2FnZSBkJnJzcXVvO3VuIHZhaXNzZWF1IHNhbmd1aW4pIG91IGgmZWFjdXRlO21vcnJhZ2lxdWUgKHNhaWduZW1lbnQgZCZyc3F1bzt1biB2YWlzc2VhdSBzYW5ndWluKS4gRGFucyBjZSBjYXMsIGwmcnNxdW87YXBoYXNpZSBhcHBhcmEmaWNpcmM7dCBicnV0YWxlbWVudC4gTCYjMzk7QVZDIGVudHJhJmljaXJjO25lIGRlcyBkb21tYWdlcyBkYW5zIGxlcyB6b25lcyBxdWkgY29udHImb2NpcmM7bGVudCBsZSBsYW5nYWdlIHNpdHUmZWFjdXRlO2VzIGRhbnMgbCYjMzk7aCZlYWN1dGU7bWlzcGgmZWdyYXZlO3JlIGdhdWNoZS4gRCZyc3F1bzthcHImZWdyYXZlO3MgbGVzIHN0YXRpc3RpcXVlcywgZW52aXJvbiAzMCUgZGVzIHN1cnZpdmFudHMgZCYjMzk7QVZDIG9udCB1bmUgYXBoYXNpZSwgZG9udCBsYSBncmFuZGUgbWFqb3JpdCZlYWN1dGU7IGRlcyBjYXMgc29udCBkZXMgQVZDIGlzY2gmZWFjdXRlO21pcXVlcy48L3A+DQo8cD4NCglMJnJzcXVvO2F1dHJlIGNhdXNlIGQmcnNxdW87YXBoYXNpZSBhIHBvdXIgb3JpZ2luZSB1bmUgZCZlYWN1dGU7bWVuY2UgcXVpIHNlIG1hbmlmZXN0ZSBmciZlYWN1dGU7cXVlbW1lbnQgcGFyIGRlcyB0cm91YmxlcyBwcm9ncmVzc2lmcyBkdSBsYW5nYWdlIGV0IHF1ZSBsJnJzcXVvO2FwcGVsbGUgJmxhcXVvOyBhcGhhc2llIHByb2dyZXNzaXZlIHByaW1haXJlICZyYXF1bzsuIE9uIGxhIHJldHJvdXZlIGNoZXogbGVzIHBhdGllbnRzIHNvdWZmcmFudCBkZSBsYSBtYWxhZGllIGQmIzM5O0FsemhlaW1lciBvdSBkZSBkJmVhY3V0ZTttZW5jZXMgZnJvbnRvdGVtcG9yYWxlcy4gSWwgZXhpc3RlIHRyb2lzIGZvcm1lcyB2YXJpYW50ZXMgZCZyc3F1bzthcGhhc2llIHByb2dyZXNzaXZlIHByaW1haXJlIDo8L3A+PGRpdiBpZD0iZHluSW5mZWVkMiIgY2xhc3M9ImR5bkluRmVlZCI+DQoJPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KCQlwYmpzLnF1ZS5wdXNoKGZ1bmN0aW9uKCl7IGlmICh0eXBlb2YocHJlYmlkKSAhPT0gJ3VuZGVmaW5lZCcgJiYgdHlwZW9mKHByZWJpZEZuLmRlZmluZUR5bmFtaWNBZHNsb3QpICE9PSAndW5kZWZpbmVkJykgcHJlYmlkRm4uZGVmaW5lRHluYW1pY0Fkc2xvdCgnZHluSW5mZWVkJywgMik7IH0gKTsNCgk8L3NjcmlwdD4NCjwvZGl2Pg0KPHVsPg0KCTxsaT4NCgkJbCZyc3F1bzthcGhhc2llIGZsdWVudGUgcHJvZ3Jlc3NpdmUsIGNhcmFjdCZlYWN1dGU7cmlzJmVhY3V0ZTtlIHBhciB1bmUgZGltaW51dGlvbiBkZSBsYSBjb21wciZlYWN1dGU7aGVuc2lvbiBkZXMgbW90cy48L2xpPg0KCTxsaT4NCgkJbCZyc3F1bzthcGhhc2llIGxvZ29wJmVhY3V0ZTtuaXF1ZSBwcm9ncmVzc2l2ZSwgY2FyYWN0JmVhY3V0ZTtyaXMmZWFjdXRlO2UgcGFyIHVuZSBwcm9kdWN0aW9uIGRlIG1vdHMgZGltaW51JmVhY3V0ZTtlIGV0IGRlcyBkaWZmaWN1bHQmZWFjdXRlO3MgJmFncmF2ZTsgdHJvdXZlciBkZXMgbW90czs8L2xpPg0KCTxsaT4NCgkJbCZyc3F1bzthcGhhc2llIG5vbiBmbHVlbnRlIHByb2dyZXNzaXZlLCBjYXJhY3QmZWFjdXRlO3JpcyZlYWN1dGU7ZSBlbiBwcmVtaWVyIGxpZXUgcGFyIHVuZSBkaW1pbnV0aW9uIGRlIGxhIHByb2R1Y3Rpb24gZHUgbGFuZ2FnZS48L2xpPg0KPC91bD4NCjxwPg0KCUQmIzM5O2F1dHJlcyB0eXBlcyBkZSBsJmVhY3V0ZTtzaW9ucyBjJmVhY3V0ZTtyJmVhY3V0ZTticmFsZXMgcGV1dmVudCBwcm92b3F1ZXIgbCYjMzk7YXBoYXNpZSB0ZWxsZXMgcXUmcnNxdW87dW4gdHJhdW1hdGlzbWUgY3ImYWNpcmM7bmllbiwgdW5lIHR1bWV1ciBhdSBjZXJ2ZWF1IG91IHVuZSBpbmZlY3Rpb24gcXVpIGFmZmVjdGUgbGUgY2VydmVhdS4gRGFucyBjZXMgY2FzLCBsJiMzOTthcGhhc2llIHN1cnZpZW50IGcmZWFjdXRlO24mZWFjdXRlO3JhbGVtZW50IGF2ZWMgZCYjMzk7YXV0cmVzIHR5cGVzIGRlIHByb2JsJmVncmF2ZTttZXMgY29nbml0aWZzLCB0ZWxzIHF1ZSBkZXMgcHJvYmwmZWdyYXZlO21lcyBkZSBtJmVhY3V0ZTttb2lyZSBvdSBkZSBjb25mdXNpb24uPC9wPg0KPHA+DQoJUGFyZm9pcywgZGVzICZlYWN1dGU7cGlzb2RlcyB0ZW1wb3JhaXJlcyBkJiMzOTthcGhhc2llIHBldXZlbnQgc3VydmVuaXIuIENldXgtY2kgcGV1dmVudCAmZWNpcmM7dHJlIHByb3ZvcXUmZWFjdXRlO3MgcGFyIGRlcyBtaWdyYWluZXMsIGRlcyBjb252dWxzaW9ucyBvdSB1bmUgYXR0YXF1ZSBpc2NoJmVhY3V0ZTttaXF1ZSB0cmFuc2l0b2lyZSAoVElBKS4gVW5lIFRJQSBzZSBwcm9kdWl0IGxvcnNxdWUgbGUgZmx1eCBzYW5ndWluIGVzdCB0ZW1wb3JhaXJlbWVudCBibG9xdSZlYWN1dGU7IGRhbnMgdW5lIHpvbmUgZHUgY2VydmVhdS4gTGVzIHBlcnNvbm5lcyBxdWkgb250IGV1IHVuZSBUSUEgb250IHVuIHJpc3F1ZSBhY2NydSBkJiMzOTthdm9pciB1biBhY2NpZGVudCB2YXNjdWxhaXJlIGMmZWFjdXRlO3ImZWFjdXRlO2JyYWwgZGFucyB1biBwcm9jaGUgYXZlbmlyLjwvcD4NCjxoMj4NCgk8c3Ryb25nPlF1aSBlc3QgbGUgcGx1cyB0b3VjaCZlYWN1dGU7ID88L3N0cm9uZz48L2gyPg0KPHA+DQoJTGVzIHBlcnNvbm5lcyAmYWNpcmM7ZyZlYWN1dGU7ZXMgc29udCBsZXMgcGx1cyB0b3VjaCZlYWN1dGU7ZXMgY2FyIGxlIHJpc3F1ZSBkJnJzcXVvO2FjY2lkZW50IHZhc2N1bGFpcmUgYyZlYWN1dGU7ciZlYWN1dGU7YnJhbCwgZGUgdHVtZXVycyBldCBkZSBtYWxhZGllcyBuZXVyb2QmZWFjdXRlO2cmZWFjdXRlO24mZWFjdXRlO3JhdGl2ZXMgYXVnbWVudGVudCBhdmVjIGwmcnNxdW87JmFjaXJjO2dlLiBDZXBlbmRhbnQsIGVsbGUgcGV1dCB0ciZlZ3JhdmU7cyBiaWVuIGFmZmVjdCZlYWN1dGU7ZSBkZXMgaW5kaXZpZHVzIHBsdXMgamV1bmVzLCB2b2lyZSBkZXMgZW5mYW50cy48L3A+DQo8aDI+DQoJPHN0cm9uZz5EaWFnbm9zdGljIGRlIGwmIzM5O2FwaGFzaWU8L3N0cm9uZz48L2gyPg0KPHA+DQoJTGUgZGlhZ25vc3RpYyBkZSBsJiMzOTthcGhhc2llIGVzdCBhc3NleiBmYWNpbGUgJmFncmF2ZTsgcG9zZXIsIHB1aXNxdWUgbGVzIHN5bXB0Jm9jaXJjO21lcyBhcHBhcmFpc3NlbnQgZW4gZyZlYWN1dGU7biZlYWN1dGU7cmFsIGJydXRhbGVtZW50LCBzdWl0ZSAmYWdyYXZlOyB1biBBVkMuIElsIGVzdCB1cmdlbnQgZGUgY29uc3VsdGVyIGxvcnNxdWUgbGEgcGVyc29ubmUgYSA6PC9wPg0KPHVsPg0KCTxsaT4NCgkJZGUgbGEgZGlmZmljdWx0JmVhY3V0ZTsgJmFncmF2ZTsgcGFybGVyIGF1IHBvaW50IHF1ZSBsZXMgYXV0cmVzIG5lIGxhIGNvbXByZW5uZW50IHBhcyA7PC9saT4NCgk8bGk+DQoJCWRlIGxhIGRpZmZpY3VsdCZlYWN1dGU7ICZhZ3JhdmU7IGNvbXByZW5kcmUgdW5lIHBocmFzZSBhdSBwb2ludCBxdWUgbGEgcGVyc29ubmUgbmUgY29tcHJlbmQgcGFzIGNlIHF1ZSBsZXMgYXV0cmVzIGRpc2VudDs8L2xpPg0KCTxsaT4NCgkJZGUgbGEgZGlmZmljdWx0JmVhY3V0ZTsgJmFncmF2ZTsgc2UgcmFwcGVsZXIgZGUgbW90czs8L2xpPg0KCTxsaT4NCgkJZGVzIHByb2JsJmVncmF2ZTttZXMgZGUgbGVjdHVyZSBvdSBkJiMzOTsmZWFjdXRlO2NyaXR1cmUuPC9saT4NCjwvdWw+DQo8cD4NCglVbmUgZm9pcyBsJnJzcXVvO2FwaGFzaWUgaWRlbnRpZmkmZWFjdXRlO2UsIGxlcyBwYXRpZW50cyBkb2l2ZW50IHN1YmlyIHVuIHNjYW5uZXIgYyZlYWN1dGU7ciZlYWN1dGU7YnJhbCwgZW4gZyZlYWN1dGU7biZlYWN1dGU7cmFsIHVuZSA8YSBocmVmPSJodHRwczovL3d3dy5wYXNzZXBvcnRzYW50ZS5uZXQvZnIvTWF1eC9leGFtZW5zLW1lZGljYXV4LW9wZXJhdGlvbnMvRmljaGUuYXNweD9kb2M9aXJtLWRpYWdub3N0aWMiPjxzdHJvbmc+aW1hZ2VyaWUgcGFyIHImZWFjdXRlO3NvbmFuY2UgbWFnbiZlYWN1dGU7dGlxdWUgKElSTSk8L3N0cm9uZz48L2E+LCBwb3VyIHNhdm9pciBxdWVsbGVzIHBhcnRpZXMgZHUgY2VydmVhdSBzb250IGVuZG9tbWFnJmVhY3V0ZTtlcyBldCBxdWVsbGUgZXN0IGxhIGdyYXZpdCZlYWN1dGU7IGR1IGRvbW1hZ2UuPC9wPg0KPHA+DQoJRGFucyBsZSBjYXMgZCZyc3F1bzt1bmUgYXBoYXNpZSBxdWkgYXBwYXJhJmljaXJjO3QgYnJ1dGFsZW1lbnQsIGxhIGNhdXNlIGVzdCB0ciZlZ3JhdmU7cyBzb3V2ZW50IHVuIEFWQyBkJnJzcXVvO29yaWdpbmUgaXNjaCZlYWN1dGU7bWlxdWUuIExlIHBhdGllbnQgZG9pdCAmZWNpcmM7dHJlIHRyYWl0JmVhY3V0ZTsgZGFucyBsZXMgaGV1cmVzIHF1aSBzdWl2ZW50IGV0ICZlYWN1dGU7dmFsdSZlYWN1dGU7IGRlIG1hbmkmZWdyYXZlO3JlIHBsdXMgcG91c3MmZWFjdXRlO2UuPC9wPg0KPHA+DQoJTCYjMzk7JmVhY3V0ZTtsZWN0cm9lbmMmZWFjdXRlO3BoYWxvZ3JhcGhpZSAoRUVHKSBwZXV0ICZlY2lyYzt0cmUgbiZlYWN1dGU7Y2Vzc2FpcmUgcG91ciBkJmVhY3V0ZTt0ZWN0ZXIgc2kgbGEgY2F1c2UgbiZyc3F1bztlc3QgcGFzIGQmcnNxdW87b3JpZ2luZSAmZWFjdXRlO3BpbGVwdGlxdWUuPC9wPg0KPHA+DQoJU2kgbCYjMzk7YXBoYXNpZSBhcHBhcmEmaWNpcmM7dCBkZSBtYW5pJmVncmF2ZTtyZSBpbnNpZGlldXNlIGV0IGRlIG1hbmkmZWdyYXZlO3JlIHByb2dyZXNzaXZlLCBlbiBwYXJ0aWN1bGllciBjaGV6IGxlcyBwZXJzb25uZXMgJmFjaXJjO2cmZWFjdXRlO2VzLCBvbiBzb3VwJmNjZWRpbDtvbm5lcmEgbGEgcHImZWFjdXRlO3NlbmNlIGQmcnNxdW87dW5lIG1hbGFkaWUgbmV1cm9kJmVhY3V0ZTtnJmVhY3V0ZTtuJmVhY3V0ZTtyYXRpdmUgdGVsbGUgcXUmcnNxdW87dW5lIG1hbGFkaWUgZCZyc3F1bztBbHpoZWltZXIgb3UgdW5lIGFwaGFzaWUgcHJvZ3Jlc3NpdmUgcHJpbWFpcmUuPC9wPg0KPHA+DQoJTGVzIHRlc3RzIGVmZmVjdHUmZWFjdXRlO3MgcGFyIGxlIG0mZWFjdXRlO2RlY2luIHBlcm1ldHRyb250IGRlIHNhdm9pciBxdWVsbGVzIHBhcnRpZXMgZHUgbGFuZ2FnZSBzb250IHRvdWNoJmVhY3V0ZTtlcy4gQ2VzIHRlc3RzICZlYWN1dGU7dmFsdWVyb250IGxhIGNhcGFjaXQmZWFjdXRlOyBkdSBwYXRpZW50ICZhZ3JhdmU7IDo8L3A+DQo8dWw+DQoJPGxpPg0KCQlDb21wcmVuZHJlIGV0IHV0aWxpc2VyIGNvcnJlY3RlbWVudCBsZXMgbW90cy48L2xpPg0KCTxsaT4NCgkJUiZlYWN1dGU7cCZlYWN1dGU7dGVyIGRlcyBtb3RzIG91IGRlcyBwaHJhc2VzIGRpZmZpY2lsZXMuPC9saT4NCgk8bGk+DQoJCUNvbXByZW5kcmUgbGEgcGFyb2xlIChwYXIgZXhlbXBsZSByJmVhY3V0ZTtwb25kcmUgYXV4IHF1ZXN0aW9ucyBwYXIgb3VpIG91IG5vbiApLjwvbGk+DQoJPGxpPg0KCQlMaXJlIGV0ICZlYWN1dGU7Y3JpcmUuPC9saT4NCgk8bGk+DQoJCVImZWFjdXRlO3NvdWRyZSBkZXMgJmVhY3V0ZTtuaWdtZXMgb3UgZGVzIHByb2JsJmVncmF2ZTttZXMgZGUgbW90cy48L2xpPg0KCTxsaT4NCgkJRCZlYWN1dGU7Y3JpcmUgZGVzIHNjJmVncmF2ZTtuZXMgb3Ugbm9tbWVyIGRlcyBvYmpldHMgY29tbXVucy48L2xpPg0KPC91bD4NCjxoMj4NCgk8c3Ryb25nPkV2b2x1dGlvbiBldCBjb20/cGxpY2F0aW9ucyBwb3NzaWJsZTwvc3Ryb25nPjwvaDI+DQo8cD4NCglMJiMzOTthcGhhc2llIGFmZmVjdGUgbGEgcXVhbGl0JmVhY3V0ZTsgZGUgdmllIGNhciBlbGxlIGVtcCZlY2lyYztjaGUgdW5lIGJvbm5lIGNvbW11bmljYXRpb24gcXVpIHBldXQgYWZmZWN0ZXIgc29uIGFjdGl2aXQmZWFjdXRlOyBwcm9mZXNzaW9ubmVsbGUgZXQgc2VzIHJlbGF0aW9ucy4gTGVzIGJhcnJpJmVncmF2ZTtyZXMgZGUgbGFuZ2FnZSBwZXV2ZW50IGNvbmR1aXJlICZlYWN1dGU7Z2FsZW1lbnQgJmFncmF2ZTsgdW5lIGQmZWFjdXRlO3ByZXNzaW9uLjwvcD4NCjxwPg0KCUxlcyBwZXJzb25uZXMgYXR0ZWludGVzIGQmIzM5O2FwaGFzaWUgcGV1dmVudCBzb3V2ZW50IHImZWFjdXRlO2FwcHJlbmRyZSAmYWdyYXZlOyBwYXJsZXIgb3UgYXUgbW9pbnMgJmFncmF2ZTsgY29tbXVuaXF1ZXIgZGFucyB1bmUgY2VydGFpbmUgbWVzdXJlLjwvcD4NCjxwPg0KCUxlcyBjaGFuY2VzIGRlIHImZWFjdXRlO2N1cCZlYWN1dGU7cmF0aW9uIGQmZWFjdXRlO3BlbmRlbnQgZGUgbGEgZ3Jhdml0JmVhY3V0ZTsgZGUgbCZyc3F1bzthcGhhc2llIHF1aSBkJmVhY3V0ZTtwZW5kIGVsbGUtbSZlY2lyYzttZSBkZTo8L3A+DQo8dWw+DQoJPGxpPg0KCQlsYSBwYXJ0aWUgZHUgY2VydmVhdSBlbmRvbW1hZyZlYWN1dGU7ZSw8L2xpPg0KCTxsaT4NCgkJbCZyc3F1bzsmZWFjdXRlO3RlbmR1ZSBldCBsYSBjYXVzZSBkdSBkb21tYWdlLiBMYSBzJmVhY3V0ZTt2JmVhY3V0ZTtyaXQmZWFjdXRlOyBpbml0aWFsZSBkZSBsJiMzOTthcGhhc2llIGVzdCB1biBmYWN0ZXVyIGltcG9ydGFudCBkJmVhY3V0ZTt0ZXJtaW5hbnQgbGUgcHJvbm9zdGljIGRlcyBwYXRpZW50cyBhdHRlaW50cyBkJiMzOTthcGhhc2llIGR1ZSAmYWdyYXZlOyB1biBBVkMuIENldHRlIHMmZWFjdXRlO3YmZWFjdXRlO3JpdCZlYWN1dGU7IGQmZWFjdXRlO3BlbmQgZHUgdGVtcHMgJmVhY3V0ZTtjb3VsJmVhY3V0ZTsgZW50cmUgbGUgdHJhaXRlbWVudCBldCBsJnJzcXVvO2FwcGFyaXRpb24gZGVzIGRvbW1hZ2VzLiBQbHVzIGxhIHAmZWFjdXRlO3Jpb2RlIGVzdCBjb3VydGUsIG1pZXV4IHNlIGZlcmEgbGEgciZlYWN1dGU7Y3VwJmVhY3V0ZTtyYXRpb24uPC9saT4NCjwvdWw+DQo8cD4NCglEYW5zIGxlIGNhcyBkJnJzcXVvO3VuIEFWQyBvdSBkJnJzcXVvO3VuIHRyYXVtYXRpc21lLCBsJnJzcXVvO2FwaGFzaWUgZXN0IHRyYW5zaXRvaXJlLCBhdmVjIHVuIHImZWFjdXRlO3RhYmxpc3NlbWVudCBxdWkgcGV1dCAmZWNpcmM7dHJlIHBhcnRpZWxsZW1lbnQgKHBhciBleGVtcGxlLCBsZSBwYXRpZW50IGNvbnRpbnVlICZhZ3JhdmU7IGJsb3F1ZXIgc3VyIGNlcnRhaW5zIG1vdHMpIG91IHRvdGFsZW1lbnQgY29tcGxldC48L3A+DQo8cD4NCglMZSByJmVhY3V0ZTt0YWJsaXNzZW1lbnQgcGV1dCAmZWNpcmM7dHJlIHRvdGFsIHF1YW5kIGxhIHImZWFjdXRlOyZlYWN1dGU7ZHVjYXRpb24gZXN0IGVmZmVjdHUmZWFjdXRlO2UgZCZlZ3JhdmU7cyBsJnJzcXVvO2FwcGFyaXRpb24gZGVzIHN5bXB0Jm9jaXJjO21lcy48L3A+DQo8dGFibGUgY2VsbHNwYWNpbmc9IjAiIGNsYXNzPSJnZW4iPg0KCTx0Ym9keT4NCgkJPHRyPg0KCQkJPHRkPg0KCQkJCTxwPg0KCQkJCQk8c3Ryb25nPlN0JmVhY3V0ZTtwaGFuZSBCYXN0aWFuZXR0bywgUGguRC4gZW4gbmV1cm9zY2llbmNlcyw8L3N0cm9uZz48YnIgLz4NCgkJCQkJTWFycyAyMDE3PC9wPg0KCQkJPC90ZD4NCgkJPC90cj4NCgk8L3Rib2R5Pg0KPC90YWJsZT4NCjxwPg0KCSZuYnNwOzwvcD4NCjwvZGl2PjxkaXYgY2xhc3M9InBhZ2luYXRvciI+PHVsIGNsYXNzPSJjbGVhcmZpeCI+PGxpIHN0eWxlPSJiYWNrZ3JvdW5kOm5vbmU7IiBjbGFzcz0icHJldkZvbGRlciI+PGEgaHJlZj0iamF2YXNjcmlwdDp2b2lkKDApIiBzdHlsZT0iY3Vyc29yOmRlZmF1bHQ7IiByZWw9Im5vaW5kZXgsIG5vZm9sbG93Ij4mbmJzcDs8L2E+PC9saT48bGkgb25jbGljaz0ibG9jYXRpb24uaHJlZj0nL2ZyL01hdXgvUHJvYmxlbWVzL0ZpY2hlLmFzcHg/ZG9jPWFwaGFzaWUtbGVzLXN5bXB0b21lcy1kZS1sLWFwaGFzaWUtZXQtdHJhaXRlbWVudC1kZS1sLWFwaGFzaWUnOyIgY2xhc3M9Im5leHRGb2xkZXIiPjxhIGhyZWY9Ii9mci9NYXV4L1Byb2JsZW1lcy9GaWNoZS5hc3B4P2RvYz1hcGhhc2llLWxlcy1zeW1wdG9tZXMtZGUtbC1hcGhhc2llLWV0LXRyYWl0ZW1lbnQtZGUtbC1hcGhhc2llIj48c3Bhbj5QYWdlIHN1aXZhbnRlPC9zcGFuPjwvYT48YSBocmVmPSIvZnIvTWF1eC9Qcm9ibGVtZXMvRmljaGUuYXNweD9kb2M9YXBoYXNpZS1sZXMtc3ltcHRvbWVzLWRlLWwtYXBoYXNpZS1ldC10cmFpdGVtZW50LWRlLWwtYXBoYXNpZSI+U3ltcHTDtG1lcyBldCB0cmFpdGVtZW50czwvYT48L2xpPjwvdWw+PC9kaXY+PGRpdiBpZD0iZHluSW5mZWVkMyIgY2xhc3M9ImR5bkluRmVlZCI+DQoJPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KCQlwYmpzLnF1ZS5wdXNoKGZ1bmN0aW9uKCl7IGlmICh0eXBlb2YocHJlYmlkKSAhPT0gJ3VuZGVmaW5lZCcgJiYgdHlwZW9mKHByZWJpZEZuLmRlZmluZUR5bmFtaWNBZHNsb3QpICE9PSAndW5kZWZpbmVkJykgcHJlYmlkRm4uZGVmaW5lRHluYW1pY0Fkc2xvdCgnZHluSW5mZWVkJywgMyk7IH0gKTsNCgk8L3NjcmlwdD4NCjwvZGl2PjxkaXYgaWQ9ImxlYWRnZW4yIj4NCgk8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+DQoJCWlmKHR5cGVvZihkaXNwbGF5QWQpIT0ndW5kZWZpbmVkJylkaXNwbGF5QWQoImxlYWRnZW4yIik7DQoJPC9zY3JpcHQ+DQo8L2Rpdj5kAhUPFgQfBmUfBGdkAhsPDxYCHwRoZGQCIQ8PFgYeB2RvY05hbWUFB2FwaGFzaWUeCVBhZ2VUaXRsZQUhTCdhcGhhc2llLCBxdSdlc3QtY2UgcXVlIGMnZXN0ID8gHwRoZBYGAgMPEGRkFgFmZAIGD2QWAgIDD2QWAgIDDxBkZBYBZmQCCA9kFgQCEQ8PFgIeCEltYWdlVXJsBSQvc2VydmljZXMvZ2V0Q2FwdGNoYS5hc3B4P2NvZGU9TTMydTJkZAITDxYCHgVWYWx1ZQUFTTMydTJkAgcPZBYCAgEPZBYCAgEPZBYCAgsPFgIfBGhkZJdUYSvknyOx0r+ey/KR7FJA+xbq" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A94ED927" />
+        
+        <div id="oop" class="pstAd mb0">
+	<script type="text/javascript">
+		if(typeof(displayAd)!='undefined')displayAd("oop");
+	</script>
+</div>
+        <div id="oop_bis" class="pstAd mb0">
+	<script type="text/javascript">
+		if(typeof(displayAd)!='undefined')displayAd("oop_bis");
+	</script>
+</div>
+
+        
+		
+         
+        
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat:700|Open+Sans:300;400,600,700" rel="stylesheet">
+<link rel="stylesheet" href="https://static.passeportsante.net/resources/src/css/style.min.css?ver=1563787380" />
+
+
+
+<header class="siteheader">
+
+    <div id="HeadCtl_pstLogo" class="sprites-logo"><a href="/"></a></div>
+
+    <button type="button" class="icon-burger show-for-small-only" data-toggle=".siteheader" data-toggle-class="open" data-toggle-off=".siteheader nav"></button>
+    <button type="button" class="icon-zoom show-for-small-only" data-toggle=".siteheader" data-toggle-class="search-open"></button>
+
+    <nav>
+        <section>
+            <ul class="menu">
+                
+                        <li id="HeadCtl_RptMenu_topItem_0" class="richmenu">
+							<button id="HeadCtl_RptMenu_btnExpand_0" type="button" class="icon-arrow-bottom"></button>
+                            <span><a id="HeadCtl_RptMenu_lnkMenu_0" href="/problemes-et-maladies-p69">
+                                <span>
+                                    Maladies
+                                </span>
+                                
+                            </a></span>
+                            <ul id="HeadCtl_RptMenu_SecondLevelCtnr_0" class="dropdown">
+                                <li class="row">
+                                
+										<div id="HeadCtl_RptMenu_RptMenuColonne_0_subMenuItem_0" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_0_subMenuUl_0" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_0_lnkSubMenu_0" href="/fr/Maux/Problemes/Index.aspx">Maladies de A &#224; Z</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_0_lnkSubMenu_1" href="/fr/Maux/Lexique-Medical/Index.aspx">Lexique m&#233;dical</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_0_lnkSubMenu_2" href="/fr/Actualites/Dossiers/DossierComplexe.aspx?doc=interpreter_prise_sang_page1_do">Interpr&#233;ter sa prise de sang</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_0_lnkSubMenu_3" href="/fr/Maux/Problemes/SectionSpeciale.aspx?doc=arthrite_spec">Arthrite</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_0_lnkSubMenu_4" href="/les-dossiers-maladies-l148">Dossiers Maladies</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_0_lnkSubMenu_5" href="/incontinence-urinaire?utm_source=pst&amp;utm_medium=sousonglet&amp;utm_campaign=alwaysdiscreet">Incontinence urinaire</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_0_lnkSubMenu_6" href="/portail/don-de-sang">Don de sang</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_0_subMenuItem_1" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_0_subMenuUl_1" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_1_lnkSubMenu_0" href="/medicaments/index.aspx">M&#233;dicaments</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_1_lnkSubMenu_1" href="/fr/Maux/Symptomes/Index.aspx">Sympt&#244;mes</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_1_lnkSubMenu_2" href="/bien-vivre-son-diabete">Diab&#232;te</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_1_lnkSubMenu_3" href="/fr/Maux/Problemes/SectionSpeciale.aspx?doc=thyroide_spec">Thyro&#239;de</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_1_lnkSubMenu_4" href="/fr/parties-corps/Index.aspx">Parties du corps</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_1_lnkSubMenu_5" href="/fr/Maux/Problemes/menopause-az">M&#233;nopause</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_1_lnkSubMenu_6" href="https://www.passeportsante.net/portail/mal-dos">Mal de dos</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_0_subMenuItem_2" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_0_subMenuUl_2" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_2_lnkSubMenu_0" href="/fr/Maux/Problemes/SectionSpeciale.aspx?doc=menstruations_spec">R&#232;gles douloureuses</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_2_lnkSubMenu_1" href="/fr/Maux/Problemes/SectionSpeciale.aspx?doc=cancer_spec">Cancer</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_2_lnkSubMenu_2" href="/migraine-mal-de-tete-et-cephalees-l100">Migraines</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_2_lnkSubMenu_3" href="/fr/Maux/analyses-medicales/Index.aspx">Analyses m&#233;dicales</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_2_lnkSubMenu_4" href="/fr/Maux/Problemes/SectionSpeciale.aspx?doc=latr_spec">Articulations</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_2_lnkSubMenu_5" href="/portail/cholesterol">Cholest&#233;rol</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_0_subMenuItem_3" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_0_subMenuUl_3" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_3_lnkSubMenu_0" href="/la-sante-pendant-les-fetes-c128/maladies-d-hiver-131">Maux d&#39;hiver</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_3_lnkSubMenu_1" href="/la-sante-pendant-les-fetes-c128">Sant&#233; pendant les f&#234;tes</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_3_lnkSubMenu_2" href="/fr/Maux/examens-medicaux-operations/Index.aspx">Examens et op&#233;rations</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_3_lnkSubMenu_3" href="/allergies-l101">Allergies</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_3_lnkSubMenu_4" href="/hygiene-et-sante-des-dents">Sant&#233; des dents</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_0_RptMenuLien_3_lnkSubMenu_5" href="/fr/specialites-medicales/Index.aspx">Sp&#233;cialit&#233;s m&#233;dicales</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+								</li>
+                            </ul>
+						</li>
+                    
+                        <li id="HeadCtl_RptMenu_topItem_1" class="richmenu">
+							<button id="HeadCtl_RptMenu_btnExpand_1" type="button" class="icon-arrow-bottom"></button>
+                            <span><a id="HeadCtl_RptMenu_lnkMenu_1" href="/fr/ApprochesComplementaires/Map/Index.aspx">
+                                <span>
+                                    Santé Naturelle
+                                </span>
+                                
+                            </a></span>
+                            <ul id="HeadCtl_RptMenu_SecondLevelCtnr_1" class="dropdown">
+                                <li class="row">
+                                
+										<div id="HeadCtl_RptMenu_RptMenuColonne_1_subMenuItem_0" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_1_subMenuUl_0" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_0_lnkSubMenu_0" href="/fr/Solutions/HuilesEssentielles/Index.aspx">Huiles Essentielles</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_0_lnkSubMenu_1" href="/meditation-l150">M&#233;ditation</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_0_lnkSubMenu_2" href="/fr/Therapies/MedecineChinoise/Index_noflash.aspx">M&#233;decine chinoise</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_1_subMenuItem_1" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_1_subMenuUl_1" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_1_lnkSubMenu_0" href="/fr/Solutions/MedicamentsHomeopathiques/Index.aspx">M&#233;dicaments hom&#233;opathiques</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_1_lnkSubMenu_1" href="/fr/Solutions/PharmacopeeChinoise/Index.aspx">Pharmacop&#233;e chinoise</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_1_lnkSubMenu_2" href="/phytotherapie-se-soigner-avec-les-plantes-l115">Phytoth&#233;rapie</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_1_subMenuItem_2" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_1_subMenuUl_2" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_2_lnkSubMenu_0" href="/fr/Solutions/HerbierMedicinal/Index.aspx">Herbier m&#233;dicinal</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_2_lnkSubMenu_1" href="/fr/Solutions/PlantesSupplements/Index.aspx">Produits de sant&#233; naturels</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_2_lnkSubMenu_2" href="/fr/Therapies/Guide/Index.aspx">Th&#233;rapies</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_1_subMenuItem_3" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_1_subMenuUl_3" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_3_lnkSubMenu_0" href="/huiles-vegetales-g152">Huiles v&#233;g&#233;tales</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_3_lnkSubMenu_1" href="/le-magazine-de-la-sante-au-naturel-l68">Magazine de la sant&#233; au naturel</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_1_RptMenuLien_3_lnkSubMenu_2" href="https://www.comptoirbotanique.fr/la-boutique.html">Comptoir Botanique</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+								</li>
+                            </ul>
+						</li>
+                    
+                        <li id="HeadCtl_RptMenu_topItem_2">
+							
+                            <span><a id="HeadCtl_RptMenu_lnkMenu_2" href="/portail/huiles-essentielles">
+                                <span>
+                                    Huiles Essentielles
+                                </span>
+                                
+                            </a></span>
+                            
+						</li>
+                    
+                        <li id="HeadCtl_RptMenu_topItem_3" class="richmenu">
+							<button id="HeadCtl_RptMenu_btnExpand_3" type="button" class="icon-arrow-bottom"></button>
+                            <span><a id="HeadCtl_RptMenu_lnkMenu_3" href="/fr/Nutrition/Map/Index.aspx">
+                                <span>
+                                    Nutrition
+                                </span>
+                                
+                            </a></span>
+                            <ul id="HeadCtl_RptMenu_SecondLevelCtnr_3" class="dropdown">
+                                <li class="row">
+                                
+										<div id="HeadCtl_RptMenu_RptMenuColonne_3_subMenuItem_0" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_3_subMenuUl_0" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_3_RptMenuLien_0_lnkSubMenu_0" href="/mieux-manger-c7">Mieux manger</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_3_RptMenuLien_0_lnkSubMenu_1" href="/fr/Nutrition/Recettes/Index.aspx">Recettes</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_3_RptMenuLien_0_lnkSubMenu_2" href="/fr/Nutrition/Regimes/Fiche.aspx?doc=IMC">IMC</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_3_subMenuItem_1" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_3_subMenuUl_1" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_3_RptMenuLien_1_lnkSubMenu_0" href="/fr/Nutrition/EncyclopedieAliments/Index.aspx">Aliments</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_3_RptMenuLien_1_lnkSubMenu_1" href="/recettes-sante-la-cuisine-facile-et-rapide-pour-garder-la-forme-l155">Recettes Sant&#233;</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_3_RptMenuLien_1_lnkSubMenu_2" href="https://www.passeportsante.net/portail/croq-kilos">Croq&#39;Kilos</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_3_subMenuItem_2" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_3_subMenuUl_2" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_3_RptMenuLien_2_lnkSubMenu_0" href="/fr/Nutrition/Dietes/Index.aspx">Di&#232;tes sp&#233;ciales</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_3_RptMenuLien_2_lnkSubMenu_1" href="/fr/Nutrition/PalmaresNutriments/Index.aspx">Nutriments</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_3_subMenuItem_3" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_3_subMenuUl_3" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_3_RptMenuLien_3_lnkSubMenu_0" href="/fr/Nutrition/Regimes/Index.aspx">R&#233;gimes</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_3_RptMenuLien_3_lnkSubMenu_1" href="/les-fruits-et-legumes-g153">Fruits et l&#233;gumes</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+								</li>
+                            </ul>
+						</li>
+                    
+                        <li id="HeadCtl_RptMenu_topItem_4">
+							
+                            <span><a id="HeadCtl_RptMenu_lnkMenu_4" href="/maigrir-c16">
+                                <span>
+                                    Maigrir
+                                </span>
+                                
+                            </a></span>
+                            
+						</li>
+                    
+                        <li id="HeadCtl_RptMenu_topItem_5">
+							
+                            <span><a id="HeadCtl_RptMenu_lnkMenu_5" href="/fr/grossesse/Index.aspx">
+                                <span>
+                                    Grossesse
+                                </span>
+                                
+                            </a></span>
+                            
+						</li>
+                    
+                        <li id="HeadCtl_RptMenu_topItem_6" class="richmenu">
+							<button id="HeadCtl_RptMenu_btnExpand_6" type="button" class="icon-arrow-bottom"></button>
+                            <span><a id="HeadCtl_RptMenu_lnkMenu_6" href="/fr/VivreEnSante/Map/Index.aspx">
+                                <span>
+                                    Au quotidien
+                                </span>
+                                
+                            </a></span>
+                            <ul id="HeadCtl_RptMenu_SecondLevelCtnr_6" class="dropdown">
+                                <li class="row">
+                                
+										<div id="HeadCtl_RptMenu_RptMenuColonne_6_subMenuItem_0" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_6_subMenuUl_0" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_0_lnkSubMenu_0" href="/famille-c123">Famille</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_0_lnkSubMenu_1" href="/sante-pratique-c72">Sant&#233; pratique</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_0_lnkSubMenu_2" href="/fr/AudioVideoBalado/Index.aspx">Audio - Vid&#233;o</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_0_lnkSubMenu_3" href="http://jeux.passeportsante.net/?arkpromo=Site_TopNav">Jeux c&#233;r&#233;braux</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_0_lnkSubMenu_4" href="/fr/P/bibliotheque/Index.aspx">Biblioth&#232;que</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_6_subMenuItem_1" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_6_subMenuUl_1" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_1_lnkSubMenu_0" href="/bien-vieillir-c28">Bien vieillir</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_1_lnkSubMenu_1" href="/fr/psychologie/Index.aspx">Psychologie</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_1_lnkSubMenu_2" href="/environnement-c37">Environnement</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_1_lnkSubMenu_3" href="/fr/Actualites/Dossiers/Index.aspx">Dossiers Sant&#233;</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_1_lnkSubMenu_4" href="/fr/Communaute/associations/Index.aspx">Annuaire</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_6_subMenuItem_2" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_6_subMenuUl_2" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_2_lnkSubMenu_0" href="/sante-mentale-et-emotive-c41">Sant&#233; mentale et &#233;motive</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_2_lnkSubMenu_1" href="/etre-en-forme-c1">&#202;tre en forme</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_2_lnkSubMenu_2" href="/sexualite-g159">Sexualit&#233;</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_2_lnkSubMenu_3" href="/fr/Actualites/Nouvelles/Index.aspx">Actualit&#233;s sant&#233;</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_2_lnkSubMenu_4" href="/fr/Communaute/ReponsEsexpert/Index.aspx">R&#233;ponses d&#39;experts</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+										<div id="HeadCtl_RptMenu_RptMenuColonne_6_subMenuItem_3" class="menu_item is_list">
+											
+											<ul id="HeadCtl_RptMenu_RptMenuColonne_6_subMenuUl_3" class="menu">
+												
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_3_lnkSubMenu_0" href="/fr/sante-animale/Index.aspx">Sant&#233; animale</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_3_lnkSubMenu_1" href="/beaute-et-soins-g158">Beaut&#233; et soins</a></span>
+														</li>
+													
+														<li>
+															<span><a id="HeadCtl_RptMenu_RptMenuColonne_6_RptMenuLien_3_lnkSubMenu_2" href="/fr/Communaute/Blogue/Index.aspx">Chroniques d&#39;experts</a></span>
+														</li>
+													
+											</ul>
+											
+										</div>
+                                    
+								</li>
+                            </ul>
+						</li>
+                    
+            </ul>
+        </section>
+        <section>
+            <ul class="menu">
+                <li><a href="/fr/P/AaZ/Index.aspx">De A à Z</a></li>
+                <li><a href="/fr/Maux/Symptomes/Index.aspx" class="icon-symptoms">Symptômes</a>
+                <li><a href="/medicaments/index.aspx" class="icon-drug">Médicaments </a></li>
+                <li><a href="https://www.croq-kilos.com/?utm_source=passeportsante&utm_medium=portail&utm_campaign=intermediation_onglet" target="_blank" class="sprites-croqkilos"><span class="dnone">Croq'Kilos</span></a></li>
+                <li><a href="https://www.comptoirbotanique.fr/?utm_source=passeportsante&utm_medium=portail&utm_campaign=intermediation_onglet" target="_blank" class="sprites-comptoir"><span class="dnone">Comptoir Botanique</span></a></li>
+            </ul>
+            <ul class="menu">
+                <li><a href="/newsletter/default.aspx" class="icon-news">Newsletter</a></li>
+                <li class="hide-for-small-only"><a class="button round icon-facebook" href="https://www.facebook.com/PositivesPST" target="_blank" rel="nofollow"></a></li>
+                <li class="hide-for-small-only"><a class="button round icon-twitter" href="https://twitter.com/PasseportSante" target="_blank" rel="nofollow"></a></li>
+                <li class="hide-for-small-only"><a class="button round icon-youtube" href="https://www.youtube.com/channel/UCZ1QIkfOF_TRxcyl9wV79Nw" target="_blank" rel="nofollow"></a></li>
+            </ul>
+        </section>
+    </nav>
+
+    <div class="siteheader_search show-for-small-only">
+        <input type="text" placeholder="Chercher : rhume, huile essentielle de lavande, prise de sang..." id="headerSearch" onkeypress="return searchcheckKey(event,this.value);">
+    </div>
+</header>
+
+        <div id="leaderboardTopHolder" class="row bg-white">
+            <div class="small-12 columns mb20">
+                <div id="leaderboardTop" class="pstAd mb0">
+	<script type="text/javascript">
+		if(typeof(displayAd)!='undefined')displayAd("leaderboardTop");
+	</script>
+</div>
+            </div>
+        </div>
+
+        
+        
+
+<div class="row hide-for-small-only">
+	<div class="columns">
+		<div class="search">
+			<input type="text" placeholder="Chercher : rhume, huile essentielle de lavande, prise de sang..." id="searchField" onkeypress="return searchcheckKey(event,this.value);">
+			<a href="javascript:void(0);" onclick="GoSearchCopernic(document.getElementById('searchField').value,0);" class="button icon-zoom"></a>
+		</div>
+	</div>
+</div>
+
+
+        
+        <main id="mainRow" role="main" class="row">
+            
+            <div class="main_content">
+                
+                
+    <div id="headerFiche">
+        
+    </div>
+
+    
+
+    
+		<nav class="mb15" role="navigation">
+			<ul class="breadcrumbs">
+	
+			</ul>
+		</nav>
+	 
+
+    
+
+    <h1>
+        L'aphasie, qu'est-ce que c'est ? </h1>
+
+    
+
+    <div class="fiche-content mb30">
+        
+	<div id="page_contenuFiche_col1">
+		<div class="clearfix"><div class="imgFicheDetails"><img src="https://static.passeportsante.net/i41697-l-aphasie-qu-est-ce-que-c-est.jpg" alt="aphasie" title="aphasie"/></div><div class="summary"><div>Sommaire</div><ul><li><a href="/fr/Maux/Problemes/Fiche.aspx?doc=aphasie" style="color: #64A142;">Définition</a></li><li><a href="/fr/Maux/Problemes/Fiche.aspx?doc=aphasie-les-symptomes-de-l-aphasie-et-traitement-de-l-aphasie">Symptômes et traitements</a></li><li><a href="/fr/Maux/Problemes/Fiche.aspx?doc=aphasie-l-aphasie-qu-est-ce-que-c-est-references">Références</a></li></ul></div></div><div class="contentFiche"><p>
+	L&#39;aphasie est un trouble du langage allant de la difficult&eacute; de trouver ses mots &agrave; une perte totale de la facult&eacute; de s&#39;exprimer. Elle est caus&eacute;e par dommages du cerveau provoqu&eacute;s dans la majorit&eacute; des cas par un accident vasculaire c&eacute;r&eacute;bral. Le r&eacute;tablissement d&eacute;pend de la gravit&eacute; de la l&eacute;sion.</p>
+<h2>
+	<strong>Qu&#39;est-ce que l&#39;aphasie ?</strong></h2>
+<p>
+	L&#39;aphasie est le terme m&eacute;dical qui d&eacute;signe une personne qui a perdu la capacit&eacute; d&#39;utiliser ou de comprendre sa langue. Elle se produit lorsque le cerveau est endommag&eacute;, g&eacute;n&eacute;ralement avec un accident vasculaire c&eacute;r&eacute;bral.</p>
+<h3>
+	<strong>Les diff&eacute;rentes formes d&#39;aphasie</strong></h3>
+<p>
+	Il existe globalement deux formes d&#39;aphasie :</p>
+<ol>
+	<li>
+		Aphasie fluente : la personne a du mal &agrave; comprendre une phrase bien qu&#39;elle puisse parler facilement.</li>
+	<li>
+		Aphasie non fluente : la personne a du mal &agrave; s&rsquo;exprimer, bien que le d&eacute;bit soit normal.</li>
+</ol>
+<p>
+	<strong>Aphasie globale</strong></p>
+<p>
+	C&rsquo;est la forme la plus grave de l&rsquo;aphasie. Elle r&eacute;sulte d&#39;un dommage important des zones du langage du cerveau. Le patient ne peut parler ou comprendre le langage parl&eacute; ou &eacute;crit.</p><div id="leadgen1">
+	<script type="text/javascript">
+		if(typeof(displayAd)!='undefined')displayAd("leadgen1");
+	</script>
+</div>
+<p>
+	<strong>Aphasie de Broca, ou aphasie non-fluente</strong></p>
+<p>
+	&Eacute;galement appel&eacute;e &laquo;aphasie non-fluente&raquo;, l&rsquo;aphasie de Broca se caract&eacute;rise par une difficult&eacute; de parler, de nommer des mot, m&ecirc;me si la personne atteinte peut comprendre en grande partie ce qui est dit. Elles sont souvent conscientes de leur difficult&eacute; &agrave; communiquer et peuvent se sentir frustr&eacute;es.</p><div id="dynInfeed1" class="dynInFeed">
+	<script type="text/javascript">
+		pbjs.que.push(function(){ if (typeof(prebid) !== 'undefined' && typeof(prebidFn.defineDynamicAdslot) !== 'undefined') prebidFn.defineDynamicAdslot('dynInfeed', 1); } );
+	</script>
+</div>
+<p>
+	<strong>Aphasie de Wernicke, ou aphasie fluente</strong></p>
+<p>
+	&Eacute;galement appel&eacute;e &laquo;aphasie fluente &raquo;, les personnes atteintes de ce type d&#39;aphasie peuvent s&rsquo;exprimer mais ont du mal &agrave; comprendre ce qu&rsquo;elles disent. Elles parlent beaucoup, mais leurs propos n&#39;ont pas de sens.</p>
+<p>
+	<strong>Aphasie anomique</strong></p>
+<p>
+	Les personnes atteintes de ce type d&#39;aphasie ont du mal &agrave; nommer des objets sp&eacute;cifiques. Elles sont capables de parler et d&#39;utiliser des verbes, mais ils ne peuvent pas se rappeler du nom de certaines choses.</p>
+<h2>
+	<strong>Les causes de l&#39;aphasie</strong></h2>
+<p>
+	La cause la plus fr&eacute;quente d&#39;aphasie est un <a href="https://www.passeportsante.net/fr/Maux/Problemes/Fiche.aspx?doc=accident_vasculaire_cerebral_pm"><strong>accident vasculaire c&eacute;r&eacute;bral</strong></a> (AVC) d&rsquo;origine isch&eacute;mique (blocage d&rsquo;un vaisseau sanguin) ou h&eacute;morragique (saignement d&rsquo;un vaisseau sanguin). Dans ce cas, l&rsquo;aphasie appara&icirc;t brutalement. L&#39;AVC entra&icirc;ne des dommages dans les zones qui contr&ocirc;lent le langage situ&eacute;es dans l&#39;h&eacute;misph&egrave;re gauche. D&rsquo;apr&egrave;s les statistiques, environ 30% des survivants d&#39;AVC ont une aphasie, dont la grande majorit&eacute; des cas sont des AVC isch&eacute;miques.</p>
+<p>
+	L&rsquo;autre cause d&rsquo;aphasie a pour origine une d&eacute;mence qui se manifeste fr&eacute;quemment par des troubles progressifs du langage et que l&rsquo;appelle &laquo; aphasie progressive primaire &raquo;. On la retrouve chez les patients souffrant de la maladie d&#39;Alzheimer ou de d&eacute;mences frontotemporales. Il existe trois formes variantes d&rsquo;aphasie progressive primaire :</p><div id="dynInfeed2" class="dynInFeed">
+	<script type="text/javascript">
+		pbjs.que.push(function(){ if (typeof(prebid) !== 'undefined' && typeof(prebidFn.defineDynamicAdslot) !== 'undefined') prebidFn.defineDynamicAdslot('dynInfeed', 2); } );
+	</script>
+</div>
+<ul>
+	<li>
+		l&rsquo;aphasie fluente progressive, caract&eacute;ris&eacute;e par une diminution de la compr&eacute;hension des mots.</li>
+	<li>
+		l&rsquo;aphasie logop&eacute;nique progressive, caract&eacute;ris&eacute;e par une production de mots diminu&eacute;e et des difficult&eacute;s &agrave; trouver des mots;</li>
+	<li>
+		l&rsquo;aphasie non fluente progressive, caract&eacute;ris&eacute;e en premier lieu par une diminution de la production du langage.</li>
+</ul>
+<p>
+	D&#39;autres types de l&eacute;sions c&eacute;r&eacute;brales peuvent provoquer l&#39;aphasie telles qu&rsquo;un traumatisme cr&acirc;nien, une tumeur au cerveau ou une infection qui affecte le cerveau. Dans ces cas, l&#39;aphasie survient g&eacute;n&eacute;ralement avec d&#39;autres types de probl&egrave;mes cognitifs, tels que des probl&egrave;mes de m&eacute;moire ou de confusion.</p>
+<p>
+	Parfois, des &eacute;pisodes temporaires d&#39;aphasie peuvent survenir. Ceux-ci peuvent &ecirc;tre provoqu&eacute;s par des migraines, des convulsions ou une attaque isch&eacute;mique transitoire (TIA). Une TIA se produit lorsque le flux sanguin est temporairement bloqu&eacute; dans une zone du cerveau. Les personnes qui ont eu une TIA ont un risque accru d&#39;avoir un accident vasculaire c&eacute;r&eacute;bral dans un proche avenir.</p>
+<h2>
+	<strong>Qui est le plus touch&eacute; ?</strong></h2>
+<p>
+	Les personnes &acirc;g&eacute;es sont les plus touch&eacute;es car le risque d&rsquo;accident vasculaire c&eacute;r&eacute;bral, de tumeurs et de maladies neurod&eacute;g&eacute;n&eacute;ratives augmentent avec l&rsquo;&acirc;ge. Cependant, elle peut tr&egrave;s bien affect&eacute;e des individus plus jeunes, voire des enfants.</p>
+<h2>
+	<strong>Diagnostic de l&#39;aphasie</strong></h2>
+<p>
+	Le diagnostic de l&#39;aphasie est assez facile &agrave; poser, puisque les sympt&ocirc;mes apparaissent en g&eacute;n&eacute;ral brutalement, suite &agrave; un AVC. Il est urgent de consulter lorsque la personne a :</p>
+<ul>
+	<li>
+		de la difficult&eacute; &agrave; parler au point que les autres ne la comprennent pas ;</li>
+	<li>
+		de la difficult&eacute; &agrave; comprendre une phrase au point que la personne ne comprend pas ce que les autres disent;</li>
+	<li>
+		de la difficult&eacute; &agrave; se rappeler de mots;</li>
+	<li>
+		des probl&egrave;mes de lecture ou d&#39;&eacute;criture.</li>
+</ul>
+<p>
+	Une fois l&rsquo;aphasie identifi&eacute;e, les patients doivent subir un scanner c&eacute;r&eacute;bral, en g&eacute;n&eacute;ral une <a href="https://www.passeportsante.net/fr/Maux/examens-medicaux-operations/Fiche.aspx?doc=irm-diagnostic"><strong>imagerie par r&eacute;sonance magn&eacute;tique (IRM)</strong></a>, pour savoir quelles parties du cerveau sont endommag&eacute;es et quelle est la gravit&eacute; du dommage.</p>
+<p>
+	Dans le cas d&rsquo;une aphasie qui appara&icirc;t brutalement, la cause est tr&egrave;s souvent un AVC d&rsquo;origine isch&eacute;mique. Le patient doit &ecirc;tre trait&eacute; dans les heures qui suivent et &eacute;valu&eacute; de mani&egrave;re plus pouss&eacute;e.</p>
+<p>
+	L&#39;&eacute;lectroenc&eacute;phalographie (EEG) peut &ecirc;tre n&eacute;cessaire pour d&eacute;tecter si la cause n&rsquo;est pas d&rsquo;origine &eacute;pileptique.</p>
+<p>
+	Si l&#39;aphasie appara&icirc;t de mani&egrave;re insidieuse et de mani&egrave;re progressive, en particulier chez les personnes &acirc;g&eacute;es, on soup&ccedil;onnera la pr&eacute;sence d&rsquo;une maladie neurod&eacute;g&eacute;n&eacute;rative telle qu&rsquo;une maladie d&rsquo;Alzheimer ou une aphasie progressive primaire.</p>
+<p>
+	Les tests effectu&eacute;s par le m&eacute;decin permettront de savoir quelles parties du langage sont touch&eacute;es. Ces tests &eacute;valueront la capacit&eacute; du patient &agrave; :</p>
+<ul>
+	<li>
+		Comprendre et utiliser correctement les mots.</li>
+	<li>
+		R&eacute;p&eacute;ter des mots ou des phrases difficiles.</li>
+	<li>
+		Comprendre la parole (par exemple r&eacute;pondre aux questions par oui ou non ).</li>
+	<li>
+		Lire et &eacute;crire.</li>
+	<li>
+		R&eacute;soudre des &eacute;nigmes ou des probl&egrave;mes de mots.</li>
+	<li>
+		D&eacute;crire des sc&egrave;nes ou nommer des objets communs.</li>
+</ul>
+<h2>
+	<strong>Evolution et com?plications possible</strong></h2>
+<p>
+	L&#39;aphasie affecte la qualit&eacute; de vie car elle emp&ecirc;che une bonne communication qui peut affecter son activit&eacute; professionnelle et ses relations. Les barri&egrave;res de langage peuvent conduire &eacute;galement &agrave; une d&eacute;pression.</p>
+<p>
+	Les personnes atteintes d&#39;aphasie peuvent souvent r&eacute;apprendre &agrave; parler ou au moins &agrave; communiquer dans une certaine mesure.</p>
+<p>
+	Les chances de r&eacute;cup&eacute;ration d&eacute;pendent de la gravit&eacute; de l&rsquo;aphasie qui d&eacute;pend elle-m&ecirc;me de:</p>
+<ul>
+	<li>
+		la partie du cerveau endommag&eacute;e,</li>
+	<li>
+		l&rsquo;&eacute;tendue et la cause du dommage. La s&eacute;v&eacute;rit&eacute; initiale de l&#39;aphasie est un facteur important d&eacute;terminant le pronostic des patients atteints d&#39;aphasie due &agrave; un AVC. Cette s&eacute;v&eacute;rit&eacute; d&eacute;pend du temps &eacute;coul&eacute; entre le traitement et l&rsquo;apparition des dommages. Plus la p&eacute;riode est courte, mieux se fera la r&eacute;cup&eacute;ration.</li>
+</ul>
+<p>
+	Dans le cas d&rsquo;un AVC ou d&rsquo;un traumatisme, l&rsquo;aphasie est transitoire, avec un r&eacute;tablissement qui peut &ecirc;tre partiellement (par exemple, le patient continue &agrave; bloquer sur certains mots) ou totalement complet.</p>
+<p>
+	Le r&eacute;tablissement peut &ecirc;tre total quand la r&eacute;&eacute;ducation est effectu&eacute;e d&egrave;s l&rsquo;apparition des sympt&ocirc;mes.</p>
+<table cellspacing="0" class="gen">
+	<tbody>
+		<tr>
+			<td>
+				<p>
+					<strong>St&eacute;phane Bastianetto, Ph.D. en neurosciences,</strong><br />
+					Mars 2017</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+</div><div class="paginator"><ul class="clearfix"><li style="background:none;" class="prevFolder"><a href="javascript:void(0)" style="cursor:default;" rel="noindex, nofollow">&nbsp;</a></li><li onclick="location.href='/fr/Maux/Problemes/Fiche.aspx?doc=aphasie-les-symptomes-de-l-aphasie-et-traitement-de-l-aphasie';" class="nextFolder"><a href="/fr/Maux/Problemes/Fiche.aspx?doc=aphasie-les-symptomes-de-l-aphasie-et-traitement-de-l-aphasie"><span>Page suivante</span></a><a href="/fr/Maux/Problemes/Fiche.aspx?doc=aphasie-les-symptomes-de-l-aphasie-et-traitement-de-l-aphasie">Symptômes et traitements</a></li></ul></div><div id="dynInfeed3" class="dynInFeed">
+	<script type="text/javascript">
+		pbjs.que.push(function(){ if (typeof(prebid) !== 'undefined' && typeof(prebidFn.defineDynamicAdslot) !== 'undefined') prebidFn.defineDynamicAdslot('dynInfeed', 3); } );
+	</script>
+</div><div id="leadgen2">
+	<script type="text/javascript">
+		if(typeof(displayAd)!='undefined')displayAd("leadgen2");
+	</script>
+</div>
+	</div>
+
+    </div>
+
+    
+    
+
+    
+    
+
+
+    <div class="pstAd mb10 OUTBRAIN" data-widget-id="AR_1" data-ob-template="passeport" data-src="https://www.passeportsante.net/fr/Maux/Problemes/Fiche.aspx?doc=aphasie">
+
+</div>
+    
+    
+
+    
+
+    
+    <br />
+
+    <div id="leaderboardMiddle" class="pstAd">
+	<script type="text/javascript">
+		if(typeof(displayAd)!='undefined')displayAd("leaderboardMiddle");
+	</script>
+</div>
+
+    
+
+    
+
+    <div class="Centre">
+        
+        
+    </div>
+
+
+                
+                <div id="shareBottom" class="mb30"></div>
+
+                
+                <div id="formatNatif" class="pstAd">
+	<script type="text/javascript">
+		if(typeof(displayAd)!='undefined')displayAd("formatNatif");
+	</script>
+</div>
+            </div>
+            
+            <aside id="aside">
+                
+    
+
+<div id="colonneDroite" class="row">
+	<div class="large-12 medium-6 small-12 columns sticky-init" data-sticky-ads>
+		<div>
+			<div id="mpuTop" class="pstAd txtcenter">
+	<script type="text/javascript">
+		if(typeof(displayAd)!='undefined')displayAd("mpuTop");
+	</script>
+</div>
+			<p class="pstAdLegend">Publicit&eacute;</p>
+
+			
+    <div class="newsletter">
+		<img src="https://static.passeportsante.net/i90300-logo.png" class="newsletter_logo">
+		<div class="newsletter_title">Prenez soin de vous <br>et de votre santé</div>
+		<div class="newsletter_form">
+			<div class="form_title">Chaque jour des conseils<br> d'experts dans votre boîte mail.</div>
+			<fieldset class="white-form" data-form data-form-action="https://account.m6tech.net/subscribe/" data-form-id="subscribeRight" data-form-method="POST" data-form-target="_blank">
+				<input type="email" id="optinRightEmail" placeholder="Saisissez votre email" name="subscriber" pattern="^([a-zA-Z0-9.!#$%&amp;’*+/=?^_`{|}~-]{1,64}@([a-zA-Z0-9-]+.[a-zA-Z0-9-]{2,}){1,255}){1,320}$" tabindex="-1">
+				<input type="hidden" value="passeportsante" name="client">
+				<input type="hidden" value="PST_Site_ColonneDroite" name="origin">
+				<input type="hidden" name="force" value="1">
+				<button type="button" class="button">OK</button>
+			</fieldset>
+		</div>
+	</div>
+	<p class="notice">
+		Votre adresse email sera uniquement utilisée par M6 Digital Services pour vous envoyer votre newsletter contenant des 
+		offres commerciales personnalisées. Vous pouvez vous désinscrire à tout moment en utilisant le lien de désabonnement intégré 
+		dans la newsletter. 
+		Pour en savoir plus et 
+		<u title="Vous disposez d'un droit d'accès, de rectification, d'effacement, de portabilité, de limitation, de retrait de votre consentement à tout moment ainsi que du droit de définir les directives particulières relatives à leur sort après votre décès." style="cursor:help">exercer vos droits</u>
+		, prenez connaissance de notre 
+		<a href="https://gdpr.m6tech.net/charte-confidentialite-m6-web-passeportsante.pdf" target="_blank">Charte de Confidentialité</a>.
+	</p>
+
+
+			<div id="espace_malin" class="pstAd pst-focus mb20">
+	<script type="text/javascript">
+		if(typeof(displayAd)!='undefined')displayAd("espace_malin");
+	</script>
+</div>
+		</div>
+	</div>
+	<div class="large-12 medium-6 small-12 columns sticky-init" data-sticky-ads>
+		<div>
+			<div id="mpuMiddle" class="pstAd txtcenter">
+	<script type="text/javascript">
+		if(typeof(displayAd)!='undefined')displayAd("mpuMiddle");
+	</script>
+</div>
+			<p class="pstAdLegend">Publicit&eacute;</p>
+
+			
+    <div class="pt30 mb20">
+        <div class="newsletter-botanique">
+            <div class="newsletter_title">Inscrivez-vous<br />à la newsletter Comptoir Botanique</div>
+			<div class="newsletter_subtitle">Votre nouveau rélfexe <br />bien-être</div>
+			<fieldset data-form data-form-action="https://account.m6tech.net/subscribe/" data-form-id="subscribeBotanique" data-form-method="POST" data-form-target="_blank">
+				<input type="email" id="optinRightEmail" placeholder="Saisissez votre email" name="subscriber" pattern="^([a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]{1,64}@([a-zA-Z0-9-]+.[a-zA-Z0-9-]{2,}){1,255}){1,320}$" tabindex="-1" aria-label="Saisissez votre email" />
+				<input type="hidden" value="comptoirbotanique" name="client">
+				<input type="hidden" value="PST_Site_ColonneDroite" name="origin">
+				<input type="hidden" name="force" value="1">
+				<button type="button" class="button">OK</button>
+			</fieldset>
+			<div class="newsletter_pdf">
+				<strong>BONUS !</strong> Recevez gratuitement notre guide pour bien démarrer en aromathérapie.
+			</div>
+        </div>
+		<p class="notice">
+            Votre adresse email sera uniquement utilisée par M6 Digital Services pour vous envoyer votre newsletter contenant des 
+            offres commerciales personnalisées. Vous pouvez vous désinscrire à tout moment en utilisant le lien de désabonnement intégré 
+            dans la newsletter. 
+            Pour en savoir plus et 
+            <u title="Vous disposez d'un droit d'accès, de rectification, d'effacement, de portabilité, de limitation, de retrait de votre consentement à tout moment ainsi que du droit de définir les directives particulières relatives à leur sort après votre décès." style="cursor:help">exercer vos droits</u>
+            , prenez connaissance de notre 
+            <a href="https://www.comptoirbotanique.fr/pdf/charte-confidentialite-comptoir-botanique.pdf" target="_blank">Charte de Confidentialité</a>.
+        </p>
+    </div>
+
+
+			
+
+
+			<div id="FaceTwit" class="mb20 txtcenter">
+				<fb:like-box href="https://www.facebook.com/PositivesPST" width="300" show_faces="true" stream="false" header="true"></fb:like-box>
+				<a href="http://twitter.com/PasseportSante" target="_blank" id="twitWidget"></a>
+			</div>
+
+			
+		</div>
+	</div>
+</div>
+
+
+            </aside>
+            
+            <span class="smoothScroll button icon-arrow-top has-icon-only scrollToTop hide-for-print" data-smoothscroll="#topOfPage"></span>
+        </main>
+
+        
+        <div id="leaderboardMiddle" class="pstAd row mb0 pb15">
+	<script type="text/javascript">
+		if(typeof(displayAd)!='undefined')displayAd("leaderboardMiddle");
+	</script>
+</div>
+
+        
+        
+
+        
+        
+
+    
+    <footer class="main-footer hide-for-print">
+		<section>
+			<div class="row">
+				<div class="medium-3 columns">
+					<div class="sprites-logo-white"></div>
+					<div class="footer_socials">
+						<a class="button round icon-facebook" href="https://www.facebook.com/PositivesPST" target="_blank" rel="nofollow"></a>
+						<a class="button round icon-twitter" href="https://twitter.com/PasseportSante" target="_blank" rel="nofollow"></a>
+						<a class="button round icon-youtube" href="https://www.youtube.com/channel/UCZ1QIkfOF_TRxcyl9wV79Nw" target="_blank" rel="nofollow"></a>
+					</div>
+					<ul class="footer_charter">
+						<li>
+							<div title="Ce site respecte les principes de la charte HONcode" onclick="window.open('https://www.healthonnet.org/HONcode/Conduct_f.html?HONConduct612352'); return false;" class="sprites-honcode"></div>
+							<p>
+								Ce site respecte les<br />
+								<span onclick="window.open('http://www.healthonnet.org/HONcode/Conduct_f.html'); return false;"> principes de la<br/>
+								charte HONcode</span>.
+								<br>
+								<span onclick="window.open('https://www.healthonnet.org/HONcode/Conduct_f.html?HONConduct612352'); return false;">Vérifiez ici.</span>
+							</p>
+						</li>
+						<li>
+							<div class="sprites-adtrust"></div>
+						</li>
+					</ul>
+				</div>
+				<div class="medium-9 columns hide-for-small-only">
+					<div class="row">
+						<div class="medium-4 columns">
+							<ul class="link-list">
+								<li class="link-list_title">Accès rapide</li>
+								<li><span class="concierge1F44C11F301FBA4A3D1FB6494B43C5194AC2C0C5"><var>Plan du site de A à Z</var></span></li>
+								<li><span class="concierge1F44C11FBAC34B464F34464B434FB14A484A4B4F1F"><var>Audio-Vidéo</var></span></li>
+								<li><span class="concierge1F44C11F301FB1464148464FCB4543CAC3431FB6494B43C5194AC2C0C5"><var>Bibliothèque</var></span></li>
+							</ul>
+
+							<ul class="link-list">
+								<li class="link-list_title"><span class="concierge1F44C11FBA42CBC34A4846CB43C21FBE4AC01FB6494B43C5194AC2C0C5"><var>Actualités</var></span></li>
+								<li><span class="concierge1F44C11FBA42CBC34A4846CB43C21FB94FC3C443484843C21FB6494B43C5194AC2C0C5"><var>Nouvelles</var></span></li>
+								<li><span class="concierge1F44C11FBA42CBC34A4846CB43C21FB349CBC143C4C343C21FB6494B43C5194AC2C0C5"><var>Entrevues</var></span></li>
+								<li><span class="concierge1F44C11FBA42CBC34A4846CB43C21FBB4FC2C24643C1C21FB6494B43C5194AC2C0C5"><var>Dossiers</var></span></li>
+							</ul>
+
+							<ul class="link-list">
+								<li class="link-list_title"><span class="concierge1FC0C14F4148434E43C21E43CB1E4E4A484A4B4643C21EC02426"><var>Maladies</var></span></li>
+								<li><span class="concierge1F44C11FBE4AC3C51F30C14F4148434E43C21FB6494B43C5194AC2C0C5"><var>Index des maladies de A à Z</var></span></li>
+							</ul>
+
+							<ul class="link-list">
+								<li class="link-list_title"><span class="concierge1F44C11FB9C3CBC146CB464F491FBE4AC01FB6494B43C5194AC2C0C5"><var>Nutrition</var></span></li>
+								<li><span class="concierge1F44C11FB9C3CBC146CB464F491FB34942C642484FC0434B4643BA48464E4349CBC21FB6494B43C5194AC2C0C5"><var>Aliments</var></span></li>
+								<li><span class="concierge1F44C11FB9C3CBC146CB464F491F31434243CBCB43C21FB6494B43C5194AC2C0C5"><var>Recettes</var></span></li>
+								<li><span class="concierge1F44C11FB9C3CBC146CB464F491F304A484E4AC143C2B9C3CBC1464E4349CBC21FB6494B43C5194AC2C0C5"><var>Nutriments</var></span></li>
+								<li><span class="concierge1F44C11FB9C3CBC146CB464F491F31434C464E43C21FB6494B43C5194AC2C0C5"><var>Régimes</var></span></li>
+								<li><span class="concierge1F44C11FB9C3CBC146CB464F491FBB4643CB43C21FB6494B43C5194AC2C0C5"><var>Diètes spéciales</var></span></li>
+							</ul>
+						</div>
+						<div class="medium-4 columns">
+							<ul class="link-list">
+								<li class="link-list_title"><span class="concierge1F44C11F3446C4C143B349324A49CB431FBE4AC01FB6494B43C5194AC2C0C5"><var>Santé au quotidien</var></span></li>
+								<li><span class="concierge1F4E4643C3C51E4E4A494C43C11E422C"><var>Mieux manger</var></span></li>
+								<li><span class="concierge1F4E4A464CC146C11E422A24"><var>Maigrir</var></span></li>
+								<li><span class="concierge1F43CBC1431E43491E444FC14E431E422A"><var>Être en forme</var></span></li>
+								<li><span class="concierge1FC243C5C34A4846CB431E422120"><var>Sexualité</var></span></li>
+								<li><span class="concierge1FC24A49CB431E4E4349CB4A48431E43CB1E434E4FCB46C4431E422B2A"><var>Santé mentale et émotive</var></span></li>
+								<li><span class="concierge1F414643491EC4464346484846C11E422125"><var>Vieillir en santé</var></span></li>
+								<li><span class="concierge1F4349C446C14F4949434E4349CB1E42222C"><var>Environnement</var></span></li>
+								<li><span class="concierge1F44C11F3446C4C143B349324A49CB431F3B43C2CBC21FB6494B43C5194AC2C0C5"><var>Tests et quiz</var></span></li>
+							</ul>
+						
+							<ul class="link-list">
+								<li class="link-list_title"><span class="concierge1F44C11F301F3AC346324F4E4E43C2B94FC3C21FB446424543194AC2C0C52F4B4F422E494FC21EC04AC1CB43494A46C143C2"><var>Partenaires</var></span></li>
+								<li><span class="concierge1F44C11F301F3AC346324F4E4E43C2B94FC3C21FB446424543194AC2C0C52F4B4F422E494FC23FC04AC1CB43494A46C143C23FC242464349CB464446CAC343"><var>Partenaires scientifiques</var></span></li>
+								<li><span class="concierge1F44C11FB24F4E4EC3494AC3CB431FBAC2C24F42464ACB464F49C21FB6494B43C5194AC2C0C5"><var>Annuaire</var></span></li>
+								<li><span class="concierge45CBCBC02D1F1FCCCCCC1942C346C24649434ACD19424F4E1F"><var>Recette de cuisine </var></span></li>
+								<li><span class="concierge45CBCBC02D1F1FCCCCCC194945C0C1C219424A1F"><var>NHP Reasearch</var></span></li>
+								
+							</ul>
+						</div>
+						<div class="medium-4 columns">
+							<ul class="link-list">
+								<li class="link-list_title"><span class="concierge1F44C11FBAC0C0C14F424543C2B24F4EC048434E4349CB4A46C143C21FBE4AC01FB6494B43C5194AC2C0C5"><var>Santé au naturel</var></span></li>
+								<li><span class="concierge1F44C11F324F48C3CB464F49C21F30484A49CB43C232C3C0C048434E4349CBC21FB6494B43C5194AC2C0C5"><var>Santé au naturel</var></span></li>
+								<li><span class="concierge1F44C11F3B4543C14AC04643C21FBCC3464B431FB6494B43C5194AC2C0C5"><var>Thérapies</var></span></li>
+								<li><span class="concierge1F44C11F324F48C3CB464F49C21FB543C1414643C1BE434B464246494A481FB6494B43C5194AC2C0C5"><var>Herbier médicinal</var></span></li>
+								<li><span class="concierge1F44C11F324F48C3CB464F49C21F30454AC14E4A424FC04343B24546494F46C2431FB6494B43C5194AC2C0C5"><var>Pharmacopée chinoise</var></span></li>
+							</ul>
+
+							<ul class="link-list">
+								<li class="link-list_title"><span class="concierge1F44C11F301F3AC346324F4E4E43C2B94FC3C21FB446424543194AC2C0C52F4B4F422E4A1EC0C14FC04FC21E4B431E494FC3C2"><var>Qui sommes-nous ?</var></span></li>
+								<li><span class="concierge1F44C11F301F3AC346324F4E4E43C2B94FC3C21FB446424543194AC2C0C52F4B4F422E4A1EC0C14FC04FC21E4B431E494FC3C2"><var>À propos de nous</var></span></li>
+								<li><span class="concierge1F44C11F301F3AC346324F4E4E43C2B94FC3C21FB446424543194AC2C0C52F4B4F422E43CAC346C0433FC04AC2C243C04FC1CB"><var>Notre équipe</var></span></li>
+								<li><span class="concierge1F44C11FB24F4E4EC3494AC3CB431FB1484F4CC3431FB6494B43C5194AC2C0C5"><var>Blogs</var></span></li>
+								<li><span class="concierge1F44C11FB24F4E4EC3494AC3CB431F3143C04F49C2B3C243C5C043C1CB1FB6494B43C5194AC2C0C5"><var>Réponses d'Experts</var></span></li>
+								<li><span class="concierge1F44C11F301F3AC346324F4E4E43C2B94FC3C21FB446424543194AC2C0C52F4B4F422EC0C34148464246CB433FC1C0"><var>Publicité</var></span></li>
+								<li><span class="concierge1F44C11F301F3AC346324F4E4E43C2B94FC3C21FB446424543194AC2C0C52F4B4F422E494FCBC1433F484F4C4F3FC1C0"><var>Notre logo</var></span></li>
+								<li><span class="concierge1F44C11F301F3AC346324F4E4E43C2B94FC3C21FB446424543194AC2C0C52F4B4F422E4E43CB454F4B4F484F4C46433FC1C0"><var>Notre méthodologie</var></span></li>
+								<li><span class="concierge1F44C11F301F41464148464FCB4543CAC3431FB6494B43C5194AC2C0C5"><var>Bibliothèque</var></span></li>
+								<li><span class="concierge1F44C11F301F3AC346324F4E4E43C2B94FC3C21FB446424543194AC2C0C52F4B4F422E42454AC1CB431E424F4944464B4349CB464A4846CB43"><var>Charte de confidentialité</var></span></li>
+								<li><span class="concierge1F484F461E424F4F474643C21FB24F49CB4349C31FC0C14FCB4342CB464F491E4B431E484A1EC446431EC0C146C443431E43CB1E4843C21E424F4F474643C21E2521194AC2C0C5"><var>Gestion des cookies</var></span></li>
+								<li><span class="concierge1F44C11F301F3AC346324F4E4E43C2B94FC3C21FB446424543194AC2C0C52F4B4F422E424FC0C6C1464C45CB3FC1C0"><var>Reproduction et droits d'auteur</var></span></li>
+								<li><span class="concierge1F4E434B464A"><var>Pour les médias</var></span></li>
+								<li><span class="concierge1F44C11F301F3AC346324F4E4E43C2B94FC3C21FB24F49CB4A42CB43CDB94FC3C2194AC2C0C5"><var>Contactez-nous</var></span></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section>
+			<div class="row">
+				<div class="columns">
+					<p>
+						En cas de malaise ou de maladie, consultez d’abord un médecin ou un professionnel de la santé en mesure d’évaluer adéquatement votre état de santé. En utilisant ce site, vous reconnaissez avoir pris connaissance de l’avis de désengagement de responsabilité et vous consentez à ses modalités. Si vous n’y consentez pas, vous n’êtes pas autorisé à utiliser ce site.
+					</p>
+				</div>
+				<div class="columns">
+					<div class="footer_m6group">
+						<a href="https://www.groupem6.fr/" target="_blank" class="sprites-m6"></a>
+						<a href="https://www.radins.com" target="_blank" class="sprites-radins"><span class="dnone">Radins.com</span></a>
+						<a href="https://www.cuisineaz.com/" target="_blank" class="sprites-cuisineaz"><span class="dnone">CuisineAZ</span></a>
+						<a href="https://www.meteocity.com/" target="_blank" class="sprites-m6meteo"><span class="dnone">météocity</span></a>
+						<a href="https://www.fourchette-et-bikini.fr/" target="_blank" class="sprites-fourchette"><span class="dnone">Fourchette &amp; Bikini</span></a>
+						<a href="https://www.turbo.fr/" target="_blank" class="sprites-turbo"><span class="dnone">Turbo</span></a>
+						<a href="https://www.deco.fr/" target="_blank" class="sprites-deco"><span class="dnone">Déco</span></a>
+					</div>
+					<div class="footer_m6group">
+						<a href="https://www.6play.fr/" target="_blank">6Play.fr</a>
+						<a href="https://www.comptoirbotanique.fr/" target="_blank">Comptoir Botanique</a>
+						<a href="https://www.croq-kilos.com/" target="_blank">Croq-Kilos.com</a>
+						<a href="https://www.fast-oche.com/" target="_blank">Fast-oche.com</a>
+						<a href="https://www.funradio.fr/" target="_blank">Funradio.fr</a>
+						<a href="https://www.rtl.fr/" target="_blank">RTL.fr</a>
+						<a href="https://www.rtl2.fr/" target="_blank">RTL2.fr</a>
+						<a href="https://smartcoupon.io/" target="_blank">SmartCoupon.io</a>
+						<a href="https://www.racepack.com/" target="_blank">RacePack.com</a>
+						<a href="http://www.minutefacile.com/" target="_blank">Minutefacile.com</a>
+					</div>
+					<p>
+						Reproduction et droit d'auteur © 1998-2019 Oxygem - <a href="/fr/P/QuiSommesNous/Fiche.aspx?doc=charte-confidentialite">Charte de confidentialité</a> - <a href="javascript:void(0);" onclick="m6CookiesPopin();">Préférences cookies</a>
+					</p>
+				</div>
+			</div>
+		</section>
+	</footer>
+
+
+        
+        <div id="ajaxModal" class="foxBox" aria-hidden="true" role="dialog">
+            <a href="#" class="foxboxClose" aria-label="Close">&times;</a>
+        </div>
+
+    </form>
+    
+
+<script src="https://static.passeportsante.net/resources/src/js/functions.min.js?ver=1563787380" type="text/javascript"></script>
+
+    
+    
+</body>
+</html>

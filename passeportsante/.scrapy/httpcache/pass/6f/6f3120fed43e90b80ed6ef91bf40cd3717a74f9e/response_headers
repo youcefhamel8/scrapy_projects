@@ -1,0 +1,13 @@
+Cache-Control: public, max-age=2592000
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+X-Stackifyid: V1|568e0f24-644c-4a58-b16b-0c963bdd112a|C60313|CD1|
+Access-Control-Allow-Origin: *
+Date: Mon, 09 Dec 2019 15:22:59 GMT
+X-Varnish: 42574581 8224771
+Age: 191025
+Via: 1.1 varnish (Varnish/6.1)
+X-Cache: HIT
+X-Varnish-Ttl: 2400974.071
+Accept-Ranges: bytes
+Strict-Transport-Security: max-age=31536000;

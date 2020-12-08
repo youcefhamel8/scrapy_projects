@@ -1,0 +1,10 @@
+Date: Sat, 09 Nov 2019 19:59:45 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, Origin, Authorization, Accept, Client-Security-Token, Accept-Encoding
+Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE, PUT
+Set-Cookie: JSESSIONID=88BD799FB26A6301CE358FB55AFAEAEC; Path=/; Secure; HttpOnly
+Set-Cookie: kp_uuid=428f354c-a8c9-4730-b9d2-9cdbf3dbc5a2; Expires=Mon, 08-Nov-2021 19:59:45 GMT; Path=/
+Location: /r/wilaya-adrar/dz_dz01/
+Content-Language: fr-DZ

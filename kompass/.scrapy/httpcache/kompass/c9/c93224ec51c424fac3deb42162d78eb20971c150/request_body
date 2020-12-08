@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Cookie": "JSESSIONID=88BD799FB26A6301CE358FB55AFAEAEC; ROUTEID=.2; _k_cty_lang=fr_DZ",
+        "Referer": "https://dz.kompass.com/r/wilaya-el-bayadh/dz_dz32/",
+        "User-Agent": "*"
+    },
+    "url": "https://dz.kompass.com/r/wilaya-el-bayadh/dz_dz32/"
+}

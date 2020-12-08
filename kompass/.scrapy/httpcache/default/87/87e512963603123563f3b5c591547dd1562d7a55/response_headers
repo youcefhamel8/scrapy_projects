@@ -1,0 +1,13 @@
+Date: Fri, 08 Nov 2019 00:47:26 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, Origin, Authorization, Accept, Client-Security-Token, Accept-Encoding
+Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE, PUT
+Set-Cookie: JSESSIONID=15C5B4CD3E220A834E12D7E646418A51; Path=/; Secure; HttpOnly
+Set-Cookie: JSESSIONID=15C5B4CD3E220A834E12D7E646418A51; Path=/; Secure; HttpOnly
+Set-Cookie: _k_cty_lang=fr_DZ; Domain=.kompass.com; Path=/
+Set-Cookie: kp_uuid=872a62fb-5b4e-49c0-8c3f-c8306c5d5834; Expires=Sun, 07-Nov-2021 00:47:26 GMT; Path=/
+Set-Cookie: ROUTEID=.5; path=/
+Location: /r/wilaya-alger/dz_dz16/
+Content-Language: fr-DZ

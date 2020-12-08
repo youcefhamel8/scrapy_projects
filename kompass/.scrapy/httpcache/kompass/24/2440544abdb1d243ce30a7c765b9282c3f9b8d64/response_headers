@@ -1,0 +1,10 @@
+Date: Sat, 09 Nov 2019 20:04:09 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, Origin, Authorization, Accept, Client-Security-Token, Accept-Encoding
+Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE, PUT
+Set-Cookie: JSESSIONID=88BD799FB26A6301CE358FB55AFAEAEC; Path=/; Secure; HttpOnly
+Set-Cookie: kp_uuid=75e2d9b4-73b2-44d5-8e66-6bc01b0db1ba; Expires=Mon, 08-Nov-2021 20:04:09 GMT; Path=/
+Location: /r/wilaya-guelma/dz_dz24/
+Content-Language: fr-DZ

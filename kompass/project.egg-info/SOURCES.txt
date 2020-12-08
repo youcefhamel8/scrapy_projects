@@ -1,0 +1,14 @@
+setup.py
+kompass/__init__.py
+kompass/items.py
+kompass/middlewares.py
+kompass/pipelines.py
+kompass/settings.py
+kompass/spiders/__init__.py
+kompass/spiders/kompass.py
+kompass/spiders/kompass_fp.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt

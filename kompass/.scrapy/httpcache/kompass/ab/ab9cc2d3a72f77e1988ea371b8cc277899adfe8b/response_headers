@@ -1,0 +1,10 @@
+Date: Sat, 09 Nov 2019 20:00:51 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: X-Requested-With, Content-Type, Origin, Authorization, Accept, Client-Security-Token, Accept-Encoding
+Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE, PUT
+Set-Cookie: JSESSIONID=88BD799FB26A6301CE358FB55AFAEAEC; Path=/; Secure; HttpOnly
+Set-Cookie: kp_uuid=689aaed1-a858-4ed5-a928-b79e518fcc59; Expires=Mon, 08-Nov-2021 20:00:51 GMT; Path=/
+Location: /r/wilaya-skikda/dz_dz21/
+Content-Language: fr-DZ

@@ -1,0 +1,16 @@
+Server: nginx-rc
+Date: Thu, 03 Dec 2020 17:17:28 GMT
+Content-Type: text/html; charset=utf-8
+P3P: CP="IDC DSP COR CURa ADMa OUR IND PHY ONL COM STA"
+Powered-By: PrestaShop
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: PHPSESSID=0l7gn1pmetl4vd2jsvna2u39g0; path=/
+Set-Cookie: PrestaShop-58ef6a9e3b66be32f1b4b1fb01d5871c=def50200c1d2e5ba81b14db12354e3023fd47e510aff0115114ebe497871252a5c370ef498dc037fbdd2fc956e137adfc0120670df71e30c5ff5bf2b9c3e80ce08136f4da9df9700479e902d0dab9616dcf46a08281c408c440bdbb63d31f08fc3c385fcc80a1bdfee06d2e4783e5f4d21b6d9002e351e79d1c055c1873ccc46f1f77d3d30677b74f86b82d15aef34c13cd351e873b8dcbe29bd7323e0e9bc; expires=Wed, 23-Dec-2020 17:17:28 GMT; Max-Age=1728000; path=/; domain=www.libasi.nl; secure; HttpOnly
+Set-Cookie: PrestaShop-58ef6a9e3b66be32f1b4b1fb01d5871c=def502001e0ae88022f66922afb08a20d1695a3e865a7a6e5235511c2a9d77962b5aad855e0100cb4d3cb898ce230aceec307e722610d1b53192934ab88f6756b53a835c8dba2414912f9364b6d45e8594b4867699e3a194b77e67cbb9ab576628e81799a9b41c1d0fd3223ce9fbfce660badd7d82e55bd6a79e97ce47164a62487f7a881b92e872bbd8fe38d3f62a48f7f0eddf0a9de50ebefdff6620ba75a6119f89064447e5990848344e88d80a06926ef854db187fd0b8a35bbb388630fc687549758bdf09ad1866f9ed872c12c9e38e9278ff7b5fcbf6ffa57249c64e7bdf7c65c2b1; expires=Wed, 23-Dec-2020 17:17:28 GMT; Max-Age=1728000; path=/; domain=www.libasi.nl; secure; HttpOnly
+Vary: Accept-Encoding
+Content-Encoding: gzip
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff

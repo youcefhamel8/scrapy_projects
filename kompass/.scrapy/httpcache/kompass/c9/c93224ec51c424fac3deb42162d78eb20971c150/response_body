@@ -1,0 +1,1618 @@
+<!DOCTYPE html><html lang="fr"><head>
+        <title>
+            Entreprises  - Wilaya El Bayadh | Annuaire des entreprises Kompass </title>
+
+        <meta charset="UTF-8">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        
+<script src="https://js-agent.newrelic.com/nr-1130.min.js"></script><script src="https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101"></script><script type="text/javascript" async="" src="https://dmp.theadex.com/d/506/3014/s/adex.js"></script><script src="https://pagead2.googlesyndication.com/pagead/js/r20191106/r20190131/show_ads_impl.js" id="google_shimpl"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/ec.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T7BG24"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XA8BUFVaGwYIVlZVDgM=",licenseKey:"7e5390d9e1",applicationID:"5827792"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(18),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(19),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var x=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof x&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof x&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(21)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(21)(r);n.exports=r;var i=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;i&&i.pushState&&i.replaceState&&(a=i),o.inPlace(a,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(21)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(21)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(b?b.then(a):w?w(a):(E=-E,R.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(21)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var x=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(){var t=window.NREUM,n=t.info.accountID||null,e=t.info.agentID||null,r=t.info.trustKey||null,i="btoa"in window&&"function"==typeof window.btoa;if(!n||!e||!i)return null;var a={v:[0,1],d:{ty:"Browser",ac:n,ap:e,id:o.generateCatId(),tr:o.generateCatId(),ti:Date.now()}};return r&&n!==r&&(a.d.tk=r),btoa(JSON.stringify(a))}var o=t(16);n.exports={generateTraceHeader:r}},{}],11:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<p;r++)t.removeEventListener(l[r],this.listener,!1);n.aborted||(e.duration=s.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==n.status&&(n.status=0):a(this,t),e.cbTime=this.cbTime,d.emit("xhr-done",[t],t),c("xhr",[n,e,this.startTime]))}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return w(r)}function i(t,n){var e=f(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}function a(t,n){t.params.status=n.status;var e=o(n,t.lastSize);if(e&&(t.metrics.rxSize=e),t.sameOrigin){var r=n.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(12),u=t(10).generateTraceHeader,d=t("ee"),l=["load","error","abort","timeout"],p=l.length,h=t("id"),m=t(15),w=t(14),v=window.XMLHttpRequest;s.features.xhr=!0,t(9),d.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,n.loadCaptureCalled=!1,t.addEventListener("load",function(e){a(n,t)},!1),m&&(m>34||m<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),d.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var e=!1;if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(e=!!NREUM.init.distributed_tracing.enabled),e&&this.sameOrigin){var r=u();r&&n.setRequestHeader("newrelic",r)}}),d.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=w(r);i&&(e.txSize=i)}this.startTime=s.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{d.emit("internal-error",[e])}catch(r){}}};for(var a=0;a<p;a++)n.addEventListener(l[a],this.listener,!1)}),d.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),d.on("xhr-load-added",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],n)}),d.on("removeEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],n)}),d.on("fn-start",function(t,n,e){n instanceof v&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=s.now()))}),d.on("fn-end",function(t,n){this.xhrCbStart&&d.emit("xhr-cb-time",[s.now()-this.xhrCbStart,this.onload,n],n)})}},{}],12:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],13:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(18),s=t(19),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],14:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],15:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],16:[function(t,n,e){function r(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(n=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(n=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}n.exports={generateUuid:r,generateCatId:o}},{}],17:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],18:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],19:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],20:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],21:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(19),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([x,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function w(t){return d[t]=d[t]||o(e)}function v(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},x={on:p,addEventListener:p,removeEventListener:h,emit:e,get:w,listeners:m,context:n,buffer:v,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(18),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=b.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return R.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(18),u=t("ee"),d=t(17),l=window,p=l.document,h="addEventListener",m="attachEvent",w=l.XMLHttpRequest,v=w&&w.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:w,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},x=w&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:x,userAgent:d};t(13),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,R=t(20)},{}]},{},["loader",2,11,4,3]);</script><link rel="shortcut icon" href="//cdn2.kompass.com/_ui/desktop/theme-kompass/images/favicon.ico" type="image/x-icon">
+        <link rel="dns-prefetch" href="//cdn2.kompass.com">
+
+        <link rel="stylesheet" media="all" href="//cdn2.kompass.com/_ui/desktop/theme-kompass/css/nkc/search-version-1.64.2.0.css">
+            <script type="text/javascript">
+	/*<![CDATA[*/
+	    var ACC = { "config": {} };
+		ACC.config.contextPath = "";
+		ACC.config.fullContextPath = '/'.slice(0,-1);
+		ACC.config.commonResourcePath = "/_ui/desktop/common";
+		ACC.config.themeResourcePath = "//cdn2.kompass.com/_ui/desktop/theme-kompass";
+		ACC.config.siteResourcePath = "/_ui/desktop/site-kompass";
+		ACC.config.rootPath = "/_ui/desktop";	
+		ACC.pwdStrengthVeryWeak = 'Très faible';
+		ACC.pwdStrengthWeak = 'Faible';
+		ACC.pwdStrengthMedium = 'Moyen';
+		ACC.pwdStrengthStrong = 'Fort';
+		ACC.pwdStrengthVeryStrong = 'Très fort';
+		ACC.pwdStrengthUnsafePwd = 'password.strength.unsafepwd';
+		ACC.pwdStrengthTooShortPwd = 'Trop court';
+		ACC.pwdStrengthMinCharText = 'Votre mot de passe doit comporter un minimum de %d caractères, se composer de chiffres et de lettres et comprendre des majuscules, minuscules et des caractères spéciaux (@ ! # $ % ^ & + =).';
+		ACC.accessibilityLoading = 'Loading... Please wait...';
+		ACC.accessibilityStoresLoaded = 'Stores loaded';
+		ACC.languageAndCountry = 'fr_DZ';
+		ACC.urlLanguageAttr = '';
+		ACC.registerAutocompletMaxNbre = '';
+		ACC.b2bMediaTagCode = '144115_776be743ee540b1641a2d6f03a04d16a';
+		ACC.isDevEnv = 'false';
+		ACC.selectedCountry = 'DZ';
+
+		
+	/*]]>*/
+</script>
+<script>
+    </script>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-1212892178645284",
+        enable_page_level_ads: true
+      });
+    </script>
+<!--[if lt IE 9]>
+<script src="//cdn2.kompass.com/_ui/desktop/theme-kompass/js/nkc/lib/respond-1.4.2.min-version-1.64.2.0.js"></script>
+<![endif]-->
+
+<script src="//cdn2.kompass.com/_ui/desktop/theme-kompass/js/nkc/search-version-1.64.2.0.js" defer=""></script>
+            <script type="text/javascript" defer="" src="https://lib.selfcampaign.com/tag/144115_776be743ee540b1641a2d6f03a04d16a?async=1"></script><link rel="preload" href="https://adservice.google.dz/adsid/integrator.js?domain=dz.kompass.com"><script type="text/javascript" src="https://adservice.google.dz/adsid/integrator.js?domain=dz.kompass.com"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=dz.kompass.com"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=dz.kompass.com"></script><link rel="preload" href="https://pagead2.googlesyndication.com/pagead/js/r20191106/r20190131/show_ads_impl.js"></head>
+
+	<body class="classificationListCompany classificationWrap page-seoPage pageType-ContentPage template-pages-layout-kompassHomepage pageLabel-seoPage language-fr" margintop="0px" style="margin: 0px;">
+        <input type="hidden" cart-data="false" id="gtm-is-cart-data">
+<input type="hidden" cart-data="false" id="gtm-is-order-data">
+<input type="hidden" value="" id="gtm-checkout-id">
+<input type="hidden" value="false" id="gtm-send-login-event">
+<input type="hidden" value="" id="gtm-user-uid">
+<input type="hidden" page-id="SEO Page" id="gtm-page-id">
+
+<input type="hidden" cart-data-value="" id="gtm-cart-data-code">
+<input type="hidden" cart-data-value="" id="gtm-cart-data-total-price">
+<input type="hidden" cart-data-value="" id="gtm-cart-data-total-unit-count">
+<input type="hidden" cart-data-value="" id="gtm-cart-data-currency-iso">
+<input type="hidden" cart-data-value="" id="gtm-cart-data-total-tax">
+
+<input type="hidden" cart-data-value="" id="gtm-order-data-code">
+<input type="hidden" cart-data-value="" id="gtm-order-data-total-price">
+<input type="hidden" cart-data-value="" id="gtm-order-data-currency-iso">
+<input type="hidden" cart-data-value="" id="gtm-order-data-total-tax">
+<noscript>
+    &lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-T7BG24" height="0" width="0" style="display:none;visibility:hidden" sandbox&gt;&lt;/iframe&gt;
+</noscript>
+<script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+    var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+    j.async=true;
+    j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })
+    (window,document,'script','dataLayer','GTM-T7BG24');
+</script>
+<header role="banner" id="headerMenu" class="" style="">
+
+    <nav class="navbar navbarNkc" role="navigation">
+        <div class="navbar-header navLogo">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#headerBottomMainNav" id="nav-icon3">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            <a id="headerKompassLogo" class="navbar-brand siteLogo" href="https://dz.kompass.com" title="Kompass, Your route to business worldwide">
+                    <img src="//cdn2.kompass.com/_ui/desktop/theme-kompass/images/logo.png" alt="Kompass, Your route to business worldwide">
+                    <span>Your route to business worldwide</span>
+                </a>
+            </div>
+        <div class="collapse navbar-collapse navMenu" id="headerBottomMainNav">
+                <div class="subMenu" id="menuKDirectory">
+                    <nav class="nav navbar-nav navBarMenu">
+                        <div class="navBarLink navBarLinkFirst">
+                                <a class="menuDirectoryTitle" href="https://dz.kompass.com" title="Notre annuaire">
+                                    Accueil</a>
+                            </div>
+                            <div class="navBarLink navBarSecteur">
+                                <a id="headerMenuDirectoryTitleCollapsed" class="menuDirectoryTitle collapsed" data-toggle="collapse" href="#collapseSecteur" aria-expanded="false" aria-controls="collapseSecteur" title="Recherche par secteur">
+                                    Recherche par secteur<i class="flaticon flaticon-arrows"></i>
+                                </a>
+                            </div>
+                            <div class="navBarLink">
+                                                <a class="menuDirectoryTitle" href="/registerNewCompany/identity" title="Améliorer ma visibilité">
+                                                    Améliorer ma visibilité</a>
+                                            </div>
+                                        <div id="easylist" class="navBarLink">
+                                                    <a class="menuDirectoryTitle" href="https://dz.kompass.com/buy-company-list/" target="_blank" rel="noreferrer" title="Créer ma liste d’entreprises">
+                                                        Créer ma liste d’entreprises</a>
+                                                </div>
+                                            <div id="solution" class="navBarLink">
+                                <a class="menuDirectoryTitle" href="https://dz.solutions.kompass.com" target="_blank" rel="noreferrer" title="Solutions Kompass">
+                                    Nos solutions</a>
+                            </div>
+                            <div id="about" class="navBarLink">
+                                <a class="menuDirectoryTitle" href="https://www.solutions.kompass.com/fr/a-propos/" target="_blank" rel="noreferrer" title="Qui sommes-nous ?">
+                                    Qui sommes-nous ?</a>
+                            </div>
+                            <div id="contactUs" class="navBarLink">
+                                <a href="https://dz.solutions.kompass.com/contactus/" class="menuDirectoryTitle" target="_blank" rel="noreferrer" title="Contactez-nous">
+                                    Contactez-nous</a>
+                            </div>
+                        </nav>
+                </div>
+            </div>
+            <div class="nav navbar-nav navbarRight">
+                <div class="navRightblock navRightblockSearch">
+                            <div id="blockSearch" class="navRightLink">
+                                <a id="miniSearch" class="navRightLink collapsed" role="button" data-toggle="collapse" href="#blockAnnuaire" aria-expanded="false" aria-controls="blockAnnuaire" title="Rechercher">
+                                    <i class="flaticon flaticon-search"></i>
+                                </a>
+                            </div>
+                        </div>
+                    <div class="navRightblock navRightblockMobile">
+                                        <span data-toggle="modal" data-target="#callUs" class="navRightLink linkCallUs">
+                                            <i class="flaticon flaticon-phone-call"></i>
+                                        </span>
+                                    </div>
+                                <div class="navRightblock">
+                                <a href="https://dz.solutions.kompass.com/contactus/" class="navRightLink" target="_blank" rel="noreferrer" title="Contactez-nous">
+                                    <i class="flaticon flaticon-multimedia-1"></i>
+                                </a>
+                            </div>
+                        <div class="myMiniAccount navRightblock">
+                            <a id="header-account-link" class="navRightAccount navRightLink" data-toggle="modal" data-target="#myModal" href="javascript:void(0)" title="Mon compte">
+                                <span class="navRightCircle">
+                                    <i class="flaticon flaticon-user"></i>
+                                    <span class="top-header-text"></span>
+                                </span>
+                            </a>
+                        </div>
+                    <div class="language navRightblock  navRightblockMobile">
+                        <form id="lang-form-header" class="navRightLink select-language-form" action="/_ss/language" method="post"><input type="hidden" name="code">
+			<div id="lang-selector-header" class="dropdown">
+				<div name="fr" lang="fr" class="selectPart" type="button" data-toggle="dropdown" data-target=".dropdownLang-header" aria-haspopup="true" aria-expanded="false">
+					<span class="flag flag-fr"></span>
+					<span class="text">Français</span>
+				</div>
+				<div class="dropdown-menu dropdownLang dropdownLang-header">
+					<div class="arrow"></div>
+					<ul class="dropLangUl">
+						<li class="dropTitle">Langues disponibles</li>
+						<li name="en" lang="en" class="dropLangLi selectPart">
+												<span class="flag flag-en"></span>
+												English</li>
+										<li name="fr" lang="fr" class="dropLangLi selectPart selected">
+										<span class="flag flag-fr"></span>
+										Français</li>
+								</ul>
+				</div>
+			</div>
+		<div>
+<input type="hidden" name="CSRFToken" value="8c4a2db4-7d2e-4663-84b8-9c5f289b421e">
+</div></form></div>
+                </div>
+        </nav>
+    
+<div class="collapse collapseHeader" id="collapseSecteur">
+        <div class="container">
+            <div class="blockSecteurActivites">
+                <ul class="nav nav-pills nav-stacked navSecteurActivity" role="tablist">
+                    <li role="presentation" class="active">
+                            <a class="navSecteurActivityLink" href="#tab-0" title="Agroalimentaire">
+                                <span class="iconSecteur iconSecteur-0"></span>
+                                <span class="textSecteur">Agroalimentaire</span>
+                            </a>
+                        </li>
+                    <li role="presentation" class="">
+                            <a class="navSecteurActivityLink" href="#tab-1" title="Chimie, Plastique, Santé">
+                                <span class="iconSecteur iconSecteur-1"></span>
+                                <span class="textSecteur">Chimie, Plastique, Santé</span>
+                            </a>
+                        </li>
+                    <li role="presentation" class="">
+                            <a class="navSecteurActivityLink" href="#tab-2" title="Construction, Bâtiment, Bois, Habitat">
+                                <span class="iconSecteur iconSecteur-2"></span>
+                                <span class="textSecteur">Construction, Bâtiment, Bois, Habitat</span>
+                            </a>
+                        </li>
+                    <li role="presentation" class="">
+                            <a class="navSecteurActivityLink" href="#tab-3" title="Energie, Environnement">
+                                <span class="iconSecteur iconSecteur-3"></span>
+                                <span class="textSecteur">Energie, Environnement</span>
+                            </a>
+                        </li>
+                    <li role="presentation" class="">
+                            <a class="navSecteurActivityLink" href="#tab-4" title="Enseignement, formation - Administrations">
+                                <span class="iconSecteur iconSecteur-4"></span>
+                                <span class="textSecteur">Enseignement, formation - Administrations</span>
+                            </a>
+                        </li>
+                    <li role="presentation" class="">
+                            <a class="navSecteurActivityLink" href="#tab-5" title="Informatique, Internet, R&amp;D">
+                                <span class="iconSecteur iconSecteur-5"></span>
+                                <span class="textSecteur">Informatique, Internet, R&amp;D</span>
+                            </a>
+                        </li>
+                    <li role="presentation" class="">
+                            <a class="navSecteurActivityLink" href="#tab-6" title="Loisirs, Tourisme, Culture">
+                                <span class="iconSecteur iconSecteur-6"></span>
+                                <span class="textSecteur">Loisirs, Tourisme, Culture</span>
+                            </a>
+                        </li>
+                    <li role="presentation" class="">
+                            <a class="navSecteurActivityLink" href="#tab-7" title="Matériel électrique, électronique, optique">
+                                <span class="iconSecteur iconSecteur-7"></span>
+                                <span class="textSecteur">Matériel électrique, électronique, optique</span>
+                            </a>
+                        </li>
+                    <li role="presentation" class="">
+                            <a class="navSecteurActivityLink" href="#tab-8" title="Métallurgie, mécanique et sous-traitance">
+                                <span class="iconSecteur iconSecteur-8"></span>
+                                <span class="textSecteur">Métallurgie, mécanique et sous-traitance</span>
+                            </a>
+                        </li>
+                    <li role="presentation" class="">
+                            <a class="navSecteurActivityLink" href="#tab-9" title="Négoce, grande distribution, détaillants">
+                                <span class="iconSecteur iconSecteur-9"></span>
+                                <span class="textSecteur">Négoce, grande distribution, détaillants</span>
+                            </a>
+                        </li>
+                    <li role="presentation" class="">
+                            <a class="navSecteurActivityLink" href="#tab-10" title="Papier, impression, édition">
+                                <span class="iconSecteur iconSecteur-10"></span>
+                                <span class="textSecteur">Papier, impression, édition</span>
+                            </a>
+                        </li>
+                    <li role="presentation" class="">
+                            <a class="navSecteurActivityLink" href="#tab-11" title="Produits minéraux">
+                                <span class="iconSecteur iconSecteur-11"></span>
+                                <span class="textSecteur">Produits minéraux</span>
+                            </a>
+                        </li>
+                    <li role="presentation" class="">
+                            <a class="navSecteurActivityLink" href="#tab-12" title="Services aux entreprises">
+                                <span class="iconSecteur iconSecteur-12"></span>
+                                <span class="textSecteur">Services aux entreprises</span>
+                            </a>
+                        </li>
+                    <li role="presentation" class="">
+                            <a class="navSecteurActivityLink" href="#tab-13" title="Textile, Habillement, Cuir, Horlogerie, Bijouterie">
+                                <span class="iconSecteur iconSecteur-13"></span>
+                                <span class="textSecteur">Textile, Habillement, Cuir, Horlogerie, Bijouterie</span>
+                            </a>
+                        </li>
+                    <li role="presentation" class="">
+                            <a class="navSecteurActivityLink" href="#tab-14" title="Transports et logistique">
+                                <span class="iconSecteur iconSecteur-14"></span>
+                                <span class="textSecteur">Transports et logistique</span>
+                            </a>
+                        </li>
+                    </ul>
+
+                <div class="tab-content tabSecteurActivity">
+                    <div role="tabpanel" class="tab-pane tabPanel active tab-0" id="tab-0">
+                            <a class="secteurTitle">Agroalimentaire</a>
+                            <div class="secteurText" id="secteur-0">
+                                <ul>
+                                    <li><a href="https://dz.kompass.com/a/produits-biologiques/05/" title="Produits biologiques">Produits biologiques</a></li>
+                                    <li><a href="https://dz.kompass.com/a/agriculture-et-sylviculture/02/" title="Agriculture et sylviculture">Agriculture et sylviculture</a></li>
+                                    <li><a href="https://dz.kompass.com/a/elevage-et-peche/01/" title="Elevage et pêche">Elevage et pêche</a></li>
+                                    <li><a href="https://dz.kompass.com/a/alimentation/03/" title="Alimentation">Alimentation</a></li>
+                                    <li><a href="https://dz.kompass.com/a/materiel-agricole-et-forestier/48/" title="Matériel agricole et forestier">Matériel agricole et forestier</a></li>
+                                    <li><a href="https://dz.kompass.com/a/boissons/04/" title="Boissons">Boissons</a></li>
+                                    <li><a href="https://dz.kompass.com/a/materiel-pour-l-industrie-agroalimentaire-le-tabac-et-la-restauration/49/" title="Matériel pour l'industrie agroalimentaire, le tabac et la restauration">Matériel pour l'industrie agroalimentaire, le tabac et la restauration</a></li>
+                                    </ul>
+                            </div>
+                        </div>
+                    <div role="tabpanel" class="tab-pane tabPanel  tab-1" id="tab-1">
+                            <a class="secteurTitle">Chimie, Plastique, Santé</a>
+                            <div class="secteurText" id="secteur-1">
+                                <ul>
+                                    <li><a href="https://dz.kompass.com/a/produits-chimiques-de-base/21/" title="Produits chimiques de base">Produits chimiques de base</a></li>
+                                    <li><a href="https://dz.kompass.com/a/produits-en-plastique/20/" title="Produits en plastique">Produits en plastique</a></li>
+                                    <li><a href="https://dz.kompass.com/a/parachimie/22/" title="Parachimie">Parachimie</a></li>
+                                    <li><a href="https://dz.kompass.com/a/materiel-pour-l-industrie-chimique/52/" title="Matériel pour l'industrie chimique">Matériel pour l'industrie chimique</a></li>
+                                    <li><a href="https://dz.kompass.com/a/materiel-de-traitement-du-caoutchouc-et-du-plastique/53/" title="Matériel de traitement du caoutchouc et du plastique">Matériel de traitement du caoutchouc et du plastique</a></li>
+                                    <li><a href="https://dz.kompass.com/a/sante/23/" title="Santé">Santé</a></li>
+                                    <li><a href="https://dz.kompass.com/a/produits-en-caoutchouc/18/" title="Produits en caoutchouc">Produits en caoutchouc</a></li>
+                                    </ul>
+                            </div>
+                        </div>
+                    <div role="tabpanel" class="tab-pane tabPanel  tab-2" id="tab-2">
+                            <a class="secteurTitle">Construction, Bâtiment, Bois, Habitat</a>
+                            <div class="secteurText" id="secteur-2">
+                                <ul>
+                                    <li><a href="https://dz.kompass.com/a/meubles-linge-de-maison-et-literie/15/" title="Meubles, linge de maison et literie">Meubles, linge de maison et literie</a></li>
+                                    <li><a href="https://dz.kompass.com/a/elements-metalliques-pour-le-batiment/26/" title="Eléments métalliques pour le bâtiment">Eléments métalliques pour le bâtiment</a></li>
+                                    <li><a href="https://dz.kompass.com/a/chauffage-refrigeration-et-ventilation/33/" title="Chauffage, réfrigération et ventilation">Chauffage, réfrigération et ventilation</a></li>
+                                    <li><a href="https://dz.kompass.com/a/tuyauterie-robinetterie-et-contenants-en-metal/27/" title="Tuyauterie, robinetterie et contenants en métal">Tuyauterie, robinetterie et contenants en métal</a></li>
+                                    <li><a href="https://dz.kompass.com/a/serrurerie-alarmes-et-securite/29/" title="Serrurerie, alarmes et sécurité">Serrurerie, alarmes et sécurité</a></li>
+                                    <li><a href="https://dz.kompass.com/a/quincaillerie-coutellerie-et-outillage/28/" title="Quincaillerie, coutellerie et outillage">Quincaillerie, coutellerie et outillage</a></li>
+                                    <li><a href="https://dz.kompass.com/a/bois/14/" title="Bois">Bois</a></li>
+                                    <li><a href="https://dz.kompass.com/a/batiment/71/" title="Bâtiment">Bâtiment</a></li>
+                                    <li><a href="https://dz.kompass.com/a/materiel-pour-les-travaux-publics-et-le-batiment/61/" title="Matériel pour les travaux publics et le bâtiment">Matériel pour les travaux publics et le bâtiment</a></li>
+                                    <li><a href="https://dz.kompass.com/a/travaux-publics-et-maritimes/70/" title="Travaux publics et maritimes">Travaux publics et maritimes</a></li>
+                                    </ul>
+                            </div>
+                        </div>
+                    <div role="tabpanel" class="tab-pane tabPanel  tab-3" id="tab-3">
+                            <a class="secteurTitle">Energie, Environnement</a>
+                            <div class="secteurText" id="secteur-3">
+                                <ul>
+                                    <li><a href="https://dz.kompass.com/a/eau-et-energie/07/" title="Eau et énergie">Eau et énergie</a></li>
+                                    <li><a href="https://dz.kompass.com/a/energies-renouvelables-et-environnement/72/" title="Energies renouvelables et environnement">Energies renouvelables et environnement</a></li>
+                                    <li><a href="https://dz.kompass.com/a/materiel-de-production-d-hydrocarbures/59/" title="Matériel de production d'hydrocarbures">Matériel de production d'hydrocarbures</a></li>
+                                    </ul>
+                            </div>
+                        </div>
+                    <div role="tabpanel" class="tab-pane tabPanel  tab-4" id="tab-4">
+                            <a class="secteurTitle">Enseignement, formation - Administrations</a>
+                            <div class="secteurText" id="secteur-4">
+                                <ul>
+                                    <li><a href="https://dz.kompass.com/a/enseignement-et-formation/86/" title="Enseignement et formation">Enseignement et formation</a></li>
+                                    <li><a href="https://dz.kompass.com/a/organismes-internationaux-administrations-et-associations/87/" title="Organismes internationaux, administrations et associations">Organismes internationaux, administrations et associations</a></li>
+                                    <li><a href="https://dz.kompass.com/a/services-sociaux-services-a-la-personne/88/" title="Services sociaux, services à la personne">Services sociaux, services à la personne</a></li>
+                                    </ul>
+                            </div>
+                        </div>
+                    <div role="tabpanel" class="tab-pane tabPanel  tab-5" id="tab-5">
+                            <a class="secteurTitle">Informatique, Internet, R&amp;D</a>
+                            <div class="secteurText" id="secteur-5">
+                                <ul>
+                                    <li><a href="https://dz.kompass.com/a/recherche-et-essais/85/" title="Recherche et essais">Recherche et essais</a></li>
+                                    <li><a href="https://dz.kompass.com/a/informatique-et-internet/57/" title="Informatique et Internet">Informatique et Internet</a></li>
+                                    <li><a href="https://dz.kompass.com/a/architectes-bureaux-techniques-et-societes-de-conseil-en-ingenierie/84/" title="Architectes, bureaux techniques et sociétés de conseil en ingénierie">Architectes, bureaux techniques et sociétés de conseil en ingénierie</a></li>
+                                    </ul>
+                            </div>
+                        </div>
+                    <div role="tabpanel" class="tab-pane tabPanel  tab-6" id="tab-6">
+                            <a class="secteurTitle">Loisirs, Tourisme, Culture</a>
+                            <div class="secteurText" id="secteur-6">
+                                <ul>
+                                    <li><a href="https://dz.kompass.com/a/services-de-telecommunications-radio-et-television/79/" title="Services de télécommunications, radio et télévision">Services de télécommunications, radio et télévision</a></li>
+                                    <li><a href="https://dz.kompass.com/a/hotellerie-tourisme-et-restauration/78/" title="Hôtellerie, tourisme et restauration">Hôtellerie, tourisme et restauration</a></li>
+                                    <li><a href="https://dz.kompass.com/a/industrie-du-spectacle-et-des-loisirs-culture/89/" title="Industrie du spectacle et des loisirs. Culture">Industrie du spectacle et des loisirs. Culture</a></li>
+                                    <li><a href="https://dz.kompass.com/a/sports-et-loisirs/46/" title="Sports et loisirs">Sports et loisirs</a></li>
+                                    </ul>
+                            </div>
+                        </div>
+                    <div role="tabpanel" class="tab-pane tabPanel  tab-7" id="tab-7">
+                            <a class="secteurTitle">Matériel électrique, électronique, optique</a>
+                            <div class="secteurText" id="secteur-7">
+                                <ul>
+                                    <li><a href="https://dz.kompass.com/a/materiel-de-mesure-et-d-essais/42/" title="Matériel de mesure et d'essais">Matériel de mesure et d'essais</a></li>
+                                    <li><a href="https://dz.kompass.com/a/materiel-electronique-materiel-de-telecommunications/40/" title="Matériel électronique. Matériel de télécommunications">Matériel électronique. Matériel de télécommunications</a></li>
+                                    <li><a href="https://dz.kompass.com/a/materiel-electrique-materiel-nucleaire/39/" title="Matériel électrique. Matériel nucléaire">Matériel électrique. Matériel nucléaire</a></li>
+                                    <li><a href="https://dz.kompass.com/a/materiel-d-optique-de-photographie-et-de-cinematographie/43/" title="Matériel d'optique, de photographie et de cinématographie">Matériel d'optique, de photographie et de cinématographie</a></li>
+                                    </ul>
+                            </div>
+                        </div>
+                    <div role="tabpanel" class="tab-pane tabPanel  tab-8" id="tab-8">
+                            <a class="secteurTitle">Métallurgie, mécanique et sous-traitance</a>
+                            <div class="secteurText" id="secteur-8">
+                                <ul>
+                                    <li><a href="https://dz.kompass.com/a/sous-traitance-industrielle/65/" title="Sous-traitance industrielle">Sous-traitance industrielle</a></li>
+                                    <li><a href="https://dz.kompass.com/a/produits-metallurgiques/25/" title="Produits métallurgiques">Produits métallurgiques</a></li>
+                                    <li><a href="https://dz.kompass.com/a/moteurs-et-pieces-mecaniques/32/" title="Moteurs et pièces mécaniques">Moteurs et pièces mécaniques</a></li>
+                                    <li><a href="https://dz.kompass.com/a/materiel-pour-le-travail-des-metaux/37/" title="Matériel pour le travail des métaux">Matériel pour le travail des métaux</a></li>
+                                    </ul>
+                            </div>
+                        </div>
+                    <div role="tabpanel" class="tab-pane tabPanel  tab-9" id="tab-9">
+                            <a class="secteurTitle">Négoce, grande distribution, détaillants</a>
+                            <div class="secteurText" id="secteur-9">
+                                <ul>
+                                    <li><a href="https://dz.kompass.com/a/negoce-grande-distribution-et-commerce-de-detail/81/" title="Négoce, grande distribution et commerce de détail">Négoce, grande distribution et commerce de détail</a></li>
+                                    </ul>
+                            </div>
+                        </div>
+                    <div role="tabpanel" class="tab-pane tabPanel  tab-10" id="tab-10">
+                            <a class="secteurTitle">Papier, impression, édition</a>
+                            <div class="secteurText" id="secteur-10">
+                                <ul>
+                                    <li><a href="https://dz.kompass.com/a/materiel-pour-l-industrie-du-papier-et-du-carton/55/" title="Matériel pour l'industrie du papier et du carton">Matériel pour l'industrie du papier et du carton</a></li>
+                                    <li><a href="https://dz.kompass.com/a/impression-et-edition/17/" title="Impression et édition">Impression et édition</a></li>
+                                    <li><a href="https://dz.kompass.com/a/materiel-pour-l-imprimerie-materiel-de-bureau-materiel-pour/56/" title="Matériel pour l'imprimerie. Matériel de bureau. Matériel pour magasins">Matériel pour l'imprimerie. Matériel de bureau. Matériel pour magasins</a></li>
+                                    <li><a href="https://dz.kompass.com/a/papier-et-carton/16/" title="Papier et carton">Papier et carton</a></li>
+                                    </ul>
+                            </div>
+                        </div>
+                    <div role="tabpanel" class="tab-pane tabPanel  tab-11" id="tab-11">
+                            <a class="secteurTitle">Produits minéraux</a>
+                            <div class="secteurText" id="secteur-11">
+                                <ul>
+                                    <li><a href="https://dz.kompass.com/a/verre-ceramique-et-ciment/31/" title="Verre, céramique et ciment">Verre, céramique et ciment</a></li>
+                                    <li><a href="https://dz.kompass.com/a/produits-de-carrieres/09/" title="Produits de carrières">Produits de carrières</a></li>
+                                    <li><a href="https://dz.kompass.com/a/materiel-de-production-de-minerais-et-de-mineraux-charbon-pierre/60/" title="Matériel de production de minerais et de minéraux (charbon, pierre, céramique, verre)">Matériel de production de minerais et de minéraux (charbon, pierre, céramique, verre)</a></li>
+                                    <li><a href="https://dz.kompass.com/a/minerais-et-mineraux/08/" title="Minerais et minéraux">Minerais et minéraux</a></li>
+                                    </ul>
+                            </div>
+                        </div>
+                    <div role="tabpanel" class="tab-pane tabPanel  tab-12" id="tab-12">
+                            <a class="secteurTitle">Services aux entreprises</a>
+                            <div class="secteurText" id="secteur-12">
+                                <ul>
+                                    <li><a href="https://dz.kompass.com/a/services-aux-entreprises/80/" title="Services aux entreprises">Services aux entreprises</a></li>
+                                    <li><a href="https://dz.kompass.com/a/location/83/" title="Location">Location</a></li>
+                                    <li><a href="https://dz.kompass.com/a/hygiene-et-nettoyage/24/" title="Hygiène et nettoyage">Hygiène et nettoyage</a></li>
+                                    <li><a href="https://dz.kompass.com/a/services-financiers-et-assurances/82/" title="Services financiers et assurances">Services financiers et assurances</a></li>
+                                    </ul>
+                            </div>
+                        </div>
+                    <div role="tabpanel" class="tab-pane tabPanel  tab-13" id="tab-13">
+                            <a class="secteurTitle">Textile, Habillement, Cuir, Horlogerie, Bijouterie</a>
+                            <div class="secteurText" id="secteur-13">
+                                <ul>
+                                    <li><a href="https://dz.kompass.com/a/materiel-pour-l-industrie-du-textile-de-l-habillement-du-cuir/50/" title="Matériel pour l'industrie du textile, de l'habillement, du cuir et des chaussures">Matériel pour l'industrie du textile, de l'habillement, du cuir et des chaussures</a></li>
+                                    <li><a href="https://dz.kompass.com/a/cuir-et-maroquinerie/11/" title="Cuir et maroquinerie">Cuir et maroquinerie</a></li>
+                                    <li><a href="https://dz.kompass.com/a/habillement-et-chaussures/13/" title="Habillement et chaussures">Habillement et chaussures</a></li>
+                                    <li><a href="https://dz.kompass.com/a/textile/12/" title="Textile">Textile</a></li>
+                                    <li><a href="https://dz.kompass.com/a/pierres-precieuses-bijouterie-et-horlogerie/45/" title="Pierres précieuses, bijouterie et horlogerie">Pierres précieuses, bijouterie et horlogerie</a></li>
+                                    </ul>
+                            </div>
+                        </div>
+                    <div role="tabpanel" class="tab-pane tabPanel  tab-14" id="tab-14">
+                            <a class="secteurTitle">Transports et logistique</a>
+                            <div class="secteurText" id="secteur-14">
+                                <ul>
+                                    <li><a href="https://dz.kompass.com/a/transports-et-logistique/75/" title="Transports et logistique">Transports et logistique</a></li>
+                                    <li><a href="https://dz.kompass.com/a/materiel-de-manutention-et-de-stockage/62/" title="Matériel de manutention et de stockage">Matériel de manutention et de stockage</a></li>
+                                    <li><a href="https://dz.kompass.com/a/materiel-d-emballage-conditionnement/63/" title="Matériel d'emballage. Conditionnement">Matériel d'emballage. Conditionnement</a></li>
+                                    <li><a href="https://dz.kompass.com/a/moyens-de-transport/66/" title="Moyens de transport">Moyens de transport</a></li>
+                                    </ul>
+                            </div>
+                        </div>
+                    </div>
+
+            </div>
+            <div class="blockRegion">
+                <a href="https://dz.kompass.com/#regions">Toutes les entreprises par région</a>
+            </div>
+        </div>
+    </div></header>
+<div id="callUs" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <p>Appeler Kompass</p>
+                <button type="button" class="close" data-dismiss="modal">×</button>
+            </div>
+            <div class="modal-body">
+                <div class="infoTel">
+                    <div class="infoImg">
+                        <img src="//cdn2.kompass.com/_ui/desktop/theme-kompass/images/header/logoK.png" alt="">
+                    </div>
+                    <div class="infoText">
+                        <b>Kompass</b> est à votre écoute du <b>lundi au vendredi</b> de <b>9h00 à 18h00</b></div>
+                </div>
+                <div class="infoBtn text-center">
+                    <a href="tel:+213 770 111 500" class="btn btn-nkcGreen" title="Nous sommes à votre écoute du &lt;b&gt;lundi au vendredi&lt;/b&gt; de &lt;b&gt;9h00 à 18h00&lt;/b&gt;">+213 770 111 500</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="collapse" id="blockAnnuaire">
+        <form id="search-form-box" name="search_form1573332937138" method="get" action="/searchCompanies">
+    <div id="searchAutocompletionKompass">
+        <div class="searchEngineInput">
+            <div class="inputHide">
+                <input id="category-activity-id" type="hidden" value="Recherche par activité">
+                <input id="category-name-id" type="hidden" value="Recherche par nom d’entreprise">
+                <input id="category-all-activities-id" type="hidden" value="Toutes les activités">
+                <input id="category-all-names-id" type="hidden" value="Toutes les entreprises">
+                <input id="autocomplet-selected-code" name="acClassif" type="hidden" value="">
+                <input id="selected-localization-code" name="localizationCode" type="hidden" value="">
+                <input id="selected-localization-label" name="localizationLabel" type="hidden" value="Wilaya El Bayadh">
+                <input id="selected-localization-type" name="localizationType" type="hidden" value="">
+
+                <input type="hidden" id="searchTypeCOMPANYNAMEPlaceholder" value="Qui ? Société, SIREN, SIRET...">
+                <input type="hidden" id="searchTypeSUPPLIERPlaceholder" value="Quoi ? Activité, produit, service...">
+                <input type="hidden" id="searchTypeALLPlaceholder" value="Quoi, Qui ? Activité, société...">
+
+                <input type="hidden" id="search-text-value" name="text" value="">
+            </div>
+            <div class="searchInput" id="searchInput">
+                        <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="text" id="search_header" placeholder="Qui ? Société, SIREN, SIRET..." data-toggle="popover" data-placement="bottom" data-content="Veuillez renseigner ce champ (2 caractères minimum)" maxlength="80" class="ui-autocomplete-input" autocomplete="off">
+                    </div>
+                    <div class="where_icon" style="left: 0px;">ou</div>
+                    <div class="searchInput" id="searchInput2">
+                        <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="text" id="search_header2" value="" placeholder="Quoi ? Activité, produit, service..." data-toggle="popover" data-placement="bottom" data-content="Veuillez renseigner ce champ (2 caractères minimum)" maxlength="80" class="ui-autocomplete-input" autocomplete="off">
+                    </div>
+                <div class="searchInput searchFilterLocalization">
+                <input type="text" id="completionLocalisation" value="Wilaya El Bayadh" class="search-query" placeholder="Où ? Ville, département, région, pays...">
+            </div>
+        </div>
+        <div class="searchEngineRight">
+            <button id="search-icon" class="loupe" type="submit">
+                <i class="flaticon-search"></i>
+                <span class="text">Rechercher</span>
+            </button>
+        </div>
+
+        <div class="searchEngineLeft dropdown">
+            <select id="select-search-type" name="searchType">
+                <option id="optionAll" value="ALL">Toutes les entreprises</option>
+                <option id="optionActivity" value="SUPPLIER" selected="">Entreprises par activité</option>
+            <option id="optionProduct" value="PRODUCT">Produits</option>
+                <option id="optionTradename" value="COMPANYNAME">Entreprises par nom</option>
+            </select>
+            <i class="fa fa-angle-down"></i>
+        </div>
+    </div>
+</form>
+
+
+
+<div id="search-error" class="modal fade open" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <p>
+                    Recherche trop large 
+                </p>
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+            </div>
+            <div class="modal-body">
+                <div class="noresults">
+                    Veuillez afiner votre recherche en (Localisation + Quoi, qui ? Activité, société...) 
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-nkcGreen" data-dismiss="modal">
+                    Modifier la recherche
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</div>
+<main id="page" class="" role="main">
+            <div id="content" class="container">
+                <div id="introContentTitle">
+            <h1>
+                Entreprises - Wilaya El Bayadh</h1>
+        </div>
+        <div class="nomenclature_wrapper">
+            <div class="resultatsListe">
+                <div class="container">
+                    <div class="btn-filterTitle" data-toggle="collapse" data-target="#resultToggle">
+                        Affiner ma recherche<span class="flaticon flaticonEbol-medical"></span>
+                    </div>
+                    <div class="row rowFlex">
+                        <section class="col-xs-12 col-sm-3 col-md-3 resultFilter" id="resultToggle">
+                            <div class="resultFilterWhite">
+                                <div class="filterClose" data-toggle="collapse" data-target="#resultToggle">
+                                    <span class="flaticon flaticonEbol-back"></span>
+                                    Retour</div>
+                                <div class="filterTitle">Résultat(s) correspondant(s) à la recherche :
+                                    Wilaya El Bayadh</div>
+                                <div class="classificationEasylist colClassif">
+                                    <a class="easylistButton" id="classificationEasylistButton" href="/buy-company-list?localizationCode=IE_D-DZ-DZ_DZ32" target="_blank" rel="noreferrer">
+                                            <i class="flaticon flaticonEbol-target"></i>
+                                            <span>Voir le fichier</span>
+                                        </a>
+                                    </div>
+                                <div class="classificationCounterResult">
+                                    <div class="filterEnterprise">
+                                        <span class="btn-filter filterEnterprise">
+                                            <span>16</span>
+                                            Entreprises</span>
+                                    </div>
+                                </div>
+
+                                <div class="booster-products">
+                                        <a id="booster_products_link" href="/prd/" title="Voir les produits premium">
+                                            Voir les produits premium</a>
+                                    </div>
+                                <div class="booster-international">
+                                    <a id="category_category_link[]" href="/z/ww/" title="Voir tous nos clients Premium internationaux">
+                                                Voir tous nos clients Premium internationaux</a>
+                                        </div>
+
+                                <div class="filtres search_menu classificationListCategory ">
+                                    <div class="search_facet">
+                                        <div class="category category1">
+                                            <div class="searchTitle">
+                                                Filtrer par secteur d’activité</div>
+                                        </div>
+                                        <div class="classif-facet contentDataProduct">
+                                            <ul>
+                                                    <li class="searchItemLi">
+                                                                        <a id="category_other_link[0]" href="https://dz.kompass.com/s/agroalimentaire/01/r/wilaya-el-bayadh/dz_dz32/">
+                                                                            Agroalimentaire&nbsp;
+                                                                            Wilaya El Bayadh</a>
+                                                                    </li>
+                                                                <li class="searchItemLi">
+                                                                        <a id="category_other_link[1]" href="https://dz.kompass.com/s/chimie-plastique-sante/04/r/wilaya-el-bayadh/dz_dz32/">
+                                                                            Chimie, Plastique, Santé&nbsp;
+                                                                            Wilaya El Bayadh</a>
+                                                                    </li>
+                                                                <li class="searchItemLi">
+                                                                        <a id="category_other_link[2]" href="https://dz.kompass.com/s/construction-batiment-bois-habitat/09/r/wilaya-el-bayadh/dz_dz32/">
+                                                                            Construction, Bâtiment, Bois, Habitat&nbsp;
+                                                                            Wilaya El Bayadh</a>
+                                                                    </li>
+                                                                <li class="searchItemLi">
+                                                                        <a id="category_other_link[3]" href="https://dz.kompass.com/s/energie-environnement/03/r/wilaya-el-bayadh/dz_dz32/">
+                                                                            Energie, Environnement&nbsp;
+                                                                            Wilaya El Bayadh</a>
+                                                                    </li>
+                                                                <li class="searchItemLi">
+                                                                        <a id="category_other_link[4]" href="https://dz.kompass.com/s/enseignement-formation-administrations/14/r/wilaya-el-bayadh/dz_dz32/">
+                                                                            Enseignement, formation - Administrations&nbsp;
+                                                                            Wilaya El Bayadh</a>
+                                                                    </li>
+                                                                <li class="searchItemLi">
+                                                                        <a id="category_other_link[5]" href="https://dz.kompass.com/s/informatique-internet-r-d/12/r/wilaya-el-bayadh/dz_dz32/">
+                                                                            Informatique, Internet, R&amp;D&nbsp;
+                                                                            Wilaya El Bayadh</a>
+                                                                    </li>
+                                                                <li class="searchItemLi">
+                                                                        <a id="category_other_link[6]" href="https://dz.kompass.com/s/loisirs-tourisme-culture/15/r/wilaya-el-bayadh/dz_dz32/">
+                                                                            Loisirs, Tourisme, Culture&nbsp;
+                                                                            Wilaya El Bayadh</a>
+                                                                    </li>
+                                                                <li class="searchItemLi">
+                                                                        <a id="category_other_link[7]" href="https://dz.kompass.com/s/materiel-electrique-electronique-optique/08/r/wilaya-el-bayadh/dz_dz32/">
+                                                                            Matériel électrique, électronique, optique&nbsp;
+                                                                            Wilaya El Bayadh</a>
+                                                                    </li>
+                                                                <li class="searchItemLi">
+                                                                        <a id="category_other_link[8]" href="https://dz.kompass.com/s/metallurgie-mecanique-et-sous-traitance/06/r/wilaya-el-bayadh/dz_dz32/">
+                                                                            Métallurgie, mécanique et sous-traitance&nbsp;
+                                                                            Wilaya El Bayadh</a>
+                                                                    </li>
+                                                                <li class="searchItemLi">
+                                                                        <a id="category_other_link[9]" href="https://dz.kompass.com/s/negoce-grande-distribution-detaillants/13/r/wilaya-el-bayadh/dz_dz32/">
+                                                                            Négoce, grande distribution, détaillants&nbsp;
+                                                                            Wilaya El Bayadh</a>
+                                                                    </li>
+                                                                <li class="searchItemLi">
+                                                                        <a id="category_other_link[10]" href="https://dz.kompass.com/s/papier-impression-edition/07/r/wilaya-el-bayadh/dz_dz32/">
+                                                                            Papier, impression, édition&nbsp;
+                                                                            Wilaya El Bayadh</a>
+                                                                    </li>
+                                                                <li class="searchItemLi">
+                                                                        <a id="category_other_link[11]" href="https://dz.kompass.com/s/produits-mineraux/02/r/wilaya-el-bayadh/dz_dz32/">
+                                                                            Produits minéraux&nbsp;
+                                                                            Wilaya El Bayadh</a>
+                                                                    </li>
+                                                                <li class="searchItemLi">
+                                                                        <a id="category_other_link[12]" href="https://dz.kompass.com/s/services-aux-entreprises/11/r/wilaya-el-bayadh/dz_dz32/">
+                                                                            Services aux entreprises&nbsp;
+                                                                            Wilaya El Bayadh</a>
+                                                                    </li>
+                                                                <li class="searchItemLi">
+                                                                        <a id="category_other_link[13]" href="https://dz.kompass.com/s/textile-habillement-cuir-horlogerie-bijouterie/05/r/wilaya-el-bayadh/dz_dz32/">
+                                                                            Textile, Habillement, Cuir, Horlogerie, Bijouterie&nbsp;
+                                                                            Wilaya El Bayadh</a>
+                                                                    </li>
+                                                                <li class="searchItemLi">
+                                                                        <a id="category_other_link[14]" href="https://dz.kompass.com/s/transports-et-logistique/10/r/wilaya-el-bayadh/dz_dz32/">
+                                                                            Transports et logistique&nbsp;
+                                                                            Wilaya El Bayadh</a>
+                                                                    </li>
+                                                                </ul>
+                                            </div>
+                                    </div>
+                                    <div class="search_facet">
+                                        <div class="category2 category">
+                                            <div class="searchTitle">
+                                                Wilaya El Bayadh</div>
+                                        </div>
+                                        <div class="containerData">
+                                            <ul class="fil-ariane">
+                                                    </ul>
+                                            </div>
+                                        <div class="containerDataProduct">
+                                            <div class="fil-ariane">
+                                                    <ul class="pathway">
+                                                        </ul>
+                                                </div>
+                                            </div>
+                                        <div class="contentTitleIntro_substitut"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                        <section class="col-xs-12 col-sm-6 col-md-6 resultats classificationListCategoryMiddle" id="classifSEO">
+                            <div class="top3 locken">
+    <div class="top3Title">
+        <div>
+            Découvrez nos entreprises de confiance</div>
+    </div>
+    <div class="addList row rowFlex">
+        <div class="add_list is-booster featured col-xs-12 col-sm-6 col-md-6 col-lg-4 locken" id="top3Template">
+            <div class="prod_list">
+                <div class="product-list-data">
+                    <div class="product-img"></div>
+                    <h2>
+                        <a href="javascript:void(0)" class="productMainLink linkTitle"></a>
+                    </h2>
+                    <div class="details">
+                        <a href="javascript:void(0)" class="productMainLink activities"></a>
+                    </div>
+                    <div class="localistion margT20">
+                        <div class="place">
+                            <span class="flagWorld">
+                                <span></span>
+                                <span class="placeText"></span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<input type="hidden" id="getTop3CompanyData" value="/getTop3CompanyData">
+<input type="hidden" id="baseUrlNoEndSlash" value="">
+<input type="hidden" id="tabId" value="classifSEO">
+
+<div class="prodListBanner">
+
+
+
+
+</div>
+                                    <div id="resultatDivId" class="row resultatDivId">
+                                        <div id="seoProdListDZ018685" class="prod_list ">
+    <div class="product-list-data">
+        <h2>
+            <a id="seoCompanyLinkDZ018685" href="https://dz.kompass.com/c/wilaya-d-el-bayadh/dz018685/" title="Wilaya d'El Bayadh">
+                Wilaya d'El Bayadh</a>
+        </h2>
+        <div class="row rowTop">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="row rowFlex">
+                    <div class="details">
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row rowFooter">
+            <div class="col-xs-12 col-sm-12 col-md-8 place">
+                <a href="https://dz.kompass.com/c/wilaya-d-el-bayadh/dz018685/" title="Wilaya d'El Bayadh" class="flagWorld">
+                    <span class="flag-dz"></span>
+                    <span class="placeText">El bayadh - Algérie</span>
+                </a>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-4 text-right">
+                <span class="locken"></span></div>
+        </div>
+    </div>
+</div>
+<div id="seoProdListDZ016371" class="prod_list ">
+    <div class="product-list-data">
+        <h2>
+            <a id="seoCompanyLinkDZ016371" href="https://dz.kompass.com/c/centre-national-du-registre-du-commerce-epa/dz016371/" title="Centre National du Registre du Commerce,EPA, CNRC">
+                Centre National du Registre du Commerce,EPA, CNRC</a>
+        </h2>
+        <div class="row rowTop">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="row rowFlex">
+                    <div class="details">
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row rowFooter">
+            <div class="col-xs-12 col-sm-12 col-md-8 place">
+                <a href="https://dz.kompass.com/c/centre-national-du-registre-du-commerce-epa/dz016371/" title="Centre National du Registre du Commerce,EPA, CNRC" class="flagWorld">
+                    <span class="flag-dz"></span>
+                    <span class="placeText">El bayadh - Algérie</span>
+                </a>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-4 text-right">
+                <span class="locken"></span></div>
+        </div>
+    </div>
+</div>
+<div id="seoProdListDZ259743" class="prod_list ">
+    <div class="product-list-data">
+        <h2>
+            <a id="seoCompanyLinkDZ259743" href="https://dz.kompass.com/c/bios-semghoune-internationnal-sarl/dz259743/" title="Bios Semghoune Internationnal,Sarl">
+                Bios Semghoune Internationnal,Sarl</a>
+        </h2>
+        <div class="row rowTop">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="row rowFlex">
+                    <div class="details">
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row rowFooter">
+            <div class="col-xs-12 col-sm-12 col-md-8 place">
+                <a href="https://dz.kompass.com/c/bios-semghoune-internationnal-sarl/dz259743/" title="Bios Semghoune Internationnal,Sarl" class="flagWorld">
+                    <span class="flag-dz"></span>
+                    <span class="placeText">El bayadh - Algérie</span>
+                </a>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-4 text-right">
+                <span class="locken"></span></div>
+        </div>
+    </div>
+</div>
+<div id="seoProdListDZ259709" class="prod_list ">
+    <div class="product-list-data">
+        <h2>
+            <a id="seoCompanyLinkDZ259709" href="https://dz.kompass.com/c/chambre-de-commerce-d-industrie-epic/dz259709/" title="Chambre de Commerce &amp; d'Industrie,EPIC, CCI KSAL">
+                Chambre de Commerce &amp; d'Industrie,EPIC, CCI KSAL</a>
+        </h2>
+        <div class="row rowTop">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="row rowFlex">
+                    <div class="details">
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row rowFooter">
+            <div class="col-xs-12 col-sm-12 col-md-8 place">
+                <a href="https://dz.kompass.com/c/chambre-de-commerce-d-industrie-epic/dz259709/" title="Chambre de Commerce &amp; d'Industrie,EPIC, CCI KSAL" class="flagWorld">
+                    <span class="flag-dz"></span>
+                    <span class="placeText">El bayadh - Algérie</span>
+                </a>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-4 text-right">
+                <span class="locken"></span></div>
+        </div>
+    </div>
+</div>
+<div id="seoProdListDZ269187" class="prod_list ">
+    <div class="product-list-data">
+        <h2>
+            <a id="seoCompanyLinkDZ269187" href="https://dz.kompass.com/c/caisse-regionale-de-mutualite-agricole/dz269187/" title="Caisse Régionale de Mutualité Agricole, CRMA">
+                Caisse Régionale de Mutualité Agricole, CRMA</a>
+        </h2>
+        <div class="row rowTop">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="row rowFlex">
+                    <div class="details">
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row rowFooter">
+            <div class="col-xs-12 col-sm-12 col-md-8 place">
+                <a href="https://dz.kompass.com/c/caisse-regionale-de-mutualite-agricole/dz269187/" title="Caisse Régionale de Mutualité Agricole, CRMA" class="flagWorld">
+                    <span class="flag-dz"></span>
+                    <span class="placeText">El bayadh - Algérie</span>
+                </a>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-4 text-right">
+                <span class="locken"></span></div>
+        </div>
+    </div>
+</div>
+<div class="adsense adsense-lg nkc-scrollbar">
+                                                        <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                                                        <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-1212892178645284" data-ad-slot="8882834408" data-full-width-responsive="true" data-adsbygoogle-status="done"><ins id="aswift_1_expand" style="display:inline-table;border:none;height:90px;margin:0;padding:0;position:relative;visibility:visible;width:728px;background-color:transparent;"><ins id="aswift_1_anchor" style="display:block;border:none;height:90px;margin:0;padding:0;position:relative;visibility:visible;width:728px;background-color:transparent;"><iframe width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_1" name="aswift_1" style="left:0;position:absolute;top:0;border:0px;width:728px;height:90px;"></iframe></ins></ins></ins>
+                                                        <script>
+                                                            (adsbygoogle = window.adsbygoogle || []).push({});
+                                                        </script>
+                                                    </div>
+                                                <div id="seoProdListDZ269196" class="prod_list ">
+    <div class="product-list-data">
+        <h2>
+            <a id="seoCompanyLinkDZ269196" href="https://dz.kompass.com/c/entreprise-publique-des-travaux-routiers-du-centre-spa/dz269196/" title="Entreprise Publique des Travaux Routiers du Centre,Spa, EPTRC">
+                Entreprise Publique des Travaux Routiers du Centre,Spa, EPTRC</a>
+        </h2>
+        <div class="row rowTop">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="row rowFlex">
+                    <div class="details">
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row rowFooter">
+            <div class="col-xs-12 col-sm-12 col-md-8 place">
+                <a href="https://dz.kompass.com/c/entreprise-publique-des-travaux-routiers-du-centre-spa/dz269196/" title="Entreprise Publique des Travaux Routiers du Centre,Spa, EPTRC" class="flagWorld">
+                    <span class="flag-dz"></span>
+                    <span class="placeText">El bayadh - Algérie</span>
+                </a>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-4 text-right">
+                <span class="locken"></span></div>
+        </div>
+    </div>
+</div>
+<div id="seoProdListDZ265608" class="prod_list ">
+    <div class="product-list-data">
+        <h2>
+            <a id="seoCompanyLinkDZ265608" href="https://dz.kompass.com/c/atlas-ksel-eurl/dz265608/" title="ATLAS KSEL,EURL">
+                ATLAS KSEL,EURL</a>
+        </h2>
+        <div class="row rowTop">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="row rowFlex">
+                    <div class="details">
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row rowFooter">
+            <div class="col-xs-12 col-sm-12 col-md-8 place">
+                <a href="https://dz.kompass.com/c/atlas-ksel-eurl/dz265608/" title="ATLAS KSEL,EURL" class="flagWorld">
+                    <span class="flag-dz"></span>
+                    <span class="placeText">El bayadh - Algérie</span>
+                </a>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-4 text-right">
+                <span class="locken"></span></div>
+        </div>
+    </div>
+</div>
+<div id="seoProdListDZ263793" class="prod_list ">
+    <div class="product-list-data">
+        <h2>
+            <a id="seoCompanyLinkDZ263793" href="https://dz.kompass.com/c/clinique-goudjil-sante/dz263793/" title="Clinique GOUDJIL Santé">
+                Clinique GOUDJIL Santé</a>
+        </h2>
+        <div class="row rowTop">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="row rowFlex">
+                    <div class="details">
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row rowFooter">
+            <div class="col-xs-12 col-sm-12 col-md-8 place">
+                <a href="https://dz.kompass.com/c/clinique-goudjil-sante/dz263793/" title="Clinique GOUDJIL Santé" class="flagWorld">
+                    <span class="flag-dz"></span>
+                    <span class="placeText">El bayadh - Algérie</span>
+                </a>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-4 text-right">
+                <span class="locken"></span></div>
+        </div>
+    </div>
+</div>
+<div id="seoProdListDZ122204" class="prod_list ">
+    <div class="product-list-data">
+        <h2>
+            <a id="seoCompanyLinkDZ122204" href="https://dz.kompass.com/c/cnep-banque-spa/dz122204/" title="CNEP Banque,Spa">
+                CNEP Banque,Spa</a>
+        </h2>
+        <div class="row rowTop">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="row rowFlex">
+                    <div class="details">
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row rowFooter">
+            <div class="col-xs-12 col-sm-12 col-md-8 place">
+                <a href="https://dz.kompass.com/c/cnep-banque-spa/dz122204/" title="CNEP Banque,Spa" class="flagWorld">
+                    <span class="flag-dz"></span>
+                    <span class="placeText">El bayadh - Algérie</span>
+                </a>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-4 text-right">
+                <span class="locken"></span></div>
+        </div>
+    </div>
+</div>
+<div id="seoProdListDZ177776" class="prod_list ">
+    <div class="product-list-data">
+        <h2>
+            <a id="seoCompanyLinkDZ177776" href="https://dz.kompass.com/c/entreprise-communale-de-menuiserie-generale-d-el-bayadh/dz177776/" title="Entreprise Communale de Menuiserie Générale d'El Bayadh, ECOMEGE">
+                Entreprise Communale de Menuiserie Générale d'El Bayadh, ECOMEGE</a>
+        </h2>
+        <div class="row rowTop">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="row rowFlex">
+                    <div class="details">
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row rowFooter">
+            <div class="col-xs-12 col-sm-12 col-md-8 place">
+                <a href="https://dz.kompass.com/c/entreprise-communale-de-menuiserie-generale-d-el-bayadh/dz177776/" title="Entreprise Communale de Menuiserie Générale d'El Bayadh, ECOMEGE" class="flagWorld">
+                    <span class="flag-dz"></span>
+                    <span class="placeText">El bayadh - Algérie</span>
+                </a>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-4 text-right">
+                <span class="locken"></span></div>
+        </div>
+    </div>
+</div>
+<div id="seoProdListDZ268769" class="prod_list ">
+    <div class="product-list-data">
+        <h2>
+            <a id="seoCompanyLinkDZ268769" href="https://dz.kompass.com/c/agence-nationale-de-developpement-de-l-investissement-epa/dz268769/" title="Agence Nationale de Développement De l'Investissement,EPA, ANDI">
+                Agence Nationale de Développement De l'Investissement,EPA, ANDI</a>
+        </h2>
+        <div class="row rowTop">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="row rowFlex">
+                    <div class="details">
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row rowFooter">
+            <div class="col-xs-12 col-sm-12 col-md-8 place">
+                <a href="https://dz.kompass.com/c/agence-nationale-de-developpement-de-l-investissement-epa/dz268769/" title="Agence Nationale de Développement De l'Investissement,EPA, ANDI" class="flagWorld">
+                    <span class="flag-dz"></span>
+                    <span class="placeText">El bayadh - Algérie</span>
+                </a>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-4 text-right">
+                <span class="locken"></span></div>
+        </div>
+    </div>
+</div>
+<div id="seoProdListDZ214298" class="prod_list ">
+    <div class="product-list-data">
+        <h2>
+            <a id="seoCompanyLinkDZ214298" href="https://dz.kompass.com/c/caisse-nationale-de-securite-sociale-des-non-salaries-epic/dz214298/" title="Caisse Nationale de Securité Sociale des Non Salariés,EPIC, CASNOS">
+                Caisse Nationale de Securité Sociale des Non Salariés,EPIC, CASNOS</a>
+        </h2>
+        <div class="row rowTop">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="row rowFlex">
+                    <div class="details">
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row rowFooter">
+            <div class="col-xs-12 col-sm-12 col-md-8 place">
+                <a href="https://dz.kompass.com/c/caisse-nationale-de-securite-sociale-des-non-salaries-epic/dz214298/" title="Caisse Nationale de Securité Sociale des Non Salariés,EPIC, CASNOS" class="flagWorld">
+                    <span class="flag-dz"></span>
+                    <span class="placeText">El bayadh - Algérie</span>
+                </a>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-4 text-right">
+                <span class="locken"></span></div>
+        </div>
+    </div>
+</div>
+<div id="seoProdListDZ269439" class="prod_list ">
+    <div class="product-list-data">
+        <h2>
+            <a id="seoCompanyLinkDZ269439" href="https://dz.kompass.com/c/laboratoire-national-de-l-habitat-de-la-construction-sud-ouest-spa/dz269439/" title="Laboratoire National de l'Habitat &amp; de la Construction Sud Ouest,Spa, LNHC">
+                Laboratoire National de l'Habitat &amp; de la Construction Sud Ouest,Spa, LNHC</a>
+        </h2>
+        <div class="row rowTop">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="row rowFlex">
+                    <div class="details">
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row rowFooter">
+            <div class="col-xs-12 col-sm-12 col-md-8 place">
+                <a href="https://dz.kompass.com/c/laboratoire-national-de-l-habitat-de-la-construction-sud-ouest-spa/dz269439/" title="Laboratoire National de l'Habitat &amp; de la Construction Sud Ouest,Spa, LNHC" class="flagWorld">
+                    <span class="flag-dz"></span>
+                    <span class="placeText">El bayadh - Algérie</span>
+                </a>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-4 text-right">
+                <span class="locken"></span></div>
+        </div>
+    </div>
+</div>
+<div id="seoProdListDZ252450" class="prod_list ">
+    <div class="product-list-data">
+        <h2>
+            <a id="seoCompanyLinkDZ252450" href="https://dz.kompass.com/c/comptoir-medical-adjila/dz252450/" title="Comptoir Médical ADJILA">
+                Comptoir Médical ADJILA</a>
+        </h2>
+        <div class="row rowTop">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="row rowFlex">
+                    <div class="details">
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row rowFooter">
+            <div class="col-xs-12 col-sm-12 col-md-8 place">
+                <a href="https://dz.kompass.com/c/comptoir-medical-adjila/dz252450/" title="Comptoir Médical ADJILA" class="flagWorld">
+                    <span class="flag-dz"></span>
+                    <span class="placeText">El bayadh - Algérie</span>
+                </a>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-4 text-right">
+                <span class="locken"></span></div>
+        </div>
+    </div>
+</div>
+<div id="seoProdListDZ026487" class="prod_list ">
+    <div class="product-list-data">
+        <h2>
+            <a id="seoCompanyLinkDZ026487" href="https://dz.kompass.com/c/agence-nationale-de-soutien-a-l-emploi-de-jeunes/dz026487/" title="Agence Nationale de Soutien à l'Emploi de Jeunes, ANSEJ">
+                Agence Nationale de Soutien à l'Emploi de Jeunes, ANSEJ</a>
+        </h2>
+        <div class="row rowTop">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="row rowFlex">
+                    <div class="details">
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row rowFooter">
+            <div class="col-xs-12 col-sm-12 col-md-8 place">
+                <a href="https://dz.kompass.com/c/agence-nationale-de-soutien-a-l-emploi-de-jeunes/dz026487/" title="Agence Nationale de Soutien à l'Emploi de Jeunes, ANSEJ" class="flagWorld">
+                    <span class="flag-dz"></span>
+                    <span class="placeText">El bayadh - Algérie</span>
+                </a>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-4 text-right">
+                <span class="locken"></span></div>
+        </div>
+    </div>
+</div>
+<div id="seoProdListDZ204298" class="prod_list ">
+    <div class="product-list-data">
+        <h2>
+            <a id="seoCompanyLinkDZ204298" href="https://dz.kompass.com/c/laboratoire-des-travaux-publics-du-sud-spa/dz204298/" title="Laboratoire des Travaux Publics du Sud,Spa, LTPS">
+                Laboratoire des Travaux Publics du Sud,Spa, LTPS</a>
+        </h2>
+        <div class="row rowTop">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="row rowFlex">
+                    <div class="details">
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row rowFooter">
+            <div class="col-xs-12 col-sm-12 col-md-8 place">
+                <a href="https://dz.kompass.com/c/laboratoire-des-travaux-publics-du-sud-spa/dz204298/" title="Laboratoire des Travaux Publics du Sud,Spa, LTPS" class="flagWorld">
+                    <span class="flag-dz"></span>
+                    <span class="placeText">El bayadh - Algérie</span>
+                </a>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-4 text-right">
+                <span class="locken"></span></div>
+        </div>
+    </div>
+</div>
+</div>
+                                    <a href="javascript:void(0)" id="backtotop" class="btn-link" title="Retour en haut">
+                                        <i class="fa flaticon-arrows" aria-hidden="true"></i>
+                                        <span>Retour en haut</span>
+                                    </a>
+                                </section>
+                        <section class="hidden-xs hidden-sm col-md-3 colSearchSeoRight classificationListCategoryRight">
+                                <div class="colSearchSeoRightBanner">
+                                    </div>
+                                <div class="colSearchSeoRightBanner">
+                                    </div>
+                                <div class="kompassTagEasyListBlock">
+    <div class="kompassTagEasyList">
+        <div class="kompassTagEasyListMyCart">
+            <span class="flaticon flaticonEbol-target"></span>
+            Panier</div>
+        <div class="kompassTagEasyListPub">
+            <div class="kompassTagEasyListPubText">
+                Accéder aux informations entreprises et dirigeants de la liste d’entreprises en cours</div>
+            <div class="classificationEasylist">
+                <a class="easylistButton" href="/buy-company-list?localizationCode=IE_D-DZ-DZ_DZ32" target="_blank" rel="noreferrer">
+                    <i class="flaticon flaticon-arrows-3"></i>
+                    <span>Télécharger ce fichier</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div></section>
+                        </div>
+
+                    <section class="filtres">
+                            <h2 class="other-links">
+                                Autres secteurs d’activité et localisations associés à votre recherche</h2>
+                            <div class="nav_column">
+                                <div class="item">
+                                        <div class="category">
+                                            <a class="refinementToggle">
+                                                <span>Liste des régions</span>
+                                                <i id="category_navigation_icon" class="fa fa-plus"></i>
+                                            </a>
+                                        </div>
+                                        <div class="facetValues">
+                                            <ul>
+                                                <li>
+                                                        <a id="category_navigation_link[0]" href="https://dz.kompass.com/r/wilaya-el-bayadh/dz_dz32/">
+                                                            Wilaya El Bayadh</a>
+                                                    </li>
+                                                </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                        </section>
+                    </div>
+            </div>
+        </div>
+
+        
+
+<div id="searchHelper" class="modal fade" role="dialog" displayed="false">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div>
+                    <div class="infoImg"><img src="//cdn2.kompass.com/_ui/desktop/theme-kompass/images/Kompass_newlogo_250x40.png" alt=""></div>
+                    <div class="infoText">Comment pouvons nous vous aider?</div>
+                </div>
+                <button type="button" class="close" data-dismiss="modal">×</button>
+            </div>
+            <div class="modal-body">
+                
+                
+
+                <div class="infoBtn text-center">
+                    <a id="seoModalDistributorBtn" href="/basiccontactus/customers" class="btn btn-nkcGreenBorder">Je recherche de nouveaux clients</a>
+                    <a id="seoModalSupplierBtn" href="/basiccontactus/suppliers" class="btn btn-nkcGreenBorder">Je recherche des fournisseurs</a>
+                    <a id="seoModalCompanyListBtn" href="https://dz.kompass.com/buy-company-list/" class="btn btn-nkcGreenBorder">Je souhaite créer ma liste d’entreprise</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+        </main>
+
+        <div id="companyMailboxModal" class="modal fade" tabindex="-1" role="dialog"></div>
+        <section id="contentFooter">
+        <div class="footerTop">
+            <div id="reinsurance" class="lazyBackground">
+                    <div class="container hidden-xs">
+                            <ul class="row">
+                                <li class="col-xs-12 col-sm-3 col-md-3">
+                                    <p>
+                                        <span class="flaticon flaticon-database-3"></span>
+                                        <span class="text">Une qualité de la data</span>
+                                    </p>
+                                </li>
+                                <li class="col-xs-12 col-sm-3 col-md-3">
+                                        <a href="https://dz.kompass.com/fr/l/general-conditions/">
+                                                    <span class="flaticon flaticon-security-1"></span>
+                                                    <span class="text">Un paiement sécurisé</span>
+                                                </a>
+                                            </li>
+                                <li class="col-xs-12 col-sm-3 col-md-3">
+                                    <p>
+                                        <span class="flaticon flaticon-quality"></span>
+                                        <span class="text">Une vraie expertise</span>
+                                    </p>
+                                </li>
+                                <li class="col-xs-12 col-sm-3 col-md-3">
+                                    <a href="https://dz.solutions.kompass.com/contactus/">
+                                                <span class="flaticon flaticon-question"></span>
+                                                <span class="text">Un service client à votre écoute</span>
+                                             </a>
+                                        </li>
+                            </ul>
+                        </div>
+                    </div>
+            <div id="footerLogoContact">
+                <div class="container">
+                    <div class="footerBlanc">
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-4 text-left">
+                                <div class="blockImg">
+                                    <img data-src="//cdn2.kompass.com/_ui/desktop/theme-kompass/images/logo.png" alt="kompass" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-8 textRight">
+                                <h2 class="hidden-xs">Contactez-nous :</h2>
+                                    <a href="tel:+213 770 111 500" class="btnPhone">
+                                            <span class="flaticon flaticonEbol-touch-screen"></span>
+                                            <span class="text">+213 770 111 500</span>
+                                        </a>
+                                    <a href="https://dz.solutions.kompass.com/contactus/" target="_blank" rel="noreferrer" class="btn btn-nkcGreen">
+                                        Parler à l’équipe</a>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer id="footer" class="lazyBackground">
+            <div class="container">
+                <div class="row grid" data-masonry="{&quot;itemSelector&quot;: &quot;.grid-item&quot;}" style="position: relative; height: 545px;">
+                    <div class="col-xs-12 col-sm-6 col-md-3 grid-item" style="position: absolute; left: 0px; top: 0px;">
+                        <h2 class="h2First">
+                                Annuaire des entreprises<span>Par activité</span>
+                            </h2>
+
+                            <ul>
+                                <li>
+                                            <a id="footer_category_link[0]" href="https://dz.kompass.com/s/agroalimentaire/01/">Agroalimentaire</a>
+                                        </li>
+                                    <li>
+                                            <a id="footer_category_link[1]" href="https://dz.kompass.com/s/chimie-plastique-sante/04/">Chimie, Plastique, Santé</a>
+                                        </li>
+                                    <li>
+                                            <a id="footer_category_link[2]" href="https://dz.kompass.com/s/construction-batiment-bois-habitat/09/">Construction, Bâtiment, Bois, Habitat</a>
+                                        </li>
+                                    <li>
+                                            <a id="footer_category_link[3]" href="https://dz.kompass.com/s/energie-environnement/03/">Energie, Environnement</a>
+                                        </li>
+                                    <li>
+                                            <a id="footer_category_link[4]" href="https://dz.kompass.com/s/enseignement-formation-administrations/14/">Enseignement, formation - Administrations</a>
+                                        </li>
+                                    <li>
+                                            <a id="footer_category_link[5]" href="https://dz.kompass.com/s/informatique-internet-r-d/12/">Informatique, Internet, R&amp;D</a>
+                                        </li>
+                                    <li>
+                                            <a id="footer_category_link[6]" href="https://dz.kompass.com/s/loisirs-tourisme-culture/15/">Loisirs, Tourisme, Culture</a>
+                                        </li>
+                                    <li>
+                                            <a id="footer_category_link[7]" href="https://dz.kompass.com/s/materiel-electrique-electronique-optique/08/">Matériel électrique, électronique, optique</a>
+                                        </li>
+                                    </ul>
+                                                <ul>
+                                            <li>
+                                            <a id="footer_category_link[8]" href="https://dz.kompass.com/s/metallurgie-mecanique-et-sous-traitance/06/">Métallurgie, mécanique et sous-traitance</a>
+                                        </li>
+                                    <li>
+                                            <a id="footer_category_link[9]" href="https://dz.kompass.com/s/negoce-grande-distribution-detaillants/13/">Négoce, grande distribution, détaillants</a>
+                                        </li>
+                                    <li>
+                                            <a id="footer_category_link[10]" href="https://dz.kompass.com/s/papier-impression-edition/07/">Papier, impression, édition</a>
+                                        </li>
+                                    <li>
+                                            <a id="footer_category_link[11]" href="https://dz.kompass.com/s/produits-mineraux/02/">Produits minéraux</a>
+                                        </li>
+                                    <li>
+                                            <a id="footer_category_link[12]" href="https://dz.kompass.com/s/services-aux-entreprises/11/">Services aux entreprises</a>
+                                        </li>
+                                    <li>
+                                            <a id="footer_category_link[13]" href="https://dz.kompass.com/s/textile-habillement-cuir-horlogerie-bijouterie/05/">Textile, Habillement, Cuir, Horlogerie, Bijouterie</a>
+                                        </li>
+                                    <li>
+                                            <a id="footer_category_link[14]" href="https://dz.kompass.com/s/transports-et-logistique/10/">Transports et logistique</a>
+                                        </li>
+                                    <li>
+                                    <a href="https://dz.kompass.com/#seoAllActivities">Toutes les activités </a>
+                                </li>
+                            </ul>
+                        <ul class="footerClassif">
+                                <li>
+                                    <a href="/selectcountry/">Notre présence dans + de 60 pays</a>
+                                </li>
+                                <li><a href="/showNomenclature/">Classification Kompass</a></li>
+                                </ul>
+                        </div>
+
+                    <div class="col-xs-12 col-sm-6 col-md-3 grid-item" style="position: absolute; left: 256px; top: 0px;">
+                            <h2>
+                                Annuaire des entreprises<span>Par région</span>
+                            </h2>
+                            <ul>
+                                <li><a href="/r/wilaya-alger/dz_dz16/">Wilaya Alger</a></li>
+                                            <li><a href="/r/wilaya-oran/dz_dz31/">Wilaya Oran</a></li>
+                                            <li><a href="/r/wilaya-bejaia/dz_dz06/">Wilaya Bejaia</a></li>
+                                            <li><a href="/r/wilaya-blida/dz_dz09/">Wilaya Blida</a></li>
+                                            <li><a href="/r/wilaya-setif/dz_dz19/">Wilaya Sétif</a></li>
+                                            <li><a href="/r/wilaya-constantine/dz_dz25/">Wilaya Constantine</a></li>
+                                            <li><a href="/r/wilaya-tizi-ouzou/dz_dz15/">Wilaya Tizi Ouzou</a></li>
+                                            <li><a href="/r/wilaya-boumerdes/dz_dz35/">Wilaya Boumerdes</a></li>
+                                            <li><a href="/r/wilaya-annaba/dz_dz23/">Wilaya Annaba</a></li>
+                                            <li><a href="/r/wilaya-ouargla/dz_dz30/">Wilaya Ouargla</a></li>
+                                            <li><a href="/r/wilaya-el-oued/dz_dz39/">Wilaya El Oued</a></li>
+                                            <li><a href="/r/wilaya-tlemcen/dz_dz13/">Wilaya Tlemcen</a></li>
+                                            <li><a href="/r/wilaya-batna/dz_dz05/">Wilaya Batna</a></li>
+                                            <li><a href="/r/wilaya-tipaza/dz_dz42/">Wilaya Tipaza</a></li>
+                                            <li><a href="/r/wilaya-bordj-bou-arreridj/dz_dz34/">Wilaya Bordj Bou Arreridj</a></li>
+                                            <li>
+                                        <a href="https://dz.kompass.com/#regions">Toutes les régions </a>
+                                    </li>
+                                </ul>
+                        </div>
+                    <div class="col-xs-12 col-sm-6 col-md-3 grid-item" style="position: absolute; left: 512px; top: 0px;">
+                            <h2>Solutions Business</h2>
+                            <ul class="footerSolution">
+                                <li><a href="https://dz.solutions.kompass.com/m/easybusiness/">EasyBusiness</a></li>
+                                <li><a href="https://dz.solutions.kompass.com/m/direct-marketing/">Marketing direct</a></li>
+                                <li><a href="https://dz.solutions.kompass.com/m/purchase-prospects-list/">EasyList</a></li>
+                                <li><a href="https://dz.solutions.kompass.com/m/booster/">Booster</a></li>
+                                <li><a href="https://dz.solutions.kompass.com/m/boosterone/">Booster One</a></li>
+                                <li><a href="https://dz.solutions.kompass.com/m/online-promotion/">Publicité en ligne</a></li>
+                                <li><a href="https://dz.solutions.kompass.com/m/reference-company/">Référencer son entreprise</a></li>
+                                <li><a href="https://dz.solutions.kompass.com/h/business-solutions/">Découvrir toutes les solutions</a></li>
+                                <li><a href="https://dz.solutions.kompass.com/q/quizz/">Quizz</a></li>
+                                </ul>
+                        </div>
+                    <div class="col-xs-12 col-sm-6 col-md-3 grid-item" style="position: absolute; left: 768px; top: 0px;">
+                        <h2>À propos</h2>
+                        <ul>
+                            <li> <a href="https://dz.solutions.kompass.com/contactus/" target="_blank" rel="noreferrer">Contactez-nous</a> </li>
+                            <li><a href="https://dz.solutions.kompass.com/m/kompass-seo-job">Fiches métiers</a></li>
+                            </ul>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <div id="footerSlogan">
+            <div class="container">
+                KOMPASS,
+                Annuaire d’entreprises et solution de prospection B2B. <br>Kompass est une filiale de KOMPASS INTERNATIONAL SA, qui publie ce site.<br>Our business solutions are exclusively reserved for professionals.</div>
+        </div>
+
+        <div id="footerSocialNetworksSecurLang">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6">
+                        <div class="socialNetworkList">
+                                <ul class="socialNetwork">
+                                    <li class="facebook">
+                                            <a href="https://www.facebook.com/KompassAlgerie" target="_blank" rel="noreferrer">
+                                                <i class="flaticonRS flaticonEbol-facebook"></i>
+                                            </a>
+                                        </li>
+                                    </ul>
+                            </div>
+                        </div>
+                    <div class="col-xs-12 col-sm-6 textRight">
+                        <div class="secur">
+                            <span class="securText hidden-xs">
+                                <i class="flaticon flaticon-security-1" aria-hidden="true"></i>
+                                <span>Paiement sécurisé</span>
+                            </span>
+                            <span class="securImg"><img data-src="//cdn2.kompass.com/_ui/desktop/theme-kompass/images/cart/cards.png" alt="Paiement carte sécurisé" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></span>
+                        </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div id="footerInfo">
+            <div class="container">
+                <ul>
+                    <li><a href="https://dz.kompass.com/l/general-conditions">Conditions générales de vente</a></li>
+                        <li><a href="https://dz.kompass.com/l/special-conditions">Conditions particulières de vente</a></li>
+                    <li><a href="https://dz.kompass.com/fr/l/terms-of-use">Conditions générales d’utilisation</a></li>
+                    <li><a href="https://dz.kompass.com/l/general data use policy">Politique d’utilisation des données personnelles</a></li>
+                    <li><a href="https://dz.kompass.com/l/cookie-use-policy">Politique d’utilisation des cookies</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+<div id="myModal" class="modal fade open" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <p>
+                        Connectez-vous</p>
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                </div>
+                <div class="modal-body">
+                    <p>
+                        Veuillez indiquer vos identifiants de connexion</p>
+                    <div class="myMiniAccountBloc">
+                        <div class="myMiniAccountBlocWrap">
+                            <form id="headerConnectionForm" class="connectionForm" action="/j_spring_security_check?redirectEbolUsers=true" method="POST" onsubmit="return checkRGPD('headerConnectionForm')"><input name="acceptRGPD" type="hidden" value="true">
+                                <div class="form_field-elements">
+                                    <div class="form_field-input">
+                                        <input type="email" name="j_username" id="username">
+                                        <label class="floating-label" for="username">
+                                            Adresse email</label>
+                                    </div>
+                                    <div class="form_field-input">
+                                        <button type="button" tabindex="-1" class="lookpwd" aria-hidden="true"><i class="fa fa-eye"></i></button>
+                                        <input type="password" name="j_password" id="password" class="password">
+                                        <label class="floating-label" for="password">
+                                            Mot de passe</label>
+                                    </div>
+                                </div>
+                                <div class="form_field-elements">
+                                    <div class="form-field-button">
+                                        <button type="submit" id="header-connexion-link" class="btn btn-nkcGreen">
+                                                Se connecter</button>
+                                        </div>
+                                    <div class="form-field-link">
+                                        <a id="home_register_link" href="https://dz.kompass.com/register/">
+                                            Créer un compte</a>
+                                        <a href="https://dz.kompass.com/login/pw/request/" class="password-forgotten">
+                                            Mot de passe oublié ?</a>
+                                    </div>
+                                </div>
+                            <div>
+<input type="hidden" name="CSRFToken" value="8c4a2db4-7d2e-4663-84b8-9c5f289b421e">
+</div></form></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <input type="hidden" id="is-rgpd-enabled" value="true">
+<input type="hidden" id="checkRGPDUrl" value="/login/checkRGPD">
+    <input type="hidden" id="shouldCheckRGPD" value="true">
+    <input type="hidden" id="refuseRGPD" value="/login?refuseRGPD=true">
+    <div id="rgpd" class="modal fade open" role="dialog">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <p>
+                        Politique générale de protection des données à caractère personnel</p>
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                </div>
+                <div class="modal-body">
+                    <p>
+                        Les données que nous collectons sont uniquement celles nécessaires à la bonne utilisation de notre service. En continuant à utiliser nos services à compter du 25 mai 2018, vous reconnaissez et acceptez la mise à jour de notre Règlement sur la protection de la vie privée et de notre Politique Cookies.</p>
+                    <div class="rgpd nkc-scrollbar">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" refuse-url="/login?refuseRGPD=true" is-rgpd="false" class="refuse-rgpd rgpd-update btn btn-nkcGreenVide">
+                        Refuser</button>
+                    <button type="button" form-id="headerConnectionForm" is-rgpd="true" class="accept-rgpd rgpd-update btn btn-nkcGreen">
+                        Accepter</button>
+                </div>
+            </div>
+        </div>
+    </div>
+<div id="grayBox" class="modal loadingImg" data-backdrop="static">
+            <div class="spinner"></div>
+        </div>
+
+        <div id="ariaStatusMsg" class="skip" role="status" aria-relevant="text" aria-live="polite"></div>
+
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+<!-- @version 1.64.2.0 -->
+        <!-- cluster.id=2 -->
+
+	
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam.nr-data.net","licenseKey":"7e5390d9e1","agent":"","beacon":"bam.nr-data.net","applicationTime":168,"applicationID":"5827792","transactionName":"YgFbZ0dUWhFQAEVcVltLakNHXFoFcgxfQUtaCFVWRxpOTUoQVFpsRwh6XEBbQBBIIF5RXEhLSxxOR1EFWAxfe1hYAUQcTkdRBVgMX3ZWUQFEEx1ycTYY","queueTime":0}</script>
+<div style="position:fixed; top:0; left:0; overflow:hidden;"><input style="position:absolute; left:-300px;" type="text" value="" id="focus_retriever" readonly="true"></div><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="display: none;"></ul><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-2" tabindex="0" style="display: none;"></ul>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1578616012202310");fbq("set","agent","tmgoogletagmanager","1578616012202310");fbq("track","PageView");</script>
+<script type="text/javascript" id="" src="//analytics.aweber.com/js/awt_analytics.js?id=8Ww7"></script><div id="cookieGuardMsg" style="bottom: 10px;"><div id="cookieGuardMsgInner"><button type="button" class="closeCookies js-closeCookies">×</button><p class="titleCookies">Utilisation des cookies</p><p>Nous utilisons des cookies pour vous offrir le meilleur service et faciliter votre navigation. En navigant sur notre site, vous acceptez l’utilisation des cookies sur votre ordinateur.</p><div class="btnCookies"><a href="#" id="showCookies">En savoir plus</a><a href="#" id="hideCookiesWarning">J’ai compris</a></div><div id="cookieList" class="nkc-scrollbar"></div></div></div><ins class="adsbygoogle adsbygoogle-noablate" data-adsbygoogle-status="done" style="display: none !important;"><ins id="aswift_0_expand" style="display:inline-table;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><ins id="aswift_0_anchor" style="display:block;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><iframe frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;border:0px;width:0px;height:0px;"></iframe></ins></ins></ins><img src="https://track2.selfcampaign.com/tag/?request_id=656b104d-912a-424c-bcd0-0d2e95521db0&amp;_auid=c76bbe894d01e73efcb5db39ccf0a3da&amp;tag=144115&amp;tags_usergroup=2633&amp;project_id=591&amp;account_id=527&amp;ipzones=&amp;pxs=&amp;_autags=T0T&amp;marked_tags=&amp;lang=C&amp;screen=1024x768&amp;screen_a=768x1024&amp;color_d=24&amp;location=https%3A//dz.kompass.com/r/wilaya-el-bayadh/dz_dz32/&amp;referrer=https%3A//dz.kompass.com/r/wilaya-el-bayadh/dz_dz32/&amp;location_utm_medium=&amp;location_utm_source=&amp;location_utm_campaign=&amp;location_utm_term=&amp;location_utm_content=&amp;title=Entreprises%20-%20Wilaya%20El%20Bayadh%20%7C%20Annuaire%20des%20entreprises%20Kompass&amp;meta_keywords=&amp;meta_description=" width="1" height="1"><img src="https://match.adsrvr.org/track/cmf/generic?ttd_pid=b2bmedia&amp;ttd_tpi=1&amp;ttd_puid=c76bbe894d01e73efcb5db39ccf0a3da" width="1" height="1"><img src="https://c1.adform.net/serving/cookie/match?party=1173" width="1" height="1"><img src="https://lib.selfcampaign.com/tag/144115/mark?t=1573332937" width="1" height="1"><iframe src="https://delivery.selfcampaign.com/tag/144115/frame?title=Entreprises%20-%20Wilaya%20El%20Bayadh%20%7C%20Annuaire%20des%20entreprises%20Kompass&amp;meta_keywords=&amp;meta_description=" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><iframe id="google_osd_static_frame_1035740652935" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe></body><iframe id="google_esf" name="google_esf" src="https://googleads.g.doubleclick.net/pagead/html/r20191106/r20190131/zrt_lookup.html#" data-ad-client="ca-pub-1212892178645284" style="display: none;"></iframe></html>

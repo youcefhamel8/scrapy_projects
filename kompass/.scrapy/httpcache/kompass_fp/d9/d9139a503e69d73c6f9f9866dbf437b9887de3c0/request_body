@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Cookie": "JSESSIONID=143D47D56EE570BC221CD2FAE1FCC5E1; ROUTEID=.5; _k_cty_lang=fr_DZ",
+        "Referer": "https://dz.kompass.com/r/wilaya-laghouat/dz_dz03/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36"
+    },
+    "url": "https://dz.kompass.com/c/mek-energie/dz255624/"
+}
