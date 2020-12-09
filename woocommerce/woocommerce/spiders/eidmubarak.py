@@ -11,7 +11,7 @@ class EidmubarakSpider(scrapy.Spider):
 
 	def start_requests(self):
 
-		for p in range(1, 5):
+		for p in range(1, 30):
 			yield scrapy.Request(
 				url=f"https://www.eidmubarak.eu/nl/10-hadiya-eidmubarak?page={p}",
 				callback=self.parse_lists
@@ -43,7 +43,7 @@ class EidmubarakSpider(scrapy.Spider):
 			'Date sale price ends': '', # data['date_upd'],
 			'Tax status': '',
 			'Tax class': '',
-			'In stock?': 1 if response.css("meta[property='product:availability'] ::attr(content)").get() == "In stock" else 0,
+			'In stock?': 1 if data['quantity'] > 0 else 0,
 			'Stock': data['quantity'],
 			'Backorders allowed?': '',
 			'Sold individually?': '',
