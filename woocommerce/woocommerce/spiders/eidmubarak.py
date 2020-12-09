@@ -11,7 +11,7 @@ class EidmubarakSpider(scrapy.Spider):
 
 	def start_requests(self):
 
-		for p in range(1, 30):
+		for p in range(1, 31):
 			yield scrapy.Request(
 				url=f"https://www.eidmubarak.eu/nl/10-hadiya-eidmubarak?page={p}",
 				callback=self.parse_lists
