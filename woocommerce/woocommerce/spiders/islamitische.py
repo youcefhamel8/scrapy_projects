@@ -10,16 +10,18 @@ class islamitischeSpider(SitemapSpider):
 	name = 'islamitische'
 	allowed_domains = ['islamitische-boekhandel.nl']
 
-	start_urls = [
-
-	]
 	sitemap_urls = [
 		'https://www.islamitische-boekhandel.nl/sitemap.xml',
 	]
 
-	# sitemap_rules = [
-	#	('/url/', 'parse'),
-	# ]
+	sitemap_rules = [
+		('/about/', 'denied'),
+		('/tag/', 'denied'),
+		('/about/', 'denied'),
+	]
+
+	def denied(self,response):
+		pass
 
 	def parse(self, response):
 		yield scrapy.Request(
@@ -29,23 +31,22 @@ class islamitischeSpider(SitemapSpider):
 	def parse_product(self, response):
 		#data = re.findall("var shopCategories =(.+?);\n", response.body.decode("utf-8"), re.S)
 		#print(data)
-
 		try:
 			yield {
 				'ID': '',
 				'Type': '',
-				#'SKU': response.css('.active > a ::attr(href)').get().split('/')[-1], 
-				#'Name': response.css("meta[property='og:title'] ::attr(content)").get(),
+				'SKU': response.css('.active > a ::attr(href)').get().split('/')[-1], 
+				'Name': response.css("meta[property='og:title'] ::attr(content)").get(),
 				'Published': '',
 				'Is featured?': '',
 				'Visibility in catalog': '',
-				#'Short description': '',
-				#'Description': response.css("meta[property='og:description'] ::attr(content)").get(),
+				'Short description': '',
+				'Description': response.css("meta[property='og:description'] ::attr(content)").get(),
 				'Date sale price starts': '',#resp.get('date_add'),
 				'Date sale price ends': '',#resp.get('date_upd'),
 				'Tax status': '',
 				'Tax class': '',
-				#'In stock?': 1 if response.css('.stock ::text').get() else 0,
+				'In stock?': 1 if response.css('.stock ::text').get() else 0,
 				'Stock':'',
 				'Backorders allowed?': '',
 				'Sold individually?': '',
@@ -55,19 +56,19 @@ class islamitischeSpider(SitemapSpider):
 				'Height (in)': '',
 				'Allow customer reviews?': '',
 				'Purchase note': '',
-				#'Sale price': response.css('.price > .new-price ::text').get(),
-				#'Regular price': response.css('.price > .old-price ::text').get(),
+				'Sale price': response.css('.price > .new-price ::text').get(),
+				'Regular price': response.css('.price > .old-price ::text').get(),
 				'Categories': '/'.join(response.css('.breadcrumbs ::text').getall()[1:-1]),
-				#'Tags': response.css("meta[name='keywords'] ::attr(content)").get() ,
+				'Tags': response.css("meta[name='keywords'] ::attr(content)").get() ,
 				'Shipping class': '',
-				#'Images': response.css("meta[property='og:image'] ::attr(content)").getall(),
+				'Images': response.css("meta[property='og:image'] ::attr(content)").getall(),
 				'Download limit': '',
 				'Download expiry days': '',
 				'Parent': '',
 				'Grouped products': '',
 				'Upsells': '',
 				'Cross-sells': '',
-				#'External URL': response.url,
+				'External URL': response.url,
 				'Button text': '',
 				'Position': '',
 				'Attribute 1 name': '',
