@@ -1,0 +1,7 @@
+************* Module woocommerce.spiders.islamitische
+islamitische.py:22:4: W0221: Parameters differ from overridden 'parse' method (arguments-differ)
+islamitische.py:89:15: W0703: Catching too general exception Exception (broad-except)
+
+-------------------------------------------------------------------
+Your code has been rated at 8.18/10 (previous run: 10.00/10, -1.82)
+
