@@ -3,9 +3,10 @@
 """
 This module scrape https://www.islamitische-boekhandel.nl.
 """
-#from scrapy import Spider
-#from scrapy import Request
+# from scrapy import Spider
+# from scrapy import Request
 from scrapy.spiders import SitemapSpider
+
 
 class IslamitischeSpider(SitemapSpider):
     """sitemaps scraper
@@ -29,20 +30,24 @@ class IslamitischeSpider(SitemapSpider):
                 yield {
                     'ID': '',
                     'Type': '',
-                    'SKU': response.css('.active > a ::attr(href)').get().split('/')[-1],
-                    'Name': response.css("meta[property='og:title'] ::attr(content)").get(),
+                    'SKU': response.css(
+                        '.active > a ::attr(href)').get().split('/')[-1],
+                    'Name': response.css(
+                        "meta[property='og:title'] ::attr(content)").get(),
                     'Published': '',
                     'Is featured?': '',
                     'Visibility in catalog': '',
                     'Short description': '',
                     'Description': response.css(
-                        "meta[property='og:description'] ::attr(content)").get(),
-                    'Date sale price starts': '',#resp.get('date_add'),
-                    'Date sale price ends': '',#resp.get('date_upd'),
+                        "meta[property='og:description'] ::attr(content)").
+                    get(),
+                    'Date sale price starts': '',  # resp.get('date_add'),
+                    'Date sale price ends': '',  # resp.get('date_upd'),
                     'Tax status': '',
                     'Tax class': '',
-                    'In stock?': 1 if response.css('.stock ::text').get() else 0,
-                    'Stock':'',
+                    'In stock?': 1 if response.css(
+                        '.stock ::text').get() else 0,
+                    'Stock': '',
                     'Backorders allowed?': '',
                     'Sold individually?': '',
                     'Weight (lbs)': '',
@@ -51,11 +56,15 @@ class IslamitischeSpider(SitemapSpider):
                     'Height (in)': '',
                     'Allow customer reviews?': '',
                     'Purchase note': '',
-                    'Sale price': response.css(
-                        '.price > .new-price ::text').get().replace(',', '.').replace('€', ''),
+                    'Sale price': response.css('.price > .new-price ::text').
+                    get().replace(',', '.').
+                    replace('€', ''),
                     'Regular price': response.css(
-                        '.price > .old-price ::text').get().replace(',', '.').replace('€', ''),
-                    'Categories': '/'.join(response.css('.breadcrumbs ::text').getall()[1:-1]),
+                        '.price > .old-price ::text').
+                    get().replace(',', '.').
+                    replace('€', ''),
+                    'Categories': '/'.join(response.css('.breadcrumbs ::text').
+                                           getall()[1:-1]),
                     'Tags': response.css(
                         "meta[name='keywords'] ::attr(content)").get(),
                     'Shipping class': '',
