@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f692906-86be-42a2-acc3-1bebc48efca1" name="Default Changelist" comment="Revert &quot;new website&quot;&#10;&#10;This reverts commit 07c2e822d44d11c34e4991d19676f38fa0ff2de4.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/spiders/crunchbase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/spiders/postman.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crunchbase/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crunchbase/crunchbase/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/crunchbase/crunchbase/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/crunchbase/spiders/crunchbase.py" beforeDir="false" afterPath="$PROJECT_DIR$/crunchbase/crunchbase/spiders/crunchbase.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +13,13 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="scrapy_projects" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,8 +40,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/crunchbase/crunchbase/spiders" />
     <property name="settings.editor.selected.configurable" value="MTCustomThemeConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/crunchbase/crunchbase/spiders" />
+      <recent name="$PROJECT_DIR$/crunchbase/crunchbase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/crunchbase/crunchbase/spiders" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.crunchbase">
     <configuration name="crunchbase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
