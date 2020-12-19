@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f692906-86be-42a2-acc3-1bebc48efca1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/woocommerce/woocommerce/spiders/data/draft/islamitische.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crunchbase/crunchbase/spiders/crunchbase.py" beforeDir="false" afterPath="$PROJECT_DIR$/crunchbase/crunchbase/spiders/crunchbase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/woocommerce/woocommerce/spiders/islamitische.py" beforeDir="false" afterPath="$PROJECT_DIR$/woocommerce/woocommerce/spiders/islamitische.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/woocommerce/woocommerce/spiders/sunnah.py" beforeDir="false" afterPath="$PROJECT_DIR$/woocommerce/woocommerce/spiders/sunnah.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/spiders/crunchbase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/spiders/postman.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/project.egg-info/PKG-INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/project.egg-info/SOURCES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/project.egg-info/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/project.egg-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/project.egg-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/scrapinghub.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/setup.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +121,10 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="421" y="65" key="#crunchbase/0.25.1440.875@0.25.1440.875" timestamp="1608407188814" />
+    <state x="351" y="0" key="CommitChangelistDialog2" timestamp="1608415875906">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="351" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1608415875906" />
     <state x="582" y="166" key="FileChooserDialogImpl" timestamp="1608409485718">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
@@ -147,13 +162,13 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="399" y="291" key="com.intellij.ide.util.TipDialog/0.25.1440.875@0.25.1440.875" timestamp="1608413288914" />
-    <state x="508" y="366" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608415535905">
+    <state x="508" y="366" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608416107884">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="508" y="366" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1608415535905" />
-    <state x="31" y="85" key="git4idea.branch.GitSmartOperationDialog" timestamp="1608414830227">
+    <state x="508" y="366" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1608416107884" />
+    <state x="31" y="85" key="git4idea.branch.GitSmartOperationDialog" timestamp="1608415912837">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="31" y="85" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.900@0.0.1440.900" timestamp="1608414830227" />
+    <state x="31" y="85" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.900@0.0.1440.900" timestamp="1608415912837" />
   </component>
 </project>
