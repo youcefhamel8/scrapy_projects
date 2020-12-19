@@ -10,5 +10,16 @@ import scrapy
 
 class CrunchbaseItem(scrapy.Item):
     # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+    name = scrapy.Field()
+    current_jobs = scrapy.Field()
+    social_urls = scrapy.Field()
+    education = scrapy.Field()
+    description = scrapy.Field()
+    location = scrapy.Field()
+    gender = scrapy.Field()
+    title_job = scrapy.Field()
+    rank = scrapy.Field()
+    region = scrapy.Field()
+    investor_type = scrapy.Field()
+    url = scrapy.Field()
+    crunch_id = scrapy.Field()
