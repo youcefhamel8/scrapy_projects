@@ -163,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608419821519</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Delete build, scrapinghub&#10;&#10;This reverts commit 07c2e822d44d11c34e4991d19676f38fa0ff2de4.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1608420140431</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608420140431</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -189,7 +196,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Revert &quot;new website&quot;&#10;&#10;This reverts commit 07c2e822d44d11c34e4991d19676f38fa0ff2de4.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;new website&quot;&#10;&#10;This reverts commit 07c2e822d44d11c34e4991d19676f38fa0ff2de4.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Delete build, scrapinghub&#10;&#10;This reverts commit 07c2e822d44d11c34e4991d19676f38fa0ff2de4.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete build, scrapinghub&#10;&#10;This reverts commit 07c2e822d44d11c34e4991d19676f38fa0ff2de4.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="112" width="800" height="723" key="#Intentions" timestamp="1608414515019">
@@ -204,11 +212,11 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="421" y="65" key="#crunchbase/0.25.1440.875@0.25.1440.875" timestamp="1608407188814" />
-    <state x="351" y="25" key="CommitChangelistDialog2" timestamp="1608419821182">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state x="351" y="0" key="CommitChangelistDialog2" timestamp="1608420821306">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="351" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1608415875906" />
-    <state x="351" y="25" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1608419821182" />
+    <state x="351" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1608420821306" />
+    <state x="351" y="25" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1608420161512" />
     <state x="582" y="166" key="FileChooserDialogImpl" timestamp="1608409485718">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
