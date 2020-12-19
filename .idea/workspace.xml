@@ -17,6 +17,7 @@
     <list id="08dd5e9e-5cef-4ad5-89f2-c0250e3517f7" name="delete build" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <list default="true" id="4f692906-86be-42a2-acc3-1bebc48efca1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -216,6 +217,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="351" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1608420821306" />
+    <state x="351" y="25" key="CommitChangelistDialog2" timestamp="1608420161512">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="351" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1608415875906" />
     <state x="351" y="25" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1608420161512" />
     <state x="582" y="166" key="FileChooserDialogImpl" timestamp="1608409485718">
       <screen x="0" y="25" width="1440" height="875" />
