@@ -1,0 +1,14 @@
+setup.py
+crunchbase/__init__.py
+crunchbase/items.py
+crunchbase/middlewares.py
+crunchbase/pipelines.py
+crunchbase/settings.py
+crunchbase/spiders/__init__.py
+crunchbase/spiders/crunchbase.py
+crunchbase/spiders/postman.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
