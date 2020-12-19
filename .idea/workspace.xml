@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f692906-86be-42a2-acc3-1bebc48efca1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/items.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/middlewares.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/pipelines.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/spiders/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/spiders/crunchbase.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/spiders/postman.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crunchbase/project.egg-info/PKG-INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crunchbase/project.egg-info/SOURCES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crunchbase/project.egg-info/dependency_links.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crunchbase/project.egg-info/entry_points.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crunchbase/project.egg-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crunchbase/scrapinghub.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crunchbase/setup.py" beforeDir="false" />
+    <list default="true" id="4f692906-86be-42a2-acc3-1bebc48efca1" name="Default Changelist" comment="Revert &quot;new website&quot;&#10;&#10;This reverts commit 07c2e822d44d11c34e4991d19676f38fa0ff2de4.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/spiders/crunchbase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/spiders/postman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/crunchbase/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/crunchbase/crunchbase/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="scrapy_projects" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -108,6 +106,16 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="320" y="112" width="800" height="723" key="#Intentions" timestamp="1608414515019">
       <screen x="0" y="0" width="1440" height="900" />
@@ -121,10 +129,11 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="421" y="65" key="#crunchbase/0.25.1440.875@0.25.1440.875" timestamp="1608407188814" />
-    <state x="351" y="0" key="CommitChangelistDialog2" timestamp="1608415875906">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="351" y="25" key="CommitChangelistDialog2" timestamp="1608419167310">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="351" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1608415875906" />
+    <state x="351" y="25" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1608419167310" />
     <state x="582" y="166" key="FileChooserDialogImpl" timestamp="1608409485718">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
@@ -158,6 +167,14 @@
     </state>
     <state x="64" y="52" width="1135" height="728" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1608414787354" />
     <state x="64" y="76" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1608413258765" />
+    <state x="84" y="88" width="1240" height="675" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1608419139951">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="84" y="88" width="1240" height="675" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.25.1440.875@0.25.1440.875" timestamp="1608419139951" />
+    <state x="100" y="138" width="1240" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1608419139951">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="100" y="138" width="1240" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1440.875@0.25.1440.875" timestamp="1608419139951" />
     <state x="399" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1608413288914">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
