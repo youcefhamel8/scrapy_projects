@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f692906-86be-42a2-acc3-1bebc48efca1" name="Default Changelist" comment="">
+    <list default="true" id="4f692906-86be-42a2-acc3-1bebc48efca1" name="Default Changelist" comment="Delete build, scrapinghub&#10;&#10;This reverts commit 07c2e822d44d11c34e4991d19676f38fa0ff2de4.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/spiders/crunchbase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/spiders/postman.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/crunchbase/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/crunchbase/crunchbase/settings.py" afterDir="false" />
+    </list>
+    <list id="08dd5e9e-5cef-4ad5-89f2-c0250e3517f7" name="delete build" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +49,22 @@
         <option value="$PROJECT_DIR$/.idea" />
       </set>
     </option>
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/.idea/workspace.xml">
+      <ranges>
+        <range start1="3" end1="4" start2="3" end2="12" changelist="4f692906-86be-42a2-acc3-1bebc48efca1" />
+        <range start1="5" end1="5" start2="13" end2="17" changelist="4f692906-86be-42a2-acc3-1bebc48efca1" />
+        <range start1="39" end1="39" start2="51" end2="67" changelist="4f692906-86be-42a2-acc3-1bebc48efca1" />
+        <range start1="117" end1="117" start2="145" end2="146" changelist="4f692906-86be-42a2-acc3-1bebc48efca1" />
+        <range start1="136" end1="137" start2="165" end2="173" changelist="08dd5e9e-5cef-4ad5-89f2-c0250e3517f7" />
+        <range start1="162" end1="163" start2="198" end2="200" changelist="08dd5e9e-5cef-4ad5-89f2-c0250e3517f7" />
+        <range start1="177" end1="178" start2="214" end2="215" changelist="08dd5e9e-5cef-4ad5-89f2-c0250e3517f7" />
+        <range start1="181" end1="182" start2="218" end2="219" changelist="08dd5e9e-5cef-4ad5-89f2-c0250e3517f7" />
+        <range start1="215" end1="216" start2="252" end2="257" changelist="4f692906-86be-42a2-acc3-1bebc48efca1" />
+        <range start1="218" end1="219" start2="259" end2="260" changelist="4f692906-86be-42a2-acc3-1bebc48efca1" />
+      </ranges>
+    </file>
   </component>
   <component name="ProjectId" id="1lt8NigOz5Wf2WKNaLFNYcUWD3N" />
   <component name="ProjectViewState">
@@ -115,6 +143,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4f692906-86be-42a2-acc3-1bebc48efca1" name="Default Changelist" comment="" />
+      <changelist id="08dd5e9e-5cef-4ad5-89f2-c0250e3517f7" name="delete build" comment="" />
       <created>1608404989489</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -213,10 +242,14 @@
     </state>
     <state x="64" y="52" width="1135" height="728" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1608414787354" />
     <state x="64" y="76" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1608413258765" />
-    <state x="84" y="88" width="1240" height="675" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1608419139951">
+    <state x="572" y="387" key="VCS.ChangelistChooser" timestamp="1608420301461">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="84" y="88" width="1240" height="675" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.25.1440.875@0.25.1440.875" timestamp="1608419139951" />
+    <state x="572" y="387" key="VCS.ChangelistChooser/0.25.1440.875@0.25.1440.875" timestamp="1608420301461" />
+    <state x="84" y="88" width="1240" height="675" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1608420439347">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="84" y="88" width="1240" height="675" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.25.1440.875@0.25.1440.875" timestamp="1608420439347" />
     <state x="100" y="138" width="1240" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1608419139951">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
