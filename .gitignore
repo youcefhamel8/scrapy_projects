@@ -1,2 +1,3 @@
 .DS_Store
 crunchbase/crunchbase/spiders/.DS_Store
+*.pyc
