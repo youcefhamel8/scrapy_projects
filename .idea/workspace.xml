@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f692906-86be-42a2-acc3-1bebc48efca1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crunchbase/crunchbase/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/crunchbase/crunchbase/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crunchbase/crunchbase/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/crunchbase/crunchbase/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608419586857</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Revert &quot;new website&quot;&#10;&#10;This reverts commit 07c2e822d44d11c34e4991d19676f38fa0ff2de4.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1608419821519</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608419821519</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -169,11 +175,11 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="421" y="65" key="#crunchbase/0.25.1440.875@0.25.1440.875" timestamp="1608407188814" />
-    <state x="351" y="25" key="CommitChangelistDialog2" timestamp="1608419586533">
+    <state x="351" y="25" key="CommitChangelistDialog2" timestamp="1608419821182">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="351" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1608415875906" />
-    <state x="351" y="25" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1608419586533" />
+    <state x="351" y="25" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1608419821182" />
     <state x="582" y="166" key="FileChooserDialogImpl" timestamp="1608409485718">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
