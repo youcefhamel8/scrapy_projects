@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f692906-86be-42a2-acc3-1bebc48efca1" name="Default Changelist" comment="Delete build, scrapinghub&#10;&#10;This reverts commit 07c2e822d44d11c34e4991d19676f38fa0ff2de4.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/spiders/crunchbase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crunchbase/build/lib/crunchbase/spiders/postman.py" afterDir="false" />
+    <list default="true" id="4f692906-86be-42a2-acc3-1bebc48efca1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scrapy_projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scrapy_projects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/crunchbase/chromedriver_mac64.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/crunchbase/crunchbase/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/crunchbase/crunchbase/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/crunchbase/spiders/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/crunchbase/spiders/crunchbase.py" beforeDir="false" afterPath="$PROJECT_DIR$/crunchbase/crunchbase/spiders/crunchbase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/crunchbase/spiders/draft/crunch.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ouedkniss/ouedkniss/spiders/ouedkniss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/crunchbase/spiders/draft/crunchbase.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/crunchbase/spiders/draft/crunchbase.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/crunchbase/spiders/draft/names.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/crunchbase/spiders/draft/people.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/crunchbase/spiders/draft/titles.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/crunchbase/spiders/postman.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crunchbase/crunchbase/spiders/user-agent.txt" beforeDir="false" />
     </list>
-    <list id="08dd5e9e-5cef-4ad5-89f2-c0250e3517f7" name="delete build" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
-    <list default="true" id="4f692906-86be-42a2-acc3-1bebc48efca1" name="Default Changelist" comment="" />
+    <list id="08dd5e9e-5cef-4ad5-89f2-c0250e3517f7" name="delete build" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,22 +52,6 @@
       </set>
     </option>
   </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/.idea/workspace.xml">
-      <ranges>
-        <range start1="3" end1="4" start2="3" end2="12" changelist="4f692906-86be-42a2-acc3-1bebc48efca1" />
-        <range start1="5" end1="5" start2="13" end2="17" changelist="4f692906-86be-42a2-acc3-1bebc48efca1" />
-        <range start1="39" end1="39" start2="51" end2="67" changelist="4f692906-86be-42a2-acc3-1bebc48efca1" />
-        <range start1="117" end1="117" start2="145" end2="146" changelist="4f692906-86be-42a2-acc3-1bebc48efca1" />
-        <range start1="136" end1="137" start2="165" end2="173" changelist="08dd5e9e-5cef-4ad5-89f2-c0250e3517f7" />
-        <range start1="162" end1="163" start2="198" end2="200" changelist="08dd5e9e-5cef-4ad5-89f2-c0250e3517f7" />
-        <range start1="177" end1="178" start2="214" end2="215" changelist="08dd5e9e-5cef-4ad5-89f2-c0250e3517f7" />
-        <range start1="181" end1="182" start2="218" end2="219" changelist="08dd5e9e-5cef-4ad5-89f2-c0250e3517f7" />
-        <range start1="215" end1="216" start2="252" end2="257" changelist="4f692906-86be-42a2-acc3-1bebc48efca1" />
-        <range start1="218" end1="219" start2="259" end2="260" changelist="4f692906-86be-42a2-acc3-1bebc48efca1" />
-      </ranges>
-    </file>
-  </component>
   <component name="ProjectId" id="1lt8NigOz5Wf2WKNaLFNYcUWD3N" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -74,9 +59,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/crunchbase/crunchbase" />
-    <property name="settings.editor.selected.configurable" value="MTCustomThemeConfigurable" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -171,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608420140431</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="somm cleanin stuff&#10;&#10;This reverts commit 07c2e822d44d11c34e4991d19676f38fa0ff2de4.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1608420821702</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608420821702</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -189,7 +182,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -198,25 +193,38 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Revert &quot;new website&quot;&#10;&#10;This reverts commit 07c2e822d44d11c34e4991d19676f38fa0ff2de4.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Delete build, scrapinghub&#10;&#10;This reverts commit 07c2e822d44d11c34e4991d19676f38fa0ff2de4.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delete build, scrapinghub&#10;&#10;This reverts commit 07c2e822d44d11c34e4991d19676f38fa0ff2de4.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="somm cleanin stuff&#10;&#10;This reverts commit 07c2e822d44d11c34e4991d19676f38fa0ff2de4.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="somm cleanin stuff&#10;&#10;This reverts commit 07c2e822d44d11c34e4991d19676f38fa0ff2de4.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="112" width="800" height="723" key="#Intentions" timestamp="1608414515019">
+    <state x="320" y="112" key="#Inspections" timestamp="1608424209328">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="112" width="800" height="723" key="#Intentions/0.0.1440.900@0.0.1440.900" timestamp="1608414515019" />
+    <state x="320" y="112" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1608424209328" />
+    <state x="320" y="112" width="800" height="771" key="#Intentions" timestamp="1608424024929">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="112" width="800" height="771" key="#Intentions/0.0.1440.900@0.0.1440.900" timestamp="1608424024929" />
+    <state x="0" y="0" key="#Plugins" timestamp="1608424005311">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="0" y="0" key="#Plugins/0.0.1440.900@0.0.1440.900" timestamp="1608424005311" />
     <state x="181" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608408870735">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="181" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875@0.25.1440.875" timestamp="1608408870735" />
+    <state x="533" y="170" key="#com.intellij.ide.util.MemberChooser" timestamp="1608423626013">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="170" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1608423626013" />
+    <state x="391" y="165" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1608492757328">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="391" y="165" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.25.1440.875@0.25.1440.875" timestamp="1608492757328" />
     <state x="421" y="65" key="#crunchbase" timestamp="1608407188814">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="421" y="65" key="#crunchbase/0.25.1440.875@0.25.1440.875" timestamp="1608407188814" />
-    <state x="351" y="0" key="CommitChangelistDialog2" timestamp="1608420821306">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="351" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1608420821306" />
     <state x="351" y="25" key="CommitChangelistDialog2" timestamp="1608420161512">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
@@ -226,22 +234,22 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="582" y="166" key="FileChooserDialogImpl/0.25.1440.875@0.25.1440.875" timestamp="1608409485718" />
-    <state width="1379" height="334" key="GridCell.Tab.0.bottom" timestamp="1608413260421">
+    <state width="1293" height="184" key="GridCell.Tab.0.bottom" timestamp="1608478758770">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1379" height="334" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1608413260421" />
-    <state width="1379" height="334" key="GridCell.Tab.0.center" timestamp="1608413260420">
+    <state width="1293" height="184" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1608478758770" />
+    <state width="1293" height="184" key="GridCell.Tab.0.center" timestamp="1608478758769">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1379" height="334" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1608413260420" />
-    <state width="1379" height="334" key="GridCell.Tab.0.left" timestamp="1608413260419">
+    <state width="1293" height="184" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1608478758769" />
+    <state width="1293" height="184" key="GridCell.Tab.0.left" timestamp="1608478758767">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1379" height="334" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1608413260419" />
-    <state width="1379" height="334" key="GridCell.Tab.0.right" timestamp="1608413260421">
+    <state width="1293" height="184" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1608478758767" />
+    <state width="1293" height="184" key="GridCell.Tab.0.right" timestamp="1608478758770">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1379" height="334" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1608413260421" />
+    <state width="1293" height="184" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1608478758770" />
     <state x="0" y="0" key="MergeDialog" timestamp="1608415586926">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -250,11 +258,11 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="428" y="161" key="MultipleFileMergeDialog/0.25.1440.875@0.25.1440.875" timestamp="1608415587018" />
-    <state x="64" y="52" width="1135" height="728" key="SettingsEditor" timestamp="1608414787354">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="64" y="76" width="1135" height="728" key="SettingsEditor" timestamp="1608498920713">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="64" y="52" width="1135" height="728" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1608414787354" />
-    <state x="64" y="76" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1608413258765" />
+    <state x="64" y="76" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1608498920713" />
     <state x="572" y="387" key="VCS.ChangelistChooser" timestamp="1608420301461">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
@@ -267,17 +275,25 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="100" y="138" width="1240" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1440.875@0.25.1440.875" timestamp="1608419139951" />
-    <state x="399" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1608413288914">
+    <state x="292" y="268" width="773" height="497" key="com.intellij.ide.util.TipDialog" timestamp="1608492978604">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="399" y="291" key="com.intellij.ide.util.TipDialog/0.25.1440.875@0.25.1440.875" timestamp="1608413288914" />
-    <state x="508" y="366" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608416107884">
+    <state x="292" y="268" width="773" height="497" key="com.intellij.ide.util.TipDialog/0.25.1440.875@0.25.1440.875" timestamp="1608492978604" />
+    <state x="508" y="366" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608421070638">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="508" y="366" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1608416107884" />
+    <state x="508" y="366" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1608421070638" />
+    <state x="210" y="71" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1608475612083">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="210" y="71" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1440.875@0.25.1440.875" timestamp="1608475612083" />
     <state x="31" y="85" key="git4idea.branch.GitSmartOperationDialog" timestamp="1608415912837">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="31" y="85" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.900@0.0.1440.900" timestamp="1608415912837" />
+    <state width="600" height="440" key="javadoc.popup" timestamp="1608503283231">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="600" height="440" key="javadoc.popup/0.25.1440.875@0.25.1440.875" timestamp="1608503283231" />
   </component>
 </project>

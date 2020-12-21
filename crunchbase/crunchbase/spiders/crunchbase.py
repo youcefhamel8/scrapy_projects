@@ -1,8 +1,9 @@
 #! /usr/bin/env python3
 # coding: utf-8
 
-"""CRUNCHBASE
+"""Crunchbase
 """
+
 from scrapy.spiders import SitemapSpider
 from ..items import CrunchbaseItem
 
@@ -10,16 +11,22 @@ from ..items import CrunchbaseItem
 class PersonSpider(SitemapSpider):
     name = "personnes"
 
-    sitemap_urls = [f"https://www.crunchbase.com/www-sitemaps/sitemap-people-" + str(i) + ".xml.gz" for i in
-                    range(0, 23)]
+    # sitemap_urls = [
+    #    f"https://www.crunchbase.com/www-sitemaps/sitemap-people-{i}.xml.gz" for i in range(0, 23)
+    # ]
+
+    sitemap_urls = ["https://www.crunchbase.com/www-sitemaps/sitemap-people-0.xml.gz"]
+    #for i in range(0, 23):
+    #    sitemap_urls.append("https://www.crunchbase.com/www-sitemaps/sitemap-people-" + str(i) + ".xml.gz")
 
     sitemap_rules = [('', 'parse')]
 
     def parse(self, response):
+        print(response.request.headers['User-Agent'])
         personne = CrunchbaseItem()
         personne['url'] = response.url
         personne['crunch_id'] = response.url.split('/')[-1]
-        personne['name'] = response.css('.profile-name ::text').get()
+        personne['name'] = response.css('.profile-name ::text').extract_first()
         personne['current_jobs'] = self.get_cards(response, "jobs")
         personne['social_urls'] = {
             'linkedin': response.xpath(
@@ -31,7 +38,7 @@ class PersonSpider(SitemapSpider):
         }
         personne['education'] = self.get_cards(response, "education")
         personne['description'] = response.css(
-            '.description.has-overflow ::text').get()
+            '.description.has-overflow ::text').extract_first()
         personne['location'] = response.xpath(
             "//*[contains(.//span/span/text(), 'Location')]/following-sibling::field-formatter//a/@title").getall()
         personne['region'] = response.xpath(
@@ -47,9 +54,17 @@ class PersonSpider(SitemapSpider):
         yield personne
 
     def get_cards(self, response, id):  # id : education or jobs
-        res = {}
-        for i in response.xpath(f"//*[contains(@id, '{id}')]/following-sibling::section-card//li"):
-            res[i.css('a::text').get()] = i.css(
-                'field-formatter ::text').getall()
+        """
+        get all li as cards ad return result as dict
+        @param response:
+        @param id:
+        @return: dictionary {key : details }
+        """
 
+        res = {}
+        # for i in response.xpath(f"//*[contains(@id, '{id}')]/following-sibling::section-card//li"):
+        for i in response.xpath("//*[contains(@id, '" + str(id) + "')]/following-sibling::section-card//li"):
+            res[i.css('a::text').get()] = i.css(
+                'field-formatter ::text').extract()
         return res
+
